@@ -708,7 +708,7 @@ Aボタンで強いストロボ光をはなち　その
 Use the A Button to emit a powerful, ghost-scaring light. Charge it up to increase the area it affects. 
 ------     译文     ------
 按住A键可以蓄力强光，
-鬼怪受到这种光照时会定住。
+鬼怪受到光照时会定住。
 按键时间越长光照面积越大。
 ========== 结束 ==========
 
@@ -998,8 +998,8 @@ Go to the hidden mansion for a greater challenge.
 ------     参考     ------
 Practice your ghost catching. 
 ------     译文     ------
-练习捕捉鬼怪的方法。
-
+练习捕捉
+鬼怪的方法。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -1859,7 +1859,7 @@ The hidden mansion
 ------     参考     ------
 New High Score! 
 ------     译文     ------
-最佳分数更新！
+最好成绩更新！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -1879,7 +1879,7 @@ Most Recent Score
 ------     参考     ------
 High Score 
 ------     译文     ------
-最佳分数
+最好成绩
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -2889,7 +2889,7 @@ You've found:
 ------     参考     ------
 Highest Record 
 ------     译文     ------
-最佳分数的综合记录
+最好成绩的综合记录
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -2969,7 +2969,7 @@ This area's record
 ------     参考     ------
 Area's highest score 
 ------     译文     ------
-最佳分数的区域记录
+最好成绩的区域记录
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -3070,7 +3070,7 @@ Quit Training
 ------     参考     ------
 Quit training and return to the Lab. 
 ------     译文     ------
-结束训练
+将结束训练
 返回实验室。
 ========== 结束 ==========
 
@@ -4971,7 +4971,7 @@ I'm...so very...blue...
 Well, this is about all I can do for you, but... 
 ------     译文     ------
 在下能帮得上忙的事情
-大概也只有这么一些了…（）
+大概也只有这么一些了…
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -4981,7 +4981,7 @@ Well, this is about all I can do for you, but...
 ------     参考     ------
 Huh? Luigi ? 
 ------     译文     ------
-嗯？　[控]路易吉[控]…さ嗯？
+嗯？　[控]路易吉[控]…先生？
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -4994,10 +4994,10 @@ Huh? Luigi ?
 ------     参考     ------
 I wish I could do something to help you.. Wait! I've got it! At least let me do this... 
 ------     译文     ------
-ああ　なにか　わたくしも
-おやくにたちたいです…
-そうだ！　せめて
-これぐらいのことは　させてください。　
+在下也希望有什么
+能够帮上您的…
+对了！
+至少请让我为您做这个吧。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5007,7 +5007,7 @@ I wish I could do something to help you.. Wait! I've got it! At least let me do 
 ------     参考     ------
 Talk to me for help anytime! 
 ------     译文     ------
-いつでも　わたくしに　はなしかけてください！
+什么时候和我说话都可以！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5020,10 +5020,10 @@ Talk to me for help anytime!
 ------     参考     ------
  Luigi ! A Boo! There was this big Boo flying around here! Be extra careful! 
 ------     译文     ------
-ル[控]　路易吉[控]さん
-テ…嘘嘘鬼です！
-嘘嘘鬼が　とびまわって　いたんです。
-きをつけて！
+路、[控]路易吉[控]先生
+是嘘…嘘嘘鬼！
+嘘嘘鬼正在到处飞来飞去。
+请小心啊！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5034,8 +5034,8 @@ Talk to me for help anytime!
 ------     参考     ------
 Ohhh, that blackout was scary! I'm so glad the lights came back on! Phew! 
 ------     译文     ------
-ふぅ　ていでんは　こわかったです……
-あかるくなって　ほんとに　太好了です！
+呼，停电真的是太可怕了……
+有光了真的是太好了！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5045,7 +5045,7 @@ Ohhh, that blackout was scary! I'm so glad the lights came back on! Phew!
 ------     参考     ------
 Hey! Wanna play with me? 
 ------     译文     ------
-ヨォ！　オレと　あそばねえか…？
+哟！想和俺一起玩吗…？
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5056,8 +5056,8 @@ Hey! Wanna play with me?
 ------     参考     ------
 If there's anything I can do... 
 ------     译文     ------
-わたくしに　おやくにたてることと
-いったら…
+如果有什么是
+在下可以做的…
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5069,9 +5069,9 @@ If there's anything I can do...
 ------     参考     ------
 Waaaah! Waaaah! Mario , where are you? WAAAAH! 
 ------     译文     ------
-エーン　エーン
-[控]马力欧[控]さん　どこ　いっちゃったんですか～？
-エーン　エーン…
+哇哇哇
+[控]马力欧[控]先生去哪里了啊～？
+哇哇哇
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5083,7 +5083,7 @@ Waaaah! Waaaah! Mario , where are you? WAAAAH!
 Huh? Luigi ? 
 ------     译文     ------
 嗯？
-[控]路易吉[控]…さ嗯？
+[控]路易吉[控]…先生？
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5096,10 +5096,10 @@ Huh? Luigi ?
 ------     参考     ------
 Yes! Luigi ! How lucky that you found me! I feel so much better now! 
 ------     译文     ------
-わああ～っ
-やっぱり　[控]路易吉[控]さんだ～！
-こんな顺便一提　あえるなんて…
-きぶんは　ほんのり　バラいろです！
+哇啊啊
+果然是[控]路易吉[控]先生啊～！
+在这个地方遇到了您…
+心情变得好一些了！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5111,9 +5111,9 @@ Yes! Luigi ! How lucky that you found me! I feel so much better now!
 ------     参考     ------
 Please, please, PLEASE save Mario ! I looked everywhere! I can't find him! Where is he? 
 ------     译文     ------
-おねがいです　[控]马力欧[控]さんを　さがして！
-どこを　さがしても　いないんです。
-ああ　[控]马力欧[控]さんは　いま　いずこ……
+拜托您搜寻一下[控]马力欧[控]先生！
+我到处都找遍了也没找到。
+啊啊，[控]马力欧[控]先生现在在哪里呢……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5123,7 +5123,7 @@ Please, please, PLEASE save Mario ! I looked everywhere! I can't find him! Where
 ------     参考     ------
 Ow! You gave me an owie! 
 ------     译文     ------
-いて～っ　ばぶー！
+哎呀～好疼啊！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5135,9 +5135,9 @@ Ow! You gave me an owie!
 ------     参考     ------
 I just wanted to play with you... I HATE grown-ups! 
 ------     译文     ------
-せっかく　あそんでやろうと
-おもってたのに…
-だから　おとなって　きらいなんだよー！
+我只是想和你
+一起玩…
+所以我才讨厌大人！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5151,7 +5151,7 @@ I just wanted to play with you... I HATE grown-ups!
 ------     译文     ------
 ……
 ……
-[控]ちいさくなーれー[控]。
+[控]变小吧[控]。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5164,10 +5164,10 @@ I just wanted to play with you... I HATE grown-ups!
 ------     参考     ------
 Small! Itsy! Tiny! Little! Wee! Ga ga goo goo GA! 
 ------     译文     ------
-ちいさく
-ちいさく
-ちいさくなーれー！
-…ばぶ　びぶ　ぶばっ！
+变小
+变小
+变小吧！
+…巴布比不巴布！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5178,8 +5178,8 @@ Small! Itsy! Tiny! Little! Wee! Ga ga goo goo GA!
 ------     参考     ------
 ... Why do you have to be bigger than meeee? I've had enough! 
 ------     译文     ------
-…だいたい　なんで　オレより
-おおきいんだぁー？　きにいらない～！
+…究竟是为什么
+你比我大？我很生气！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5190,8 +5190,8 @@ Small! Itsy! Tiny! Little! Wee! Ga ga goo goo GA!
 ------     参考     ------
 WHO put out my candles?! YOU, Mr. Lime-Green? 
 ------     译文     ------
-この　ろうそくの　火を　けしたのは
-おまえか？　おろかものめ……　　　　
+是你小子把我蜡烛的火熄灭了？
+你个混蛋……　　　　
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5202,7 +5202,7 @@ WHO put out my candles?! YOU, Mr. Lime-Green?
 ------     参考     ------
 Well, dark rooms are dangerous around here... Yesss... 
 ------     译文     ------
-あかりが　きえた　へやは　きけんなのよ！
+灯光关上了，房间很危险！
 
 ========== 结束 ==========
 
@@ -5214,8 +5214,8 @@ Well, dark rooms are dangerous around here... Yesss...
 ------     参考     ------
 THEY love the dark...and now THEY will get YOU!! Bloo-heh! 
 ------     译文     ------
-やつらは　なにより　やみを　このむ。
-すぐにも　ここに　あらわれるぞ！　　　　
+它们非常喜欢黑暗。
+或许马上就要来了！　　　　
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5226,8 +5226,8 @@ THEY love the dark...and now THEY will get YOU!! Bloo-heh!
 ------     参考     ------
 Now you're in for it! Blugh-huh! 
 ------     译文     ------
-ヒヒ…　　　　　　
-いまに　おまえも…　　　　　　　　
+呵呵…　　　　　　
+现在你跑不掉了…　　　　　　　　
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5238,8 +5238,8 @@ Now you're in for it! Blugh-huh!
 ------     参考     ------
 Just like little Red-Cap before you... 
 ------     译文     ------
-このまえの　あかい　帽子の　やつの
-ように…　
+就好像之前一个红帽子的
+小子…
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5250,8 +5250,8 @@ Just like little Red-Cap before you...
 ------     参考     ------
 May you wander lost in the darkness...forever! 
 ------     译文     ------
-やみのなかを　さまよいつづけるが
-いい…　えいえんに！　
+在黑暗中游荡不错吧…
+永远游荡吧！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5262,8 +5262,8 @@ May you wander lost in the darkness...forever!
 ------     参考     ------
 Are you AFRAID of the dark, little man? Are you? Huh? 
 ------     译文     ------
-ククク・・　　　　　
-くらいところは　こわかろう？　
+哈哈哈・・　　　　　
+你是在害怕黑暗的地方吗？　
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5274,8 +5274,8 @@ Are you AFRAID of the dark, little man? Are you? Huh?
 ------     参考     ------
 Blah-hah! Here THEY are now! 
 ------     译文     ------
-そら　早速　やつらが
-あつまってきおった！　　　　　　　　　
+快点把这小子
+逮起来吧！　　　　　　　　
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5286,8 +5286,8 @@ Blah-hah! Here THEY are now!
 ------     参考     ------
 You must be exhausted, Luigi . This should help you out! 
 ------     译文     ------
-[控]路易吉[控]さん　つかれていませんか？
-ここで　すこし　やすんでいってください。
+[控]路易吉[控]先生您累了吗？
+在这里稍稍休息一下吧。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5298,8 +5298,8 @@ You must be exhausted, Luigi . This should help you out!
 ------     参考     ------
 Enjoy the cool evening breeze, Luigi ! 
 ------     译文     ------
-[控]路易吉[控]さん　よかぜに　あたって
-つかれを　いやしてください！
+[控]路易吉[控]先生，晚上的风太强了，
+稍微休息一下比较好吧！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5310,8 +5310,8 @@ Enjoy the cool evening breeze, Luigi !
 ------     参考     ------
 What a stirring performance! I haven't been so charmed by a piece for ages! 
 ------     译文     ------
-ステキな　えんそうでしたわね。
-ひさしぶりに　かんげきしましたわ！
+真是美妙的演奏啊。
+已经很久没有这么感动了！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5324,10 +5324,10 @@ What a stirring performance! I haven't been so charmed by a piece for ages!
 ------     参考     ------
 You must have a delicate ear for music. Would you like to listen to my piano sonata? 
 ------     译文     ------
-あなた　とっても　おんがくてきな
-さいのうを　おもちなのね。
-わたくしの　ピアノソナタも
-ぜひ　きいてほしい　ものですわ！
+您确实拥有
+音乐的才能。
+也请您听一下
+在下的钢琴奏鸣曲吧！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5337,7 +5337,7 @@ You must have a delicate ear for music. Would you like to listen to my piano son
 ------     参考     ------
 Well, here I go. 
 ------     译文     ------
-では…いきますわよ。
+那么…我要开始了哦。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5347,7 +5347,7 @@ Well, here I go.
 ------     参考     ------
 Underwater 
 ------     译文     ------
-すいちゅう
+水中
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5357,7 +5357,7 @@ Underwater
 ------     参考     ------
 Underground 
 ------     译文     ------
-ちか
+地下
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5367,7 +5367,7 @@ Underground
 ------     参考     ------
 Er, I don't know. 
 ------     译文     ------
-わからないですわ
+我不知道呢
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5377,7 +5377,7 @@ Er, I don't know.
 ------     参考     ------
 Mario Bros. 
 ------     译文     ------
-马力欧ブラザーズ
+马力欧兄弟
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5387,7 +5387,7 @@ Mario Bros.
 ------     参考     ------
 Super Mario World 
 ------     译文     ------
-马力欧ワールド
+马力欧世界
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5407,7 +5407,7 @@ Super Mario Bros. 3
 ------     参考     ------
 Exactly right! You got it! 
 ------     译文     ------
-そう　そう！　あたりですわ！！
+对对对！你拿到了！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5418,8 +5418,8 @@ Exactly right! You got it!
 ------     参考     ------
 No, no, NO! That's all wrong!! 
 ------     译文     ------
-ムカ～。
-ぜんぜん　ちがいますわ！
+啊哈～。
+这个完全不对啊！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5431,9 +5431,9 @@ No, no, NO! That's all wrong!!
 ------     参考     ------
 I put my heart and soul into that piece, only to be insulted? How could you, you awful man! 
 ------     译文     ------
-こころをこめて　ひいたのに
-すっかり　きぶんが　ブルーだわ…
-おんなごころは　みずいろよ！
+我把我的心血都倾注进去
+但我现在非常伤心…
+我的心情非常差！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5443,7 +5443,7 @@ I put my heart and soul into that piece, only to be insulted? How could you, you
 ------     参考     ------
 Get out! Get out! Don't speak to me unless you can appreciate my music! 
 ------     译文     ------
-そとで　あたま　ひやしておいでっ！
+你滚到外面清醒一下再回来！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5454,8 +5454,8 @@ Get out! Get out! Don't speak to me unless you can appreciate my music!
 ------     参考     ------
 Very impressive! I guess I needn't hold back with you! 
 ------     译文     ------
-…すこしは　やるようですわね。
-だったら　てかげん　しませんわ！
+…还是有些不错的。
+那么我也不需要让着你了！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5466,8 +5466,8 @@ Very impressive! I guess I needn't hold back with you!
 ------     参考     ------
 Would you care to do battle with my lovely Music Sheets ? 
 ------     译文     ------
-わたくしの　たいせつな　“[控]がくふ[控]”たちと
-たたかって　みませんこと？
+和在下重要的“[控]乐谱[控]”们
+来场战斗怎么样？
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5478,8 +5478,8 @@ Would you care to do battle with my lovely Music Sheets ?
 ------     参考     ------
 By the way...what image do you think the piece's composer had in mind while writing it? 
 ------     译文     ------
-顺便一提　いまの　きょく…
-なにを　イメージしたか　わかります？
+顺便一提，你知道现在的曲子…
+表达了什么感情吗？
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5505,8 +5505,8 @@ By the way...that song was featured in a famous game. Do you know which game?
 ------     参考     ------
 My name is Melody . People call me the spectral beauty of the ivory keys! 
 ------     译文     ------
-わたくしの　なは　[控]ピアン[控]。
-ひとは　わたくしを　かれいなる
+在下的名字是[控]刚秦[控]。（）
+ひとは　在下を　かれいなる
 ピアニストと　よびますわ！
 ========== 结束 ==========
 
@@ -5517,7 +5517,7 @@ My name is Melody . People call me the spectral beauty of the ivory keys!
 ------     参考     ------
 ... Luigi , can you hear me? 
 ------     译文     ------
-…[控]路易吉[控]くん　きこえるか？
+…[控]路易吉[控]君能听见吗？
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5530,8 +5530,8 @@ My name is Melody . People call me the spectral beauty of the ivory keys!
 ------     参考     ------
 Good to hear you're still OK! I lost your signal when that lightning struck. 
 ------     译文     ------
-おお　太好了！
-無事　じゃったか。
+哦哦，太好了！
+你没事就好。
 かみなりの　せいで
 れんらくが　とれんかったぞい。
 ========== 结束 ==========
@@ -5557,7 +5557,7 @@ Hmmm. That was some battle you had there.
 ------     参考     ------
 Why don't you come on back to the lab? 
 ------     译文     ------
-いちど　实验室に　かえってこい。
+先回实验室一趟吧。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5707,7 +5707,7 @@ Hm? What's a Fire Elemental Ghost , you ask? Why, they show up wherever you see 
 嗯？　[控]火の　元素[控]とは
 いったい　なんなのか　じゃと？
 火　あるところに　[控]火の　元素[控]あり。
-火の　もとのような　いきものじゃ。
+火の　もとのような　いきもの啊。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5804,7 +5804,7 @@ You may have to use the Fire Element to defeat some ghosts... Keep that in mind,
 ------     参考     ------
 Even I can help you out, Luigi ! Really! 
 ------     译文     ------
-こんな　わたくしだって　[控]路易吉[控]さんの
+こんな　在下だって　[控]路易吉[控]さんの
 おやくにたてるんです！
 ========== 结束 ==========
 
@@ -6163,7 +6163,7 @@ Ahhhhh! Fire! Fire! Fire! Run away! Run awaaaay!
 ------     参考     ------
 Heh heh heh! Looks like you've run into a bit of trouble there. Maybe you need more training! 
 ------     译文     ------
-フェッ　フェッ　フェッ！
+呵呵呵！
 ずいぶん　くろう　していたようじゃな。
 まだまだ　しゅぎょうが　たりんぞい。
 ========== 结束 ==========
@@ -6177,7 +6177,7 @@ Heh heh heh! Looks like you've run into a bit of trouble there. Maybe you need m
 There are some ghosts who'll try to grab and hold you... 
 ------     译文     ------
 鬼怪には　ひとに　とりついて
-じゆうを　うばうものも　いるのじゃ。
+じゆうを　うばうものも　いるの啊。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -6262,7 +6262,7 @@ You saw him, didn't you? How could they DO that to Mario ?
 ------     参考     ------
 When I saw him like that, I completely lost it and ran through the mansion looking for a hiding place! 
 ------     译文     ------
-わたくしも　あれを　みたときは
+在下も　あれを　みたときは
 おそろしさのあまり　おもわず
 洋馆じゅうを　にげまわって
 しまいました。
@@ -6305,7 +6305,7 @@ A hat , a glove , a shoe , a letter , and a star . I saw five items altogether.
 I'd go collect them for you if I could remember where they were. Yeah... I probably should've picked some up... 
 ------     译文     ------
 ああ　どこにあったか　おもいだせれば
-わたくしめが　あつめておくものを……
+在下めが　あつめておくものを……
 せめて　おとしものだけでも
 ひろっておいて　あげたいのです！
 ========== 结束 ==========
@@ -6317,7 +6317,7 @@ I'd go collect them for you if I could remember where they were. Yeah... I proba
 ------     参考     ------
 Leave it to me! 
 ------     译文     ------
-ぼくにまかしとけ！
+就交给我吧！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -6340,7 +6340,7 @@ Good-bye.
 Whaa-huh? Really?! You'll find all Mario's items for me!? 
 ------     译文     ------
 ええっ　ほんとですか？
-わたくしの　かわりに　[控]马力欧[控]さんの
+在下の　かわりに　[控]马力欧[控]さんの
 おとしものを　さがしてくれるんですね！
 ========== 结束 ==========
 
@@ -6437,7 +6437,7 @@ There's a ghost around here somewhere who can see the future by touching a perso
 おとしものから　れいかんを　えて
 うらないをしてくれる　鬼怪が
 どこかに　いるらしいんです。
-なまえは　[控]マダム・ミエール[控]。
+なまえは　[控]育知夫人[控]。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -6450,7 +6450,7 @@ There's a ghost around here somewhere who can see the future by touching a perso
 I'm sure Madame Clairvoya would be able to tell you how Mario got turned into a painting if she had those items. 
 ------     译文     ------
 その　[控]ミエール[控]という　鬼怪なら
-どうして　[控]马力欧[控]さんが　絵になって
+どうして　[控]马力欧[控]先生听　絵になって
 しまったのか　わかるかもしれません。
 ========== 结束 ==========
 
@@ -6497,7 +6497,7 @@ I'll stay here, if that's OK...
 ------     参考     ------
 ... Luigi , can you hear me? 
 ------     译文     ------
-…[控]路易吉[控]くん　きこえるか？
+…[控]路易吉[控]君能听见吗？
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -6510,8 +6510,8 @@ I'll stay here, if that's OK...
 ------     参考     ------
 Oh, what a relief! That white mist interrupted your signal. 
 ------     译文     ------
-おお　太好了！
-無事　じゃったか。
+哦哦，太好了！
+你没事就好。
 しろい　もやの　せいで
 れんらくが　とだえとったぞい。
 ========== 结束 ==========
@@ -6537,7 +6537,7 @@ Hmmm. You seem to have done some serious work there!
 ------     参考     ------
 Why don't you come on back to the lab? 
 ------     译文     ------
-いちど　实验室に　かえってこい。
+先回实验室一趟吧。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -6574,8 +6574,8 @@ Tonight I'll make an old family recipe.
 Pickled dandelions with barnacles in a diesel marinade! 
 ------     译文     ------
 ゼンマイの　はぐるまふう
-オイル　ベトベトあえじゃ。
-フェッ　フェッ　フェッ！
+オイル　ベトベトあえ啊。
+呵呵呵！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -6676,7 +6676,7 @@ Yes-sirree. When water gets cold, it freezes, right? Ice can be very effective a
 ------     译文     ------
 そうそう　みずは　さむいと　こおるじゃろ？
 いがいなことに　こおりは　みずに
-つよいんじゃ。　みずの　鬼怪にでも
+つよいん啊。　みずの　鬼怪にでも
 ためしてみると　よいかもな。
 ========== 结束 ==========
 
@@ -6889,7 +6889,7 @@ I am Madame Clairvoya , seer of dropped items . Possessions of other people awak
 わらわは　[控]おとしものうらない[控]を
 なりわいとする　[控]ミエール[控]と　もうすもの。
 ひとの　持有物から　さまざまなことを
-かんじとることが　できるのじゃ。
+かんじとることが　できるの啊。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -7099,7 +7099,7 @@ Well, he is not in the spirit world...but one cannot say he is alive...haaackth 
 Uuuh... This is all I can tell you for now! Bring to me another clue, and I will show your brother to you. This clue no longer speaks to us... 
 ------     译文     ------
 うっ…
-わらわに　いま　わかるのは　ここまでじゃ。
+わらわに　いま　わかるのは　ここまで啊。
 もっと　てがかりを　さがしてこい。
 これでは　まだ　ちからが　たりん……
 ========== 结束 ==========
@@ -7137,7 +7137,7 @@ If it isn't Mario 's Shoe ! Why, the sole is so worn, as if he's walked a thousa
 If it isn't Mario 's Star ! What otherworldly beauty! 
 ------     译文     ------
 [控]马力欧[控]の　[控]スター[控]ではないか。
-これは　これは　きれいな　ものじゃ。
+これは　これは　きれいな　もの啊。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -7221,11 +7221,11 @@ Ohh... Harummm... Your Mario is imprisoned...but where, oh where is he being hel
 Yes! A painting! Your Mario has been imprisoned within a painting! My orb shows an odd altar, and...c'mon you stupid orb... Yes! Above it, your Mario ! Trapped in a painting! 
 ------     译文     ------
 絵か！　どうやら　絵のなかに
-とじこめられておるようじゃ。
+とじこめられておるよう啊。
 すいしょうの　なかに　なにやら
 あやしい　さいだんが　みえーる…
 どうやら　[控]马力欧[控]は　そこに　かかった
-絵のなかに　いるようじゃ。
+絵のなかに　いるよう啊。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -7750,7 +7750,7 @@ BOOO!!!!
  Luigi , you must be so exhausted. Let me help you get comfortable. ...La la la! 
 ------     译文     ------
 [控]路易吉[控]さん　おつかれでしょう。
-わたくしが　いやしてさしあげます。
+在下が　いやしてさしあげます。
 …ルン　ルン　ルン！
 ========== 结束 ==========
 
@@ -7784,7 +7784,7 @@ Whadda ya think o' me jar collection, then? Pretty amazing, don't you say?
 ------     参考     ------
 Welly, welly, well. We can't just let you look at 'em for free, now can we? No, I think not. 
 ------     译文     ------
-おっと　オラの　コレクションを
+嗯，　オラの　コレクションを
 ただで　みるなんて　そりゃ　だめだべ。
 ========== 结束 ==========
 
@@ -8116,7 +8116,7 @@ The elec...the electricity has gone out!
 That lightning strike just now must've caused a blackout. I can't see anything in this blasted darkness... 
 ------     译文     ------
 …いまの　かみなりのせいで
-ていでんに　なったのかもしれん。
+停電に　なったのかもしれん。
 くらくて　なにも　みえんわい……
 ========== 结束 ==========
 
@@ -8868,7 +8868,7 @@ You've made me so...SNIFFF... proud...SNORT! (Get ahold of yourself, Gadd !)
 ------     参考     ------
 Oh, beg your pardon! This old brain goes recollecting every now and then... I could sit down and fill a week spinning ghost yarns. Why, just last... 
 ------     译文     ------
-おっと！
+嗯，！
 また　とりとめのない　はなしを
 ながながと　してしまう
 ところじゃった。
@@ -8920,7 +8920,7 @@ He must have just collapsed with relief and exhaustion when he saw you arrive...
 ------     参考     ------
 I'll get the machine ready to return your brother to his former state, all righty? 
 ------     译文     ------
-さて　わしは　キミの　にいさんを
+さて　わしは　キミの　にい先生
 もとにもどす　じゅんびを　しておこう。
 ========== 结束 ==========
 
@@ -9061,7 +9061,7 @@ Luh... Luigi ?
 ------     参考     ------
 Whew! It's me, Toad ! I don't know what I would have done if a ghost had answered! 
 ------     译文     ------
-ホッ。　わたくしです　[控]奇诺比奥[控]です。
+ホッ。　在下です　[控]奇诺比奥[控]です。
 鬼怪だったら　どうしようかと
 おもいました…クスン　クスン。
 ========== 结束 ==========
@@ -9078,7 +9078,7 @@ Anyway, we have a terrible problem! The lightning caused a blackout all over the
 ------     译文     ------
 それにしても　たいへんです！
 かみなりが　おちたせいで　洋馆じゅうが
-ていでんに　なってしまったんです！
+停電に　なってしまったんです！
 いったい　どうしたら　いいのでしょうか？
 ========== 结束 ==========
 
@@ -9092,7 +9092,7 @@ Anyway, we have a terrible problem! The lightning caused a blackout all over the
 ------     参考     ------
 We're really, REALLY afraid of the dark! Isn't there a way you can turn the lights back on? 
 ------     译文     ------
-わたくしたちは　くらいのが
+在下たちは　くらいのが
 なにより　にがてなんです！　…クスン。
 どうか　でんきを　つけてきて
 いただけないでしょうか？
@@ -9110,7 +9110,7 @@ Huh? No, we don't know how to turn them on. We were hoping you'd know... SNIFF! 
 ------     译文     ------
 エッ？　どうすれば　でんきを
 つけられるのか　ですって？
-それは　わたくしたちにも
+それは　在下たちにも
 わからないのです…クスン。　
 ========== 结束 ==========
 
@@ -9150,7 +9150,7 @@ Hello? Howdy? Heeelloooo??
 Oh, sorry to surprise you, boy! It's me, Professor E. Gadd ... Sorry for disturbing you. 
 ------     译文     ------
 おどろかせて　わるかったな。
-わしじゃ　[控]哎呦・喂[控]じゃ。
+老夫是[控]哎呦・喂[控]啊。
 なんども　すまんな。
 ========== 结束 ==========
 
@@ -9165,7 +9165,7 @@ I know I usually contact you by Game Boy Horror , but I thought I'd try this pho
 ------     译文     ------
 まいかい　[控]Game Boy Horror[控]の
 通信では　げいが　ないからの。
-こんかいは　でんわれんらく　じゃ。
+こんかいは　でんわれんらく　啊。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -9191,7 +9191,7 @@ You know that all ghosts avoid the light and hide in the dark...
 ------     参考     ------
 But listen, now. There's one ghost who fled from the gallery who only hides in the darkest places... His name...is Uncle Grimmly ... 
 ------     译文     ------
-[控]ヤミノフ[控]という　画廊から　にげだした
+[控]安夫[控]という　画廊から　にげだした
 絵の鬼怪だけは　しんの　くらやみにしか
 すがたを　あらわさない。
 ========== 结束 ==========
@@ -9237,7 +9237,7 @@ He's old for a ghost, but it's only made him more cautious. I do know, though, t
 ------     参考     ------
 Uh-oh, the ghosts are starting to approach your position! Be careful, Luigi ! 
 ------     译文     ------
-おっと
+嗯，
 鬼怪が　せまってきたようじゃ！
 きをつけてな　[控]路易吉[控]君！”
 ========== 结束 ==========
@@ -9267,7 +9267,7 @@ Uh-oh, the ghosts are starting to approach your position! Be careful, Luigi !
 えんとつから　おちるとは
 とんだ　さいなんじゃったのう。
 [控]かがみ[控]で　みなりを　ととのえたらどうじゃ？
-フェッ　フェッ　フェッ！
+呵呵呵！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -9301,7 +9301,7 @@ Uh-oh, the ghosts are starting to approach your position! Be careful, Luigi !
 かくされた　きのうがあるのじゃ！
 [控]かがみ[控]をさがして　[控]搜索[控]すれば
 きっと　みちが　ひらけるぞい！
-フェッ　フェッ　フェッ！
+呵呵呵！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -9523,7 +9523,7 @@ I understand you're worried about your brother, young feller, but just take 'er 
 にいさんのことを　心配する
 きもちは　わかるが　あせるでないぞ。
 じんせいは　ながい。　いきづまったら
-よりみちも　ひつようじゃ。
+よりみちも　ひつよう啊。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -9539,7 +9539,7 @@ Why not go to the Washroom and splash some water on your face? You'll feel much 
 たまには　[控]卫生间[控]にでも　いって
 すっきり　してみては　どうじゃ？
 きぶんが　かわるかも　しれんしな。
-フェッ　フェッ　フェッ！
+呵呵呵！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -9569,7 +9569,7 @@ Wow! Do you work out, Luigi ?!
 ------     译文     ------
 なんと　かれいな　みのこなし！
 なにか　スポーツでも　していたのか
-[控]路易吉[控]く嗯？
+[控]路易吉[控]君？
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -9609,7 +9609,7 @@ Tip-top, Luigi ! You remind me of myself at your age...
 You stalk Boos like a master! Hail the fearless Boo Hunter! 
 ------     译文     ------
 まるで　かりゅうどのような　うごき！
-キミは　さしずめ　嘘嘘鬼・ハンターじゃ。
+キミは　さしずめ　嘘嘘鬼・ハンター啊。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -9711,7 +9711,7 @@ The plants in the mansion could use some attention... As long as you're cleaning
 しょくぶつを　めでるものは　けっして
 そんを　することは　ない。
 しょくぶつが　よろこぶこと　といえば
-なんだか　わかるかな　[控]路易吉[控]く嗯？
+なんだか　わかるかな　[控]路易吉[控]君？
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -9733,15 +9733,15 @@ You've seen some small ghosts other than the Boos, haven't you? Well, I'm pretty
 ------     译文     ------
 嘘嘘鬼いがいに　よわい鬼怪が
 うようよ　いるじゃろう？
-きゃつらは　[控]セニョール・プジイ[控]という
+きゃつらは　[控]华甲[控]という
 がかの　鬼怪が　かいた
-絵だったはずじゃ。
+絵だったはず啊。
 むかし　あれを　つかまえるのには
 ホント　くろうしたわい…
 がかは　絵に　いのちを
 ふきこむというが
 鬼怪の　がかは　鬼怪を
-うみだすものなんじゃ。
+うみだすものなん啊。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -9759,7 +9759,7 @@ You know about elements, right? Anybody will tell you they form a triangular rel
 ------     译文     ------
 元素って　しっとるじゃろう？
 じつは　それぞれ　３すくみの
-かんけいに　なっておるんじゃ。
+かんけいに　なっておるん啊。
 すなわち…
 みずは　火に　火は　こおりに
 こおりは　みずに　つよいんじゃよ。
@@ -9783,7 +9783,7 @@ Do you remember the jar the Poltergust 3000 found nothing in? Try giving it anot
 ツボが　あるじゃろう？
 もういちど　しらべてみると
 あんがい　なにか　でてくるかもしれんぞ。
-フェッ　フェッ　フェッ！
+呵呵呵！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -9798,7 +9798,7 @@ Do you remember the jar the Poltergust 3000 found nothing in? Try giving it anot
 Well, these Boos don't seem to like light much, that's for sure. They do their best to hide in and under furniture when they're stuck in a lit room. 
 ------     译文     ------
 どうやら　嘘嘘鬼は　ひかりが
-にがてな　ようじゃ。
+にがてな　よう啊。
 あかるいへやに　いるときは
 かぐの　なかに　みを　ひそめて
 ひかりを　やりすごしておる。
@@ -9844,7 +9844,7 @@ Impressive, Luigi ! All of the Boos have been captured! I can honestly say that 
 まったくもって　おどろきじゃよ！
 まさか　ここまでやるとはのう。
 キミこそ　まさに　嘘嘘鬼・マスターじゃ！
-さて　あとは　にいさんを
+さて　あとは　にい先生
 とりもどす　だけじゃな！
 キミなら　没关系じゃとは　おもうが
 ひきつづき　きをぬくでないぞ！
@@ -9898,7 +9898,7 @@ Heh! You're on a roll, Luigi !
 ------     参考     ------
 Heh heh heh! I can see in my mind's eye the image of Luigi fighting brave battles against Boos! 
 ------     译文     ------
-フェッ　フェッ　フェッ！
+呵呵呵！
 老夫的　こころのめには　みえるぞい！
 嘘嘘鬼と　あつきたたかいを　くりひろげる
 [控]路易吉[控]くんの　すがたが！
@@ -9941,7 +9941,7 @@ You are very skilled to be sure, but seeing your techniques left me terrified at
 ------     参考     ------
 Heh heh heh! I can already see those Boos running scared from the Poltergust 3000 ! 
 ------     译文     ------
-フェッ　フェッ　フェッ！　[控]鬼怪吸尘器[控]に
+呵呵呵！　[控]鬼怪吸尘器[控]に
 おそれ　おののく　嘘嘘鬼たちの
 すがたが　めにうかぶわい！
 ========== 结束 ==========
@@ -10069,7 +10069,7 @@ Mansion Co-op
 ------     参考     ------
 Hidden Mansion Co-op 
 ------     译文     ------
-ふたりでうら洋馆
+ふたりで里洋馆
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -10144,10 +10144,10 @@ Hmm? Where's this, you ask?
 Why, these cozy quarters are where I do my ghost-studying. Professor E. Gadd's Ghost research laboratory! The Lab, if you're of a shortening mind. 
 ------     译文     ------
 ここは　にちや　鬼怪の研究に
-あけくれている　この　老夫的　すみかじゃ。
+あけくれている　この　老夫的　すみか啊。
 またの　なを…
 [控]哎呦・喂博士[控]の　鬼怪研究じょ！
-…つうしょう　实验室なのじゃ。
+…つうしょう　实验室なの啊。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -10190,7 +10190,7 @@ I've been living here since I was a lad of twenty or so, and I'll tell you: that
 わしは　はたちのころから　ここに
 すんでいるから　わかるが　あんな洋馆は
 つい　このあいだまで　
-かげも　かたちも　なかったんじゃ。
+かげも　かたちも　なかったん啊。
 きつねにでも　ばかされたんじゃないかの？
 ========== 结束 ==========
 
@@ -10203,7 +10203,7 @@ I've been living here since I was a lad of twenty or so, and I'll tell you: that
  Luigi is deciding where to go. Please wait a little longer. 
 ------     译文     ------
 [控]路易吉[控]くんが　いま　いきさきを
-きめておるから　すこし　まつのじゃ。
+きめておるから　すこし　まつの啊。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -10252,8 +10252,8 @@ Your brother must've been taken by that gang of Boos... Poor feller...
 ------     参考     ------
 Oh now, don't talk crazy. They're not gonna eat the man. But what became of him, hm? Odd that he hasn't come back. 
 ------     译文     ------
-まあ　あいつらは　にいさんを
-たべてしまったりは　しないようじゃ。
+まあ　あいつらは　にい先生
+たべてしまったりは　しないよう啊。
 しかし　どうなったのか？　心配じゃのう。
 もどってこられなくなることも　あるからの。
 ========== 结束 ==========
@@ -10272,7 +10272,7 @@ Common theory holds that Boos grow in strength when they travel in numbers. They
 きけば　嘘嘘鬼とは　あつまるほど
 つよくなるもの　らしい……
 嘘嘘鬼どうし　きょうめいして
-ふしぎな　ちからを　はっきするのじゃ。
+ふしぎな　ちからを　はっきするの啊。
 にいさんも　そのちからに　やられたんじゃろ。
 ========== 结束 ==========
 
@@ -10286,7 +10286,7 @@ Common theory holds that Boos grow in strength when they travel in numbers. They
 ------     参考     ------
 If your aim is to save Mario , there's but one way to do it: capture each Boo and slowly weaken the group's power! 
 ------     译文     ------
-もし　キミが　にいさんを　すくいたいのなら
+もし　キミが　にい先生　すくいたいのなら
 みちは　ひとつしかない！
 嘘嘘鬼を　１ぴき　１ぴき　つかまえていき
 ふしぎなちからを　よわめていくのじゃ！
@@ -10318,8 +10318,8 @@ But Boos, as their name implies, like to hide and then jump out to scare people.
 ------     参考     ------
 Heh heh heh. Don't get all down in the mouth, my boy! That Game Boy Horror I gave you has a secret function! 
 ------     译文     ------
-フェッ　フェッ　フェッ！
-そう　しょげなくても　よいのじゃ。
+呵呵呵！
+そう　しょげなくても　よいの啊。
 その　[控]Game Boy Horror[控]には
 かくされた　きのうがある。
 ========== 结束 ==========
@@ -10334,7 +10334,7 @@ Heh heh heh. Don't get all down in the mouth, my boy! That Game Boy Horror I gav
 I knew it'd come in handy one day, so I developed it secretly. I call it the Boo Radar ! 
 ------     译文     ------
 こんなことも　あろうかと　じつは
-ひそかに　よういをしておったのじゃ。
+ひそかに　よういをしておったの啊。
 …そのなも　“[控]嘘嘘鬼レーダー[控]”！
 ========== 结束 ==========
 
@@ -10349,7 +10349,7 @@ I knew it'd come in handy one day, so I developed it secretly. I call it the Boo
 The Boo Radar will flash red when something round like a Boo is hidden nearby. Use it to search everywhere, Luigi ! 
 ------     译文     ------
 嘘嘘鬼が　ちかくに　かくれていたら
-あかく　てんめつして　おしえてくれるんじゃ。
+あかく　てんめつして　おしえてくれるん啊。
 これを　つかって　洋馆じゅうを
 さがしまわると　よいぞ　[控]路易吉[控]君！
 ========== 结束 ==========
@@ -10370,7 +10370,7 @@ All right now, sonny. Don't go tuckering yourself out. Relax, and just try to ge
 リラックスして　あわてずに
 １ぴきずつじゃよ。
 [控]陀螺[控]と　[控]スライドパッド[控]を　うまく
-つかうのが　嘘嘘鬼を　つかまえるコツじゃ。
+つかうのが　嘘嘘鬼を　つかまえるコツ啊。
 おぼえておくんじゃぞ！
 ========== 结束 ==========
 
@@ -10455,7 +10455,7 @@ He wouldn't stand a chance against those ghosts without my help! You have to go 
 ------     译文     ------
 鬼怪と　战斗すべを　もたないものは
 鬼怪どもの　ぜっこうの　ひょうてき。
-はやく　にいさんを　たすけにいくのじゃ！
+はやく　にい先生　たすけにいくのじゃ！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -10479,7 +10479,7 @@ Here's the plan: I'll teach you to deal with ghosts so you can rescue your broth
 ------     参考     ------
 The Hidden Mansion 
 ------     译文     ------
-うら洋馆にいく
+里洋馆にいく
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -10500,7 +10500,7 @@ Save
 ------     参考     ------
 Heh heh heh! Hello! I'm future Professor E. Gadd ! 
 ------     译文     ------
-フェッ　フェッ　フェッ！
+呵呵呵！
 わしは　[控]みらいの哎呦・喂博士[控]。
 ========== 结束 ==========
 
@@ -10559,7 +10559,7 @@ Which is why I'm talking to you!
 I'm outsourcing testing for Gooigi to you and past me . Isn't time travel great? 
 ------     译文     ------
 キミたちに　この　[控]绿易吉[控]くんの
-どうさテストを　てつだってほしいのじゃ。
+どうさテストを　てつだってほしいの啊。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -10650,7 +10650,7 @@ If you could help me with the test...
 ------     参考     ------
 Oh! Take good care of Gooigi . He burns and melts really easily... 
 ------     译文     ------
-そうそう　[控]绿易吉[控]くんは　[控]もえやすく[控]
+そうそう　[控]绿易吉[控]君　[控]もえやすく[控]
 [控]とけやすい[控]。きをつけて　あつかうのじゃよ。
 ========== 结束 ==========
 
@@ -10747,7 +10747,7 @@ So if you hit 'em with a flashlight beam all of a sudden, you can stun 'em momen
 ------     译文     ------
 だから　きゅうに　ライトをあてられると
 おもわず　ドッキリしてしまう！
-このときが　すいこむチャンスじゃ。
+このときが　すいこむチャンス啊。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -10772,7 +10772,7 @@ When you see your chance, hold down and slide in the opposite direction!
 ------     参考     ------
 Just give it a try. You'll learn more that way than just listening to me yap about it. 
 ------     译文     ------
-…まあ　ならうより　なれろじゃ。
+…まあ　ならうより　なれろ啊。
 早速　やってみるとしようかの！
 ========== 结束 ==========
 
@@ -10801,7 +10801,7 @@ Awwwww, you didn't get ANY?! Get yourself together and try again!
 While vacuuming with , slide in the opposite direction to bring 'em in! 
 ------     译文     ------
 [控]按钮[控]で　すいこみながら
-[控]スライドパッド[控]でクイッと　ひっぱるんじゃ。
+[控]スライドパッド[控]でクイッと　ひっぱるん啊。
 ライトは　なるべく　ひきつけてから
 あてるのが　コツじゃぞ！
 ========== 结束 ==========
@@ -10842,7 +10842,7 @@ Well done! That's how you do it, Luigi ! While vacuuming, hold and use the Circl
 ------     参考     ------
 Oops! That one got away, Luigi . 
 ------     译文     ------
-おっとっと！
+嗯，っと！
 にげられてしまったのう　[控]路易吉[控]くん。
 ========== 结束 ==========
 
@@ -10928,7 +10928,7 @@ Get two or more at the same time, and something good may happen! Heh heh heh...
 Hey kid, shape up! You won't be able to help your brother at this rate! Look! They're coming... 
 ------     译文     ------
 どうした　どうした？　そんなことじゃ
-にいさんを　さがしにいけないぞ？
+にい先生　さがしにいけないぞ？
 それ！　くるぞ　くるぞ……
 ========== 结束 ==========
 
@@ -10955,7 +10955,7 @@ Well done, Luigi ! Don't let your guard down, though! Look! They are coming...
 Catching ghosts means using the flashlight and the Poltergust 3000 as a team, you get me, young feller? 
 ------     译文     ------
 鬼怪すいこみは　ライトと
-[控]鬼怪吸尘器[控]に　つきるのじゃ。
+[控]鬼怪吸尘器[控]に　つきるの啊。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -11035,7 +11035,7 @@ Three out of ten? You can do better.
 Hmm... Four out of ten ghosts. Not so bad. 
 ------     译文     ------
 おお　１０ぴきちゅう　４ひきか。
-まあまあじゃ。
+まあまあ啊。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -11118,7 +11118,7 @@ WOW! Ten out of ten ghosts! Positively dazzling, Luigi !
 ------     参考     ------
 I'd say you're ready to look for your brother now! 
 ------     译文     ------
-これなら　にいさんを　さがしに
+これなら　にい先生　さがしに
 いっても　あんしんじゃ！
 ========== 结束 ==========
 
@@ -11151,7 +11151,7 @@ Use to vacuum and the motion controls to change your direction.
 ------     译文     ------
 [控]按钮[控]で　すいこみかいし！
 すいこみながら　[控]陀螺[控]で
-じょうげに　むきを　かえられるのじゃ。
+じょうげに　むきを　かえられるの啊。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -11162,7 +11162,7 @@ Use to vacuum and the motion controls to change your direction.
 ------     参考     ------
 No matter how strong you think your brother is... 
 ------     译文     ------
-たとえ　キミの　にいさんが
+たとえ　キミの　にい先生听
 いくら　ちからじまんでも…
 ========== 结束 ==========
 
@@ -11188,7 +11188,7 @@ Ghosts are mysterious beings... They can't be caught using conventional means.
 So you'd better use this! It's the only way to foil 'em! This is the only thing they fear! 
 ------     译文     ------
 ならば　これで　すいこんでしまえ！
-それしか　战斗すべは　ないのじゃ。
+それしか　战斗すべは　ないの啊。
 おそれ　おののけ　鬼怪ども！
 ========== 结束 ==========
 
@@ -11229,7 +11229,7 @@ How about a little cool-down in the gallery? I'm quite proud of it, you know...
 ------     译文     ------
 きぶんてんかんに　いいところへ
 つれていってやろう！
-老夫的　じまんの　画廊じゃ。
+老夫的　じまんの　画廊啊。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -11271,7 +11271,7 @@ So, if you use to shine the powerful strobe light, you can stun the ghosts for a
 だから　[控]按钮[控]で　闪光灯の
 つよいひかりをあてると　鬼怪は
 おもわず　ドッキリしてしまう！
-このときが　すいこむチャンスじゃ。
+このときが　すいこむチャンス啊。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -11285,7 +11285,7 @@ So, if you use to shine the powerful strobe light, you can stun the ghosts for a
 While vacuuming with , slide in the opposite direction to bring 'em in! 
 ------     译文     ------
 [控]按钮[控]で　すいこみながら
-スライドパッドでクイッと　ひっぱるんじゃ。
+スライドパッドでクイッと　ひっぱるん啊。
 闪光灯は　なるべく　ひきつけてから
 つかうのが　コツじゃぞ！
 ========== 结束 ==========
@@ -11313,7 +11313,7 @@ Try to get as close as possible before flashing the light. The moment you see a 
 Catching ghosts means using the strobe and the Poltergust 3000 together. You get me, young feller? 
 ------     译文     ------
 鬼怪すいこみは　闪光灯と
-[控]鬼怪吸尘器[控]に　つきるのじゃ。
+[控]鬼怪吸尘器[控]に　つきるの啊。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -11349,7 +11349,7 @@ Get two or more at the same time, and something good may happen! Heh heh heh...
 Are you done appreciating art for today, Luigi ? 
 ------     译文     ------
 げいじゅつ　かんしょうは　もう　いいのか
-[控]路易吉[控]く嗯？
+[控]路易吉[控]君？
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -11412,7 +11412,7 @@ Just looking?
 This is the gallery. This is where I hang all my paintings... ghost paintings, that is! 
 ------     译文     ------
 ここは　画廊。
-画廊とは　絵を　かざるところじゃ。
+画廊とは　絵を　かざるところ啊。
 絵と是っても　鬼怪の絵じゃがな！
 ========== 结束 ==========
 
@@ -11449,7 +11449,7 @@ When I was young, I designed a machine to turn ghosts into paintings, and I trav
 わしは　わかいころに　鬼怪を絵にする
 機会／機械を　はつめいしてのう……
 せかいかくちで　つかまえた　鬼怪を
-絵にして　ここに　かざっていたのじゃ。
+絵にして　ここに　かざっていたの啊。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -11509,12 +11509,12 @@ I had 25 paintings once upon a time. My Famous Ghost Collection was complete! Bu
 ------     参考     ------
 By the way, Luigi . I have a favor to ask. You see that Game Boy Horror you have in your hand? It has lots of features to help you as you explore the mansion. For example, you can view the map on the screen, or you can check the items you've collected. 
 ------     译文     ------
-そうじゃ。　[控]路易吉[控]くん　ひとつ
-たのまれて　ほしいことが　あるのじゃ。
+そう啊。　[控]路易吉[控]くん　ひとつ
+たのまれて　ほしいことが　あるの啊。
 いま　キミのてもとには　あずけた
 [控]Game Boy Horror[控]が　あるじゃろう？
 これは　洋馆の　たんさくを
-サポートする　きのうが　ほうふなんじゃ。
+サポートする　きのうが　ほうふなん啊。
 たとえば　がめんに　[控]マップ[控]をひょうじさせたり
 てにいれた　[控]アイテム[控]を
 かくにんすることが　できるんじゃよ。
@@ -11533,7 +11533,7 @@ By the way, Luigi . I have a favor to ask. You see that Game Boy Horror you have
 And! I've built a part that will add even more functionality! But...I guess I left it in the room in back. How forgetful... 
 ------     译文     ------
 さらに　わしはその　[控]Game Boy Horror[控]に
-きのうをついかする[控]パーツ[控]を　つくったのじゃ。
+きのうをついかする[控]パーツ[控]を　つくったの啊。
 ところが　わしとしたことが　うっかり
 その　だいじな　[控]パーツ[控]を
 おくのへやに
@@ -11616,7 +11616,7 @@ You can also use the button in the middle to display a map of the mansion. The d
 ------     译文     ------
 ちなみに　[控]まんなかの按钮[控]は　マップがめん。
 探検した　へやは　いろが
-ついていく　しかけじゃ。
+ついていく　しかけ啊。
 まいごになったら　これを　みるんじゃぞい。
 ========== 结束 ==========
 
@@ -11749,7 +11749,7 @@ I look forward to seeing the room fully decorated, thanks to Luigi ! Heh heh heh
 [控]路易吉[控]くんの　かつやくで
 みごたえのあるへやに　なることを
 きたいしておるぞ。
-フェッ　フェッ　フェッ！
+呵呵呵！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -11767,7 +11767,7 @@ You're looking at the stand over there, aren't you? It used to hold a trophy , b
 ほんとうは　あのうえには
 [控]トロフィー[控]が　あったはずなのじゃが
 どうやら　絵の鬼怪とともに
-どこかに　いってしまったのじゃ。
+どこかに　いってしまったの啊。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -11821,7 +11821,7 @@ Oh! That part is exactly what I was looking for! Let me just get it attached...
 Excellent. The search function has been added to the Game Boy Horror . Thanks for going to all that trouble, Luigi . You should try out the search function in the gallery. Just press . 
 ------     译文     ------
 …よし　これで　[控]Game Boy Horror[控]に
-[控]搜索きのう[控]が　ついかされたはずじゃ。
+[控]搜索きのう[控]が　ついかされたはず啊。
 めんどうを　かけたのう　[控]路易吉[控]くん。
 早速　[控]按钮[控]の　[控]搜索きのう[控]を
 つかって　画廊を
@@ -11887,7 +11887,7 @@ What's that thing for?
 That's a trophy in honor of defeating ghosts. You know, it used to be a much larger, much nicer trophy ... 
 ------     译文     ------
 あれは　鬼怪たいじの　せいかを
-たたえる　[控]トロフィー[控]じゃ。
+たたえる　[控]トロフィー[控]啊。
 ほんとうは　もっと　おおきくて
 ごうかな　[控]トロフィー[控]だったのじゃがのう。
 ========== 结束 ==========
@@ -11927,7 +11927,7 @@ As you make progress and get things done, the trophy should improve! To make thi
 That's a trophy in honor of defeating ghosts. It's really starting to show signs of how busy you've been, Luigi ! 
 ------     译文     ------
 あれは　鬼怪たいじの　せいかを
-たたえる　[控]トロフィー[控]じゃ。
+たたえる　[控]トロフィー[控]啊。
 いまでは　すっかり　[控]路易吉[控]くんの
 かつやくの　あかしじゃな！
 ========== 结束 ==========
@@ -12023,7 +12023,7 @@ And I'm so happy to see King Boo added back to the collection! Thank you, Luigi 
 それに　[控]キング嘘嘘鬼[控]も
 こうして　めでたく　コレクションに
 くわえることができて　まんぞくじゃ！
-非常感谢　[控]路易吉[控]君！
+非常感谢，[控]路易吉[控]君！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -12053,7 +12053,7 @@ Both rooms are now in perfect shape for viewing. I should have a plaque made. "T
 ------     译文     ------
 [控]路易吉[控]くんのおかげで　いまはどちらも
 みごたえのあるへやに　なっているぞい。
-フェッ　フェッ　フェッ！
+呵呵呵！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -12142,8 +12142,8 @@ Hmmm...
 Well, we managed to turn those ghosts back into paintings. Thanks for your help, Luigi ! 
 ------     译文     ------
 よし　無事に　鬼怪を
-絵に　もどすことに　せいこうしたようじゃ。
-非常感谢　[控]路易吉[控]君！
+絵に　もどすことに　せいこうしたよう啊。
+非常感谢，[控]路易吉[控]君！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -12173,7 +12173,7 @@ This machine lets us turn the ghosts you catch into paintings. Not only that, it
 これさえあれば
 捕捉到的鬼怪を　絵に　するのも
 ふたたび　もとの鬼怪に　もどすのも
-おもうがままなのじゃ。
+おもうがままなの啊。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -12220,7 +12220,7 @@ The mansion those Boos built disappeared into the night, but that treasure seems
 あとかたもなく　きえさったが
 のこされた　おたからは　ほんものじゃろ。
 わしは　そんなものに　きょうみはない。
-ぜんぶ　キミのものじゃ。
+ぜんぶ　キミのもの啊。
 すきに　つかうといい！
 ========== 结束 ==========
 
@@ -12234,7 +12234,7 @@ The mansion those Boos built disappeared into the night, but that treasure seems
 Say what? Enough rattling on about money? I guess we'd better get your brother back then. 
 ------     译文     ------
 嗯？
-そんなことより　はやく　にいさんを
+そんなことより　はやく　にい先生
 もとに　もどしてくれ　じゃと？
 ========== 结束 ==========
 
@@ -12265,7 +12265,7 @@ I'd wager dollars to donuts that nobody but me has such lovely paintings! Heh he
 せかい　ひろしと　いえども
 こんな　すばらしい絵を　もっているのは
 おそらく　わしだけ　じゃろうて。
-フェッ　フェッ　フェッ！
+呵呵呵！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -12805,7 +12805,7 @@ I am TurBoo, and off I go!
 ------     参考     ------
 TurBoo: Start your engines! 
 ------     译文     ------
-テレタロー“おおっと！
+テレタロー“お嗯，！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -13555,7 +13555,7 @@ Boolderdash: Tripe!
 ------     参考     ------
 It is I, fair Booripedes. 
 ------     译文     ------
-“テレーゾじゃ。　いざ　しょうぶ！
+“テレーゾ啊。　いざ　しょうぶ！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -13635,7 +13635,7 @@ Booffant: Do you own a comb?
 ------     参考     ------
 I'm Boo B. Hatch! I'm nuts! 
 ------     译文     ------
-“わたくしが　テレーヌですの！
+“在下が　テレーヌですの！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -13763,7 +13763,7 @@ Boo B. Hatch: I've lost it!
 ------     参考     ------
 (Ah, the beautiful Melody will not even give me the time of day... What must I do to win her? ... Passion! Yes! That's it! I will show her I burn for her! My unbridled passion will scorch her soul!) 
 ------     译文     ------
-（うる老夫的　[控]ピアン[控]おじょうさん
+（うる老夫的　[控]刚秦[控]おじょうさん
  いつに　なっても　あいてに　してくれん。
  わしに　たりないものは　なんだ？
  …それは　じょうねつ！
@@ -13967,7 +13967,7 @@ Boo B. Hatch: I've lost it!
 ------     参考     ------
 (Nobody will find me because I'm old, cranky and, by gum, people are afraid of me!) 
 ------     译文     ------
-（この　[控]ヤミノフ[控]を　みつけるとは…）
+（この　[控]安夫[控]を　みつけるとは…）
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -15500,7 +15500,7 @@ No
 ------     参考     ------
 What a hilarious trick I played on Miss Petunia today! 
 ------     译文     ------
-このあいだの　[控]ミス・ブーニャ[控]ったら
+このあいだの　[控]朱菲小姐[控]ったら
 もう　さいこう！
 ========== 结束 ==========
 
@@ -15535,7 +15535,7 @@ She actually started shiverin' pretty badly, and I felt a bit guilty for a secon
 ------     参考     ------
 But Miss Petunia is made of solid stuff! 
 ------     译文     ------
-でも　ようきな　[控]ミス・ブーニャ
+でも　ようきな　[控]朱菲小姐
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -15557,7 +15557,7 @@ She took a hot shower and felt like new again!
 Once she'd warmed up, she wasn't even that mad! ( Nana ) 
 ------     译文     ------
 ひえた　からだも　そろそろ　ホットね！
-　　　　　　　　　　　　　　　（[控]ババーラ[控]）
+　　　　　　　　　　　　　　　（[控]乃奈[控]）
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -15645,7 +15645,7 @@ Instead of turning away, turn to the side and look at the mystery from a differe
 ------     参考     ------
 You found Neville's Big Baby Care Diary. 
 ------     译文     ------
-“[控]パパーラ[控]の　こそだて　にっき”がある。
+“[控]巴霸[控]の　こそだて　にっき”がある。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -15939,7 +15939,7 @@ No
 ------     参考     ------
 Dear readers... We've all had trouble with ghosts who aren't easily surprised, right? 
 ------     译文     ------
-どくしゃの　しょくんは
+どくしゃの　しょ君
 简单に　ドッキリしない　鬼怪を
 ごぞんじだろうか？
 ========== 结束 ==========
@@ -16009,7 +16009,7 @@ When a ghost is surprised and shows you its heart, that's your chance to catch t
 ------     参考     ------
 You've found Lydia's Child-Care Diary. 
 ------     译文     ------
-“[控]ママーラ[控]の　こそだてにっき”がある
+“[控]马麻[控]の　こそだてにっき”がある
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16707,7 +16707,7 @@ A ghost in the Observatory who falls like a shooting star.
 ------     参考     ------
 Neville 
 ------     译文     ------
-パパーラ
+巴霸
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16717,7 +16717,7 @@ Neville
 ------     参考     ------
 Lydia 
 ------     译文     ------
-ママーラ
+马麻
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16727,7 +16727,7 @@ Lydia
 ------     参考     ------
 Chauncey 
 ------     译文     ------
-ベビーラ
+英尔
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16747,7 +16747,7 @@ The Floating Whirlindas
 ------     参考     ------
 Shivers 
 ------     译文     ------
-セ・ノバスチャン
+申管
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16757,7 +16757,7 @@ Shivers
 ------     参考     ------
 Melody Pianissima 
 ------     译文     ------
-ピアン
+刚秦
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16767,7 +16767,7 @@ Melody Pianissima
 ------     参考     ------
 Madame Clairvoya 
 ------     译文     ------
-マダム・ミエール
+育知夫人
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16777,7 +16777,7 @@ Madame Clairvoya
 ------     参考     ------
 Mr. Luggs 
 ------     译文     ------
-ター・ハン
+超范
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16787,7 +16787,7 @@ Mr. Luggs
 ------     参考     ------
 Spooky 
 ------     译文     ------
-スプーキー
+幽灵犬
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16797,7 +16797,7 @@ Spooky
 ------     参考     ------
 Bogmire 
 ------     译文     ------
-シャドーマ
+安莫
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16807,7 +16807,7 @@ Bogmire
 ------     参考     ------
 Biff Atlas 
 ------     译文     ------
-マッディー
+基柔
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16817,7 +16817,7 @@ Biff Atlas
 ------     参考     ------
 Miss Petunia 
 ------     译文     ------
-ミス・ブーニャ
+朱菲小姐
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16827,7 +16827,7 @@ Miss Petunia
 ------     参考     ------
 Nana 
 ------     译文     ------
-ババーラ
+乃奈
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16837,7 +16837,7 @@ Nana
 ------     参考     ------
 Slim Bankshot 
 ------     译文     ------
-ポール・ロング
+宝灵
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16847,7 +16847,7 @@ Slim Bankshot
 ------     参考     ------
 Henry and Orville 
 ------     译文     ------
-ウォンとテッド
+沃祥と渥耀
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16867,7 +16867,7 @@ Boolossus
 ------     参考     ------
 Jarvis 
 ------     译文     ------
-ツボーン
+冠梓
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16877,7 +16877,7 @@ Jarvis
 ------     参考     ------
 Sue Pea 
 ------     译文     ------
-スー・ピー
+胡鲁
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16887,7 +16887,7 @@ Sue Pea
 ------     参考     ------
 Van Gore 
 ------     译文     ------
-セニョール・プジイ
+华甲
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16897,7 +16897,7 @@ Van Gore
 ------     参考     ------
 Uncle Grimmly 
 ------     译文     ------
-ヤミノフ
+安夫
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16917,7 +16917,7 @@ Clockwork Soldiers
 ------     参考     ------
 Sir Weston 
 ------     译文     ------
-アルプ
+薛杉
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -18966,7 +18966,7 @@ Catch me? Boolderdash!
 ------     参考     ------
 It is I, fair Booripedes. 
 ------     译文     ------
-“テレーゾじゃ。
+“テレーゾ啊。
 いざ　しょうぶ！”
 ========== 结束 ==========
 
@@ -18989,7 +18989,7 @@ I'm Booffant: nice hair, green.
 ------     参考     ------
 I'm Boo B. Hatch! I'm nuts! 
 ------     译文     ------
-“わたくしが　テレーヌですの！”
+“在下が　テレーヌですの！”
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -19399,7 +19399,7 @@ Dream Mansion
 ------     参考     ------
 Hidden Mansion Cleared! 
 ------     译文     ------
-うら洋馆清除！
+里洋馆清除！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -19893,7 +19893,7 @@ A等级以上の　家を
 ------     参考     ------
 Cleared the hidden mansion. 
 ------     译文     ------
-うら洋馆を　清除した。
+里洋馆を　清除した。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -20022,7 +20022,7 @@ Cleared the mansion without ever having 80 Health or less.
 ------     参考     ------
 Cleared the mansion or hidden mansion in three hours or less. 
 ------     译文     ------
-洋馆か　うら洋馆を
+洋馆か　里洋馆を
 ３時間以内に　清除した。
 ========== 结束 ==========
 
