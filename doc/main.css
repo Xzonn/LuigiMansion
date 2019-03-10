@@ -1,0 +1,257 @@
+@import url("https://xzonn.github.io/main.css");
+
+:root {
+    --color-left-block: #628BD6;
+    --color-left-block-light: #A5BDEB;
+    --color-left-block-dark: #20468B;
+    --color-content: #EEB4EA;
+    --color-content-light: #F7D5F4;
+    --color-content-dark: #9B3B93;
+}
+
+body {
+    background-image: url(images/background.png);
+    color: #FFF;
+}
+
+#header {
+    position: relative;
+    width: 100%;
+    height: 168px;
+    background-image: url(images/header.png);
+}
+
+#headerLogo {
+    position: absolute;
+    top: 20px;
+    left: calc(50% - 600px);
+    display: block;
+    width: 300px;
+    height: 128px;
+    background-image: url(./images/logo.png);
+    background-position: -128px -64px;
+}
+
+#headerLogo:after {
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: block;
+    width: 67px;
+    height: 128px;
+    background-image: url(./images/logo2.png);
+    content: "";
+}
+
+#headerLogo:hover {
+    text-decoration: none;
+}
+
+#headerLink {
+    position: absolute;
+    top: 21px;
+    left: calc(50% - 10.5px);
+    margin: 0;
+    padding: 0;
+    width: 378px;
+    height: 86px;
+    list-style: none;
+}
+
+#headerLink:after {
+    clear: both;
+    display: block;
+    content: '';
+}
+
+#headerLink li {
+    float: left;
+    width: 126px;
+    height: 43px;
+    background: url(./images/button.png);
+    text-align: center;
+    line-height: 43px;
+}
+
+#content {
+    margin: 0 auto;
+    padding: 0 1em;
+    max-width: 1200px;
+}
+
+#references {
+    clear: right;
+    margin-left: 50%;
+    padding-right: 1em;
+    max-width: 600px;
+    color: #888;
+    text-align: right;
+}
+
+#references:before {
+    content: '参考资料：';
+}
+
+#footer {
+    position: relative;
+    margin: 0;
+    margin-top: 26px;
+    padding-top: 26px;
+    width: 100%;
+    max-width: 100%;
+    border: none;
+    border-radius: 0;
+    background-color: #000;
+}
+
+#footer:before {
+    position: absolute;
+    top: -26px;
+    left: 0;
+    display: block;
+    width: 100%;
+    height: 58px;
+    background: url(./images/footer.png) repeat-x;
+    content: "";
+}
+
+.num {
+    display: inline-block;
+    width: 28px;
+    height: 32px;
+    background-image: url(./images/number.png);
+    background-position-x: -480px;
+}
+
+.num-0 {
+    background-position-x: -2px;
+}
+
+.num-1 {
+    background-position-x: -34px;
+}
+
+.num-2 {
+    background-position-x: -66px;
+}
+
+.num-3 {
+    background-position-x: -98px;
+}
+
+.num-4 {
+    background-position-x: -130px;
+}
+
+.num-5 {
+    background-position-x: -162px;
+}
+
+.num-6 {
+    background-position-x: -194px;
+}
+
+.num-7 {
+    background-position-x: -226px;
+}
+
+.num-8 {
+    background-position-x: -258px;
+}
+
+.num-9 {
+    background-position-x: -290px;
+}
+
+.num-x {
+    background-position-x: -354px;
+}
+
+.num-- {
+    background-position-x: -418px;
+}
+
+.num-w {
+    background-position-x: -450px;
+}
+
+#content .infoTable {
+    float: right;
+    margin-left: 1em;
+    width: 40%;
+    min-width: 300px;
+}
+
+.infoTableTitle {
+    font-size: 2em;
+    line-height: 1.8em;
+}
+
+.infoTable > tbody > tr > th:first-child {
+    width: 40%;
+    text-align: right;
+}
+
+.infoTable > tbody > tr > td:last-child {
+    width: 60%;
+    text-align: left;
+}
+
+.infoTable > tbody > tr > td.infoTableImage {
+    text-align: center;
+}
+
+.infoTable > tbody > tr > th.infoTableFoot {
+    text-align: center;
+}
+
+@media screen and (max-width: 600px) {
+    #content .infoTable {
+        float: none;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    #headerLogo {
+        left: 0;
+    }
+    
+    #refrences {
+        margin-left: calc(100% - 600px);
+    }
+}
+
+@media screen and (max-width: 734px) {
+    #headerLogo {
+        left: calc(50% - 128px);
+    }
+
+    #headerLink {
+        position: static;
+        margin: 0 auto;
+        height: auto;
+    }
+
+    #header {
+        padding-top: 128px;
+        height: auto;
+    }
+}
+
+@media screen and (max-width: 599px) {
+    #refrences {
+        margin-left: 0;
+    }
+}
+
+@media screen and (max-width: 377px) {
+    #headerLink {
+        width: 252px;
+    }
+}
+
+@media screen and (max-width: 251px) {
+    #headerLink {
+        width: 126px;
+    }
+}

@@ -5491,9 +5491,9 @@ By the way...what image do you think the piece's composer had in mind while writ
 ------     参考     ------
 By the way...that song was featured in a famous game. Do you know which game? 
 ------     译文     ------
-顺便一提　いまの　きょく…
-ゆうめいな　ゲームの　きょくなのですわ。
-なんという　ゲームか　おわかりになります？
+顺便一提，现在的曲子…
+是一部有名的游戏中的曲子。
+你知道是什么游戏吗？
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5505,9 +5505,9 @@ By the way...that song was featured in a famous game. Do you know which game?
 ------     参考     ------
 My name is Melody . People call me the spectral beauty of the ivory keys! 
 ------     译文     ------
-在下的名字是[控]刚秦[控]。（）
-ひとは　在下を　かれいなる
-ピアニストと　よびますわ！
+在下的名字是[控]刚秦[控]。
+人们把在下称为
+华丽的钢琴家！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5532,8 +5532,8 @@ Good to hear you're still OK! I lost your signal when that lightning struck.
 ------     译文     ------
 哦哦，太好了！
 你没事就好。
-かみなりの　せいで
-れんらくが　とれんかったぞい。
+因为打雷，
+联络中断了。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5545,9 +5545,9 @@ Good to hear you're still OK! I lost your signal when that lightning struck.
 ------     参考     ------
 Hmmm. That was some battle you had there. 
 ------     译文     ------
-…うむ
-しびれるような　たたかいが
-おわったようじゃの。
+…嗯，
+你真是经历了一场
+雷霆霹雳般的战斗啊。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5569,9 +5569,9 @@ Why don't you come on back to the lab?
 ------     参考     ------
 What? You think the lightning damaged the Poltergust 3000 ? 
 ------     译文     ------
-なに？
-かみなりで　[控]鬼怪吸尘器[控]が
-こわれたかもしれない？
+什么？
+因为打雷[控]鬼怪吸尘器[控]
+坏掉了吗？
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5581,7 +5581,7 @@ What? You think the lightning damaged the Poltergust 3000 ?
 ------     参考     ------
 Don't worry about it! 
 ------     译文     ------
-心配するな！
+不用担心啊！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5594,10 +5594,10 @@ Don't worry about it!
 ------     参考     ------
 Even if that lightning had cooked your goose, your Poltergust 3000 wouldn't even have a scratch! Heh heh! 
 ------     译文     ------
-たとえ　かみなりが　おちて
-[控]路易吉[控]君が　くろこげに　なったとしても
-[控]鬼怪吸尘器[控]は　びくともせん！
-フェッ　フェッ！
+就算打雷了，
+[控]路易吉[控]君被烧焦了，
+[控]鬼怪吸尘器[控]也不会有事的！
+呵呵呵！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5608,8 +5608,8 @@ Even if that lightning had cooked your goose, your Poltergust 3000 wouldn't even
 ------     参考     ------
 You found Mario 's Hat ! And it's been laundered recently! 
 ------     译文     ------
-[控]马力欧[控]的[控]帽子[控]を　てにいれた！
-ほんのり　にいさんの　においがする！　
+[控]马力欧[控]的[控]帽子[控]入手了！
+好像有哥哥的气味！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5620,8 +5620,8 @@ You found Mario 's Hat ! And it's been laundered recently!
 ------     参考     ------
 Mr. Bones: Fer the luvva dirt, make that yappy dog be QUIET! 
 ------     译文     ------
-ほねのあるおとこ
-“やかましい　このイヌー！
+有骨头的男子：
+“好吵啊，这只疯狗！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5631,7 +5631,7 @@ Mr. Bones: Fer the luvva dirt, make that yappy dog be QUIET!
 ------     参考     ------
 Er, um...OCCUPIED! 
 ------     译文     ------
-…是ってまーす！
+…进来！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5642,8 +5642,8 @@ Er, um...OCCUPIED!
 ------     参考     ------
 Actually, I'm afraid to leave because of all the Boos out there. Are there still Boos in this area? 
 ------     译文     ------
-ほんとは　嘘嘘鬼が　こわくて　でられないの。
-そのへんに　嘘嘘鬼が　まだ　いるでしょ？
+实际上是因为我害怕嘘嘘鬼才留在这里。
+现在这里还有嘘嘘鬼吗？
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5655,9 +5655,9 @@ Actually, I'm afraid to leave because of all the Boos out there. Are there still
 ------     参考     ------
 Hey now, Luigi ! What have you found there? Let's take a look at that. 
 ------     译文     ------
-哈喽～　[控]路易吉[控]君！
-めずらしいものを　ひろったようじゃな。
-ちょっと　みても　よいかのう？
+哈喽～[控]路易吉[控]君！
+你好像找到了很稀奇的东西啊。
+让我们来看看吧。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5669,7 +5669,7 @@ Hey now, Luigi ! What have you found there? Let's take a look at that.
 ... Ohh... Ahh... It's... 
 ------     译文     ------
 ……
-ほう　これは…
+哦，这是…
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5679,7 +5679,7 @@ Hey now, Luigi ! What have you found there? Let's take a look at that.
 ------     参考     ------
 a Fire Element Medal ! Now you can use the Fire Element ! 
 ------     译文     ------
-“[控]火の　元素奖章[控]”じゃ！
+“[控]火之元素奖章[控]”啊！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5690,8 +5690,8 @@ a Fire Element Medal ! Now you can use the Fire Element !
 ------     参考     ------
 Yes sir, with that, you can catch Fire Elemental Ghosts ! 
 ------     译文     ------
-それがあれば　[控]火の　元素[控]を
-じざいに　あやつることができるぞ！
+有了这个的话，[控]火之元素[控]
+也可以操作自如了！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5704,10 +5704,10 @@ Yes sir, with that, you can catch Fire Elemental Ghosts !
 ------     参考     ------
 Hm? What's a Fire Elemental Ghost , you ask? Why, they show up wherever you see fire, my boy! They're ghosts of fire itself, if you will. 
 ------     译文     ------
-嗯？　[控]火の　元素[控]とは
-いったい　なんなのか　じゃと？
-火　あるところに　[控]火の　元素[控]あり。
-火の　もとのような　いきもの啊。
+嗯？[控]火之元素[控]
+到底是什么是吗？
+有火的地方就有[控]火之元素[控]。
+它们就是火做的生物啊。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5720,10 +5720,10 @@ Hm? What's a Fire Elemental Ghost , you ask? Why, they show up wherever you see 
 ------     参考     ------
 If you approach a flame, they'll be surprised by your presence and leap out into the air. Then you vacuum 'em up right away! 
 ------     译文     ------
-もえさかる　火のそばに　ちかづくと
-ひとのけ是に　おどろいて
-とびだしてくることがある。　そのときは
-まよわず　すいこんでしまうんじゃ！
+如果你接近燃烧旺盛的火的旁边，
+它们会被人类的出现吓住，
+然后弹到空中。
+这时候就是你吸入它们的机会！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5734,8 +5734,8 @@ If you approach a flame, they'll be surprised by your presence and leap out into
 ------     参考     ------
 After that, you can expel fire with . 
 ------     译文     ------
-すいこんだ　元素は　[控]按钮[控]で
-はきだすことが　できるぞ。
+吸入的元素按下[控]按钮[控]
+就可以喷出来。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5747,7 +5747,7 @@ After that, you can expel fire with .
 ------     参考     ------
 You can melt ice, light candles, do all kinds of stuff. 
 ------     译文     ------
-こおりを　とかしたりするのは　むろんのこと
+（）こおりを　とかしたりするのは　むろんのこと
 ろうそくに　火を　ともすのも
 おちゃのこ　さいさいじゃ！
 ========== 结束 ==========
@@ -5779,7 +5779,7 @@ A meter will appear next to Health, so keep an eye on how much element you have 
 ------     参考     ------
 You may have to use the Fire Element to defeat some ghosts... Keep that in mind, sonny! Don't say I never warned you! 
 ------     译文     ------
-鬼怪のなかには　[控]火の　元素[控]を
+鬼怪のなかには　[控]火之元素[控]を
 つかわないと　たおせないものも
 いるはずじゃ……
 おぼえておいて　そんは　ないぞ。
@@ -9161,9 +9161,9 @@ Oh, sorry to surprise you, boy! It's me, Professor E. Gadd ... Sorry for disturb
 つうしんでは　げいが　ないからの。
 こんかいは　でんわれんらく　じゃ。
 ------     参考     ------
-I know I usually contact you by Game Boy Horror , but I thought I'd try this phone since you were in the room... 
+I know I usually contact you by GB Horror , but I thought I'd try this phone since you were in the room... 
 ------     译文     ------
-まいかい　[控]Game Boy Horror[控]の
+まいかい　[控]GB Horror[控]の
 通信では　げいが　ないからの。
 こんかいは　でんわれんらく　啊。
 ========== 结束 ==========
@@ -9293,11 +9293,11 @@ Uh-oh, the ghosts are starting to approach your position! Be careful, Luigi !
 きっと　みちが　ひらけるぞい！
 フェッ　フェッ　フェッ！
 ------     参考     ------
- Luigi , it looks like you're in trouble, but never fear! The Game Boy Horror still has more to offer! Find the mirror and search it, and you'll see what I mean. Heh heh heh! 
+ Luigi , it looks like you're in trouble, but never fear! The GB Horror still has more to offer! Find the mirror and search it, and you'll see what I mean. Heh heh heh! 
 ------     译文     ------
 こまっているようじゃな　[控]路易吉[控]君！
 だが　あんしんせい。
-[控]Game Boy Horror[控]には　まだ
+[控]GB Horror[控]には　まだ
 かくされた　きのうがあるのじゃ！
 [控]かがみ[控]をさがして　[控]搜索[控]すれば
 きっと　みちが　ひらけるぞい！
@@ -9326,10 +9326,10 @@ OK, now send me the Boo and all the data you've got.
 あやしい　ところを　みつけたら
 [控]とにかくサーチしてみる[控]のじゃ！
 ------     参考     ------
-It looks like you are on a roll, Luigi ! By the way, you haven't forgotten about the Game Boy Horror 's search function, have you? If you find a suspicious spot, you should go ahead and search ! 
+It looks like you are on a roll, Luigi ! By the way, you haven't forgotten about the GB Horror 's search function, have you? If you find a suspicious spot, you should go ahead and search ! 
 ------     译文     ------
 ちょうしが　いいようじゃな　[控]路易吉[控]君！
-顺便一提　[控]Game Boy Horror[控]の
+顺便一提　[控]GB Horror[控]の
 搜索きのうを　わすれては
 おらんじゃろうな？
 あやしい　ところを　みつけたら
@@ -9999,7 +9999,7 @@ The Training Room
 ------     参考     ------
 The Gallery 
 ------     译文     ------
-画廊にいく
+去画廊
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -10009,7 +10009,7 @@ The Gallery
 ------     参考     ------
 The Mansion 
 ------     译文     ------
-洋馆にいく
+去洋馆
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -10039,7 +10039,7 @@ Play Co-op
 ------     参考     ------
 Careful now, Luigi ! 
 ------     译文     ------
-きをつけて　いくのじゃぞ！
+你要小心啊！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -10059,7 +10059,7 @@ Don't get scared stiff, Luigi !
 ------     参考     ------
 Mansion Co-op 
 ------     译文     ------
-ふたりで洋馆
+两人前往洋馆
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -10069,7 +10069,7 @@ Mansion Co-op
 ------     参考     ------
 Hidden Mansion Co-op 
 ------     译文     ------
-ふたりで里洋馆
+两人前往里洋馆
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -10316,11 +10316,11 @@ But Boos, as their name implies, like to hide and then jump out to scare people.
 その　[控]ゲームボーイ・ホラー[控]には
 かくされた　きのうがある。
 ------     参考     ------
-Heh heh heh. Don't get all down in the mouth, my boy! That Game Boy Horror I gave you has a secret function! 
+Heh heh heh. Don't get all down in the mouth, my boy! That GB Horror I gave you has a secret function! 
 ------     译文     ------
 呵呵呵！
 不用灰心。
-用这个[控]Game Boy Horror[控]可以
+用这个[控]GB Horror[控]可以
 发现隐藏的鬼怪！
 ========== 结束 ==========
 
@@ -10397,9 +10397,9 @@ Phew... It's finally connected.
 I don't know if it's a dream, an illusion, or what-all, but I surely wouldn't be too happy winning a haunted house! 
 ------     译文     ------
 好像是梦境或者幻觉一样，
-这种鬼怪洋馆
+要是这种鬼怪洋馆
 被当做礼物送给我，
-我一点也不开心啊～。
+我也不会开心啊～。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -10441,7 +10441,7 @@ What?
 That guy was your brother? Oh no! That's horrible! 
 ------     译文     ------
 那是你的哥哥吗？
-…那个真是不得了啊！
+…那可真是不得了啊！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -10455,7 +10455,7 @@ He wouldn't stand a chance against those ghosts without my help! You have to go 
 ------     译文     ------
 赤手空拳和鬼怪战斗
 是鬼怪们绝佳的目标啊。
-快点去就你的哥哥吧！
+快点去救你的哥哥吧！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -10614,7 +10614,7 @@ It is quite an invention. I'd expect nothing less from the future me ! And if fu
 ------     译文     ------
 [控]路易吉[控]君和[控]绿易吉[控]君
 一起去洋馆探险的话，
-在实验室[控]两人一起游玩[控]
+只要选择[控]两人一起游玩[控]
 就可以了！
 ========== 结束 ==========
 
@@ -10708,7 +10708,7 @@ Heh heh! Luigi , my boy. Don't look so surprised!
 ------     参考     ------
 How about you take Gooigi with you and do some exploring? 
 ------     译文     ------
-[控]绿易吉[控]君一起[控]两个人[控]
+[控]绿易吉[控]君和[控]你一起[控]
 在洋馆里探险不错吧。
 ========== 结束 ==========
 
@@ -10830,7 +10830,7 @@ Well done! That's how you do it, Luigi ! While vacuuming, hold and use the Circl
 你成功了！[控]路易吉[控]君
 你找到感觉了啊！
 在吸入时按下[控]按钮[控]，移动
-[控]摇杆[控]可以在吸入的同时
+[控]摇杆[控]可以在吸入时
 四处移动！
 ========== 结束 ==========
 
@@ -11188,7 +11188,7 @@ Ghosts are mysterious beings... They can't be caught using conventional means.
 So you'd better use this! It's the only way to foil 'em! This is the only thing they fear! 
 ------     译文     ------
 所以你最好用这个来吸入！
-除此之外是不可能和它们战斗的。。
+除此之外是不可能和它们战斗的。
 颤抖吧，鬼怪们！
 ========== 结束 ==========
 
@@ -11313,7 +11313,7 @@ Try to get as close as possible before flashing the light. The moment you see a 
 Catching ghosts means using the strobe and the Poltergust 3000 together. You get me, young feller? 
 ------     译文     ------
 吸入鬼怪就是用闪光灯和
-[控]鬼怪吸尘器[控]啊
+[控]鬼怪吸尘器[控]啊。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -11389,7 +11389,7 @@ Sorry to bother you.
 ------     参考     ------
 All right, then! 
 ------     译文     ------
-没问题！
+那就走吧！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -11489,7 +11489,7 @@ Welcome to the Gallery!
 I had 25 paintings once upon a time. My Famous Ghost Collection was complete! But now only the frames remain. It's a shame! A tragedy! 
 ------     译文     ------
 本来是２５张组成
-[控]鬼怪名画展[控]的
+[控]鬼怪名画展 [控]的
 但是现在剩下的只有
 空空的画框了……
 ========== 结束 ==========
@@ -11507,12 +11507,12 @@ I had 25 paintings once upon a time. My Famous Ghost Collection was complete! Bu
 てにいれた　[控]アイテム[控]を
 かくにんすることが　できるんじゃよ。
 ------     参考     ------
-By the way, Luigi . I have a favor to ask. You see that Game Boy Horror you have in your hand? It has lots of features to help you as you explore the mansion. For example, you can view the map on the screen, or you can check the items you've collected. 
+By the way, Luigi . I have a favor to ask. You see that GB Horror you have in your hand? It has lots of features to help you as you explore the mansion. For example, you can view the map on the screen, or you can check the items you've collected. 
 ------     译文     ------
 是这样啊。[控]路易吉[控]君，
 有一件事我想拜托你。
 现在你的手上拿着
-[控]Game Boy Horror[控]对吧？
+[控]GB Horror[控]对吧？
 这里面有着丰富的
 用来探索洋馆的功能。
 例如画面中显示的[控]地图[控]，
@@ -11532,7 +11532,7 @@ By the way, Luigi . I have a favor to ask. You see that Game Boy Horror you have
 ------     参考     ------
 And! I've built a part that will add even more functionality! But...I guess I left it in the room in back. How forgetful... 
 ------     译文     ------
-此外老夫发明了给[控]Game Boy Horror[控]
+此外老夫发明了给[控]GB Horror[控]
 追加功能的[控]零件[控]啊。
 然而老夫忘记了它放在了那里。
 那个重要的[控]零件[控]
@@ -11553,7 +11553,7 @@ Would you mind heading to the room in back to find that part? Press to shake and
 ------     译文     ------
 在那里按[控]按钮[控]来摇晃一下家具，
 然后找一找
-[控]Game Boy Horror[控]的[控]零件[控]
+[控]GB Horror[控]的[控]零件[控]
 应该没问题吧？
 它一定在里面房间的什么地方！
 ========== 结束 ==========
@@ -11565,9 +11565,9 @@ Would you mind heading to the room in back to find that part? Press to shake and
 わしが　つくりあげた　つうしんたんまつ。
 その　きのうは　さまざまじゃ！
 ------     参考     ------
-I designed the Game Boy Horror as a communications terminal. It has all sorts of functions. 
+I designed the GB Horror as a communications terminal. It has all sorts of functions. 
 ------     译文     ------
-[控]Game Boy Horror[控]是
+[控]GB Horror[控]是
 老夫设计的通讯设备。
 它的功能有很多！
 ========== 结束 ==========
@@ -11803,9 +11803,9 @@ As you make progress and get things done, you might get the trophy back. I've ma
 ------     参考     ------
 Oh! That part is exactly what I was looking for! Let me just get it attached... 
 ------     译文     ------
-おお　それこそ　まさに　わしが
-さがしていた　[控]零件[控]じゃ！
-早速　つけてみるとするかの。
+哦哦哦，那正是老夫
+费尽心思寻找的[控]零件[控]啊！
+快点让我看看。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -11818,14 +11818,14 @@ Oh! That part is exactly what I was looking for! Let me just get it attached...
 つかって　ギャラリーを
 ゆっくり　みてまわるとよいぞ。
 ------     参考     ------
-Excellent. The search function has been added to the Game Boy Horror . Thanks for going to all that trouble, Luigi . You should try out the search function in the gallery. Just press . 
+Excellent. The search function has been added to the GB Horror . Thanks for going to all that trouble, Luigi . You should try out the search function in the gallery. Just press . 
 ------     译文     ------
-…よし　これで　[控]Game Boy Horror[控]に
-[控]搜索きのう[控]が　ついかされたはず啊。
-めんどうを　かけたのう　[控]路易吉[控]君。
-早速　[控]按钮[控]的[控]搜索きのう[控]を
-つかって　画廊を
-ゆっくり　みてまわるとよいぞ。
+…好嘞，这样的话[控]GB Horror[控]的
+[控]搜索功能[控]就已经添加好了。
+真是帮了大忙了，[控]路易吉[控]君。
+快用[控]按钮[控]的[控]搜索功能[控]
+来看看
+画廊的情况吧。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -11836,11 +11836,11 @@ Excellent. The search function has been added to the Game Boy Horror . Thanks fo
 おくのへやから　[控]ゲームボーイ・ホラー[控]の
 [控]パーツ[控]を　さがしてきては　もらえんかのう？
 ------     参考     ------
- Luigi , could you go to the room in back and find the Game Boy Horror part ? Try using to shake and bang on furniture. 
+ Luigi , could you go to the room in back and find the GB Horror part ? Try using to shake and bang on furniture. 
 ------     译文     ------
 [控]路易吉[控]君　[控]按钮[控]で　かぐを
 ゆすったり　たたいたりして　
-おくのへやから　[控]Game Boy Horror[控]の
+おくのへやから　[控]GB Horror[控]の
 [控]零件[控]を　さがしてきては　もらえんかのう？
 ========== 结束 ==========
 
@@ -11850,10 +11850,10 @@ Excellent. The search function has been added to the Game Boy Horror . Thanks fo
 [控]ゲームボーイ・ホラー[控]の[控]パーツ[控]を　てにいれた！
 どこか　なつかしいかたちをしている！
 ------     参考     ------
-You got the part for the Game Boy Horror ! It looks somewhat familiar! 
+You got the part for the GB Horror ! It looks somewhat familiar! 
 ------     译文     ------
-[控]Game Boy Horror[控]的[控]零件[控]を　てにいれた！
-どこか　なつかしいかたちをしている！
+[控]GB Horror[控]的[控]零件[控]找到了！
+好像有一个令人怀念的外形！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -18151,7 +18151,7 @@ Mario's Shoe
 ------     参考     ------
 This element medal enables vacuuming up Fire Elemental Ghosts and shooting out a flame. 
 ------     译文     ------
-火の　元素を
+火之元素を
 すいこむと　火をはきだすことが
 できる　元素奖章。
 ========== 结束 ==========
@@ -19540,7 +19540,7 @@ Poster Perfectionist
 ------     参考     ------
 Vacuumed a total of 50 ghosts in the mansion. 
 ------     译文     ------
-洋馆にいる　鬼怪を
+洋馆里存在的鬼怪
 ぜんぶで　５０匹すいこんだ。
 ========== 结束 ==========
 
@@ -19638,7 +19638,7 @@ Obtained five pictures of portrait ghosts.
 ------     参考     ------
 Vacuumed a total of 100 ghosts in the mansion. 
 ------     译文     ------
-洋馆にいる　鬼怪を
+洋馆里存在的鬼怪
 ぜんぶで　１００匹すいこんだ。
 ========== 结束 ==========
 
@@ -19740,7 +19740,7 @@ Vacuumed 20 or more Boos.
 ------     参考     ------
 Vacuumed a total of 250 ghosts in the mansion. 
 ------     译文     ------
-洋馆にいる　鬼怪を
+洋馆里存在的鬼怪
 ぜんぶで　２５０匹すいこんだ。
 ========== 结束 ==========
 
@@ -19846,7 +19846,7 @@ Boss再战で　全ての鬼怪を
 ------     参考     ------
 Vacuumed a total of 500 ghosts in the mansion. 
 ------     译文     ------
-洋馆にいる　鬼怪を
+洋馆里存在的鬼怪
 ぜんぶで　５００匹すいこんだ。
 ========== 结束 ==========
 
@@ -19950,7 +19950,7 @@ Vacuumed all the Boos.
 ------     参考     ------
 Vacuumed a total of 1,000 ghosts. 
 ------     译文     ------
-洋馆にいる　鬼怪を
+洋馆里存在的鬼怪
 ぜんぶで　１０００匹すいこんだ。
 ========== 结束 ==========
 
