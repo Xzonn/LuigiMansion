@@ -1,5 +1,3 @@
-@import url("https://xzonn.github.io/main.css");
-
 :root {
     --color-left-block: #628BD6;
     --color-left-block-light: #A5BDEB;
@@ -19,6 +17,19 @@ body {
     width: 100%;
     height: 168px;
     background-image: url(images/header.png);
+}
+
+#header:before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    display: block;
+    width: 100%;
+    height: 168px;
+    background-image: url(images/header.png);
+    content: "";
+    filter: blur(5px) invert(100%);
 }
 
 #headerLogo {
@@ -49,12 +60,12 @@ body {
 
 #headerLink {
     position: absolute;
-    top: 21px;
+    top: 59px;
     left: calc(50% - 10.5px);
     margin: 0;
     padding: 0;
-    width: 378px;
-    height: 86px;
+    width: 252px;
+    height: 43px;
     list-style: none;
 }
 
@@ -69,8 +80,17 @@ body {
     width: 126px;
     height: 43px;
     background: url(./images/button.png);
+    background-size: 100% 200%;
     text-align: center;
-    line-height: 43px;
+    line-height: 45px;
+}
+
+#headerLink li:hover {
+    background-position-y: bottom;
+}
+
+#headerLink li a {
+    color: var(--color-content-light);
 }
 
 #content {
