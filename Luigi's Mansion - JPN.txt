@@ -13729,9 +13729,9 @@ Boo B. Hatch: I've lost it!
 ------     参考     ------
 (So, you can see me? Well, that may be, but you will never find my weakness!) 
 ------     译文     ------
-（こちらが　みえるのか？
- だが　わたしのスキを　とらえることは
- だれにも　できない！）
+（你能看见我吗？
+ 就算如此，也没有人可以
+ 找到我的弱点！）
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -13744,10 +13744,10 @@ Boo B. Hatch: I've lost it!
 ------     参考     ------
 (No one can see me in this darkness! No one no one no one noooooooooo-one!) 
 ------     译文     ------
-（おいどんが　みえるはず　ないばい！
- おうとも。
- こんな　くらいのに
- みえるはず　ないばい！）
+（没有人能够看见我！
+ 这是当然。
+ 这个毛头小子
+ 更不可能看见我！）
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -13763,13 +13763,13 @@ Boo B. Hatch: I've lost it!
 ------     参考     ------
 (Ah, the beautiful Melody will not even give me the time of day... What must I do to win her? ... Passion! Yes! That's it! I will show her I burn for her! My unbridled passion will scorch her soul!) 
 ------     译文     ------
-（うる老夫的　[控]刚秦[控]おじょうさん
- いつに　なっても　あいてに　してくれん。
- わしに　たりないものは　なんだ？
- …それは　じょうねつ！
- もえさかる　じょうねつが　ほしい！
- あつい　こいの　ほのおに　みを
- こがして　みたいのじゃ…！）
+（美丽的[控]刚秦[控]大小姐啊，
+ 好想一直和她在一起啊。
+ 我现在还缺乏的是什么呢？
+ …那就是激情！
+ 我需要烈火一般的激情！
+ 让恋爱的炽热之火
+ 把我烧焦吧…！）
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -13781,9 +13781,9 @@ Boo B. Hatch: I've lost it!
 ------     参考     ------
 (Hmph! This ragamuffin looks as if he couldn't play a note!) 
 ------     译文     ------
-（フン！
- このひと…どうみても　がっきが
- ひけるタイプでは　なさそうですわ！）
+（哼！
+ 这个人…无论怎么看
+ 也不是会弹钢琴的那种类型！）
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -13793,7 +13793,7 @@ Boo B. Hatch: I've lost it!
 ------     参考     ------
 (Woof woof woof!) 
 ------     译文     ------
-（バウ　ワウ　バウ！）
+（哇哇哇！）
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -13803,7 +13803,7 @@ Boo B. Hatch: I've lost it!
 ------     参考     ------
 (Destiny chooses our paths...) 
 ------     译文     ------
-（さだめじゃ…）
+（做出选择吧…）
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -13814,8 +13814,8 @@ Boo B. Hatch: I've lost it!
 ------     参考     ------
 (Look at this buffness! I'm huge! How'd you like to be my punching bag, weakling?) 
 ------     译文     ------
-（はじけそうな　むてきの　きんにく。
- はむかうやつは　みんな　サンドバッグだぜ！）
+（看我这即将爆裂的无敌的肌肉啊。
+ 看不顺眼的家伙都是我的沙袋！）
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -13826,8 +13826,8 @@ Boo B. Hatch: I've lost it!
 ------     参考     ------
 (Ahh...a piping hot shower!) 
 ------     译文     ------
-（わたしの　ホットな　からだ
- さましてくれるの？）
+（我火热的身体
+ 要开始觉醒了吗？）
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -13838,8 +13838,8 @@ Boo B. Hatch: I've lost it!
 ------     参考     ------
 (Hey, it's a funny man. Should I play with him?) 
 ------     译文     ------
-（あら　いいおとこ！
- ちょっと　あそんであげようかしら？）
+（哎呀，真是个好男人！
+ 要不要和他玩一玩呢？）
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -13849,7 +13849,7 @@ Boo B. Hatch: I've lost it!
 ------     参考     ------
 (You want some of this?) 
 ------     译文     ------
-（あててやろうか）
+（你是想要这个吗）
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -13860,8 +13860,8 @@ Boo B. Hatch: I've lost it!
 ------     参考     ------
 (Now does he grasp zee power of my creations?) 
 ------     译文     ------
-（わたしの　さくひんの　力が
- りかい　できたかね？）
+（在我的作品中隐藏的力量
+ 你可以理解吗？）
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -13872,8 +13872,8 @@ Boo B. Hatch: I've lost it!
 ------     参考     ------
 (Let us show him how we dance...) 
 ------     译文     ------
-（わたしたちの　ダンスを
- みせつけてやりましょ…）
+（就让我们来展现
+ 华美的舞姿吧…）
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -13883,7 +13883,7 @@ Boo B. Hatch: I've lost it!
 ------     参考     ------
 (I won't wet the bed... I promise.) 
 ------     译文     ------
-（おもらし…しない）
+（我才不要…尿床）
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -13893,7 +13893,7 @@ Boo B. Hatch: I've lost it!
 ------     参考     ------
 (Go back to the woods, boyo!) 
 ------     译文     ------
-（いなかへ　けえれ！）
+（滚回乡下去吧！）
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -13903,7 +13903,7 @@ Boo B. Hatch: I've lost it!
 ------     参考     ------
 (Squeak squeak) 
 ------     译文     ------
-（キィ…キィ）
+（咔咔…咔咔）
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -13913,7 +13913,7 @@ Boo B. Hatch: I've lost it!
 ------     参考     ------
 (Heyyyyy, stooooppp lookkkinnnggg at meeee!) 
 ------     译文     ------
-（ジロジロ　ミルナ…）
+（喂喂，别看我啊…）
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -13923,7 +13923,7 @@ Boo B. Hatch: I've lost it!
 ------     参考     ------
 (The valve... The valve...) 
 ------     译文     ------
-（ネジヲ…）
+（螺丝呢…）
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -13934,8 +13934,8 @@ Boo B. Hatch: I've lost it!
 ------     参考     ------
 (Darn, I love the cold. I mean, I just plain love it!) 
 ------     译文     ------
-（さむいのが　すきなんだ…
- たまらなく　すきなんだ…！）
+（我喜欢寒冷…
+ 但喜欢也没有用…！）
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -13945,7 +13945,7 @@ Boo B. Hatch: I've lost it!
 ------     参考     ------
 (Stay away!) 
 ------     译文     ------
-（きな！）
+（滚开！）
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -13956,8 +13956,8 @@ Boo B. Hatch: I've lost it!
 ------     参考     ------
 (The burning flames of unbridled passion! Or...wait, how about the passionate flames of unbridled burning?) 
 ------     译文     ------
-（…もえあがる　こいの　ほのお。
- もう　おもいのこすことは　ないわい！）
+（…燃烧着的恋爱之火。
+ 已经不仅仅是思念了！）
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -13967,7 +13967,7 @@ Boo B. Hatch: I've lost it!
 ------     参考     ------
 (Nobody will find me because I'm old, cranky and, by gum, people are afraid of me!) 
 ------     译文     ------
-（この　[控]安夫[控]を　みつけるとは…）
+（我[控]安夫[控]是不可能有人看到的…）
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -13977,7 +13977,7 @@ Boo B. Hatch: I've lost it!
 ------     参考     ------
 (Guh-waaaa!) 
 ------     译文     ------
-（ぎゅいーーーん！）
+（哇啊啊——！）
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -13987,7 +13987,7 @@ Boo B. Hatch: I've lost it!
 ------     参考     ------
 (SMASH!) 
 ------     译文     ------
-（ぶっとぶぜ！）
+（嚓！）
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -13997,7 +13997,7 @@ Boo B. Hatch: I've lost it!
 ------     参考     ------
 (Show him the power of genius, my Music Sheets !) 
 ------     译文     ------
-（いきなさい　[控]がくふ[控]たち！）
+（上吧，我的[控]乐谱[控]们！）
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14009,9 +14009,9 @@ Boo B. Hatch: I've lost it!
 ------     参考     ------
 (It's so bright here. Everyone can see me eat! ...I don't care. I'll just keep eating!) 
 ------     译文     ------
-（こんなに　あかるいと
- たべているところが　まるみえばい！
- でも　きにせず　まだまだ　たべるばい！）
+（在这么明亮的地方
+ 大家都会看见我吃东西了！
+ 无所谓了，还是接着吃吧！）
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14022,8 +14022,8 @@ Boo B. Hatch: I've lost it!
 ------     参考     ------
 (It seems Papa and Mama used to write about us in their diary...) 
 ------     译文     ------
-（パパと　ママは　おれたちのことを
- にっきに　つけてたらしい…）
+（爸爸和妈妈好像总是
+ 把我们的事情写到日记里…）
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14033,7 +14033,7 @@ Boo B. Hatch: I've lost it!
 ------     参考     ------
 Looks ordinary... A little TOO ordinary. 
 ------     译文     ------
-もんだいなし　かな……
+好像没有什么问题……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14044,8 +14044,8 @@ Looks ordinary... A little TOO ordinary.
 ------     参考     ------
 You know, I never noticed how lovely those red polka dots look on top! 
 ------     译文     ------
-あたまに　あかい　もようがある。
-すてきだな……
+脑中浮现了红色的样子。
+真是美丽啊……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14056,8 +14056,8 @@ You know, I never noticed how lovely those red polka dots look on top!
 ------     参考     ------
 This door... It looks...mysterious, somehow. 
 ------     译文     ------
-このとびら…
-なんだか　不思議な　かんじだな……
+这扇门…
+好像有一种不可思议的感觉……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14067,7 +14067,7 @@ This door... It looks...mysterious, somehow.
 ------     参考     ------
 There's something fishy here... 
 ------     译文     ------
-なんとなく　あやしいな……
+不知为何好像有些奇怪……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14077,7 +14077,7 @@ There's something fishy here...
 ------     参考     ------
 Looks pretty normal to me... 
 ------     译文     ------
-なんの　へんてつも　なさそうだな……
+好像没有什么奇怪的……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14088,8 +14088,8 @@ Looks pretty normal to me...
 ------     参考     ------
 What's this, an antique? 
 ------     译文     ------
-アンティークショップで
-うっていそうだな……
+这好像是在古董店里
+拿来卖的啊……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14100,8 +14100,8 @@ What's this, an antique?
 ------     参考     ------
 Just like a real person... how very creepy. 
 ------     译文     ------
-ほんものの　にんげんみたいだ。
-きみが　わるいな……
+就好像是真正的人一样啊。
+真是可怜啊……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14111,7 +14111,7 @@ Just like a real person... how very creepy.
 ------     参考     ------
 Simply delightful... 
 ------     译文     ------
-りっぱだな……
+真豪华啊……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14121,7 +14121,7 @@ Simply delightful...
 ------     参考     ------
 Well, I sure can't read that from here... 
 ------     译文     ------
-ここからじゃ　よめないな……
+在这里我可读不了啊……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14131,7 +14131,7 @@ Well, I sure can't read that from here...
 ------     参考     ------
 This looks like it might break if I sit on it... 
 ------     译文     ------
-すわったら　こわれそうだな……
+似乎坐上去会很可怕啊……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14142,8 +14142,8 @@ This looks like it might break if I sit on it...
 ------     参考     ------
 What a hunk of junk! You expect me to sit on that? Please! I have standards! 
 ------     译文     ------
-よく　みたら　オンボロだ。
-すわれそうにないな……
+好像不太稳啊。
+我才不想坐上去啊……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14154,8 +14154,8 @@ What a hunk of junk! You expect me to sit on that? Please! I have standards!
 ------     参考     ------
 No one's watered this in a long time... How very sad. 
 ------     译文     ------
-だれも　みずを　やっていないみたいだな。
-かわいそうに……
+好像好久都没有人浇过水了。
+真可怜啊……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14166,8 +14166,8 @@ No one's watered this in a long time... How very sad.
 ------     参考     ------
 The candle on that table looks kind of...weird. 
 ------     译文     ------
-しょくたくの　うえの　ろうそく
-なんだか　ぶきみ……
+桌子上的蜡烛
+好像有点奇怪啊……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14178,8 +14178,8 @@ The candle on that table looks kind of...weird.
 ------     参考     ------
 Candlelight makes any ordinary room simply beautiful... 
 ------     译文     ------
-ろうそくで　しょくたくを　てらせば
-ゴージャスな　ふんいきが　でるな……
+蜡烛照耀着桌子，
+好像有一种华丽的气氛啊……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14190,8 +14190,8 @@ Candlelight makes any ordinary room simply beautiful...
 ------     参考     ------
 Aww, it's gone out. Would relighting it do any good? 
 ------     译文     ------
-うわ　もう　ひえきってるな。
-火は　つきそうに　ないけど……
+呜哇，好像有些冷了。
+还是重新点上火比较好吧……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14201,7 +14201,7 @@ Aww, it's gone out. Would relighting it do any good?
 ------     参考     ------
 Oh, what's this?! 
 ------     译文     ------
-む　これは…っ！
+嗯，这是！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14211,7 +14211,7 @@ Oh, what's this?!
 ------     参考     ------
 What's this?! 
 ------     译文     ------
-こ　これは…
+这、这是…
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14221,7 +14221,7 @@ What's this?!
 ------     参考     ------
 This certainly adds to the atmosphere of the place... 
 ------     译文     ------
-こころなごむ　かんじが　するな……
+好像有种心情平静下来的感觉……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14231,7 +14231,7 @@ This certainly adds to the atmosphere of the place...
 ------     参考     ------
 This would sure fetch a pretty penny... 
 ------     译文     ------
-うったら　たかいかも　しれないな……
+这大概可以卖个好价钱吧……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14241,7 +14241,7 @@ This would sure fetch a pretty penny...
 ------     参考     ------
 Just how I like it... Nice and clean! 
 ------     译文     ------
-きれいに　そうじ　されているな……
+打扫完了之后变得干净多了……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14251,7 +14251,7 @@ Just how I like it... Nice and clean!
 ------     参考     ------
 Looks fancy! 
 ------     译文     ------
-ずいぶん　こうきゅう　そうだな……
+真是高贵啊……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14261,7 +14261,7 @@ Looks fancy!
 ------     参考     ------
 Oh, wow... I've always wanted one of these! 
 ------     译文     ------
-これ　すごく　ほしかったんだ……
+这些东西我有点想要啊……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14271,7 +14271,7 @@ Oh, wow... I've always wanted one of these!
 ------     参考     ------
 I've been wanting one of these for quite a while... 
 ------     译文     ------
-まえから　これ　ほしかったんだ……
+很久以前我就想要了……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14281,7 +14281,7 @@ I've been wanting one of these for quite a while...
 ------     参考     ------
 It looks old, but I bet it still has a nice tone... 
 ------     译文     ------
-ふるいけど　おとは　なりそうだな……
+虽然很旧了，但是声音大概很美吧……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14292,8 +14292,8 @@ It looks old, but I bet it still has a nice tone...
 ------     参考     ------
 That looks cold... Hey! I can see my breath! 
 ------     译文     ------
-これは　つめたそうだ。
-いきも　しろくなるな……
+真是冷啊。
+呼出的气都变白了……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14304,8 +14304,8 @@ That looks cold... Hey! I can see my breath!
 ------     参考     ------
 I really should work out more. Maybe I ought to throw a few quick jabs while I'm here... 
 ------     译文     ------
-ひだりの　パンチを
-きたえて　おくかな……
+真想训练一下
+左手的拳头啊……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14317,9 +14317,9 @@ I really should work out more. Maybe I ought to throw a few quick jabs while I'm
 ------     参考     ------
 Boy, that looks hot... Someone should probably cool it off. 
 ------     译文     ------
-すごく　あつそうだ。
-もうすこし　ひやしたほうが
-よさそうだな……
+这还真是热啊。
+稍微冷却一下
+比较好吧……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14332,10 +14332,10 @@ Boy, that looks hot... Someone should probably cool it off.
 ------     参考     ------
 What a lovely crystal ball! You know, these give off such a beautiful glow when light shines on them... I wonder if my flashlight would work... 
 ------     译文     ------
-きれいな　すいしょうだまだ。
-こういうのって　ひかりを　あてつづけると
-どんどん　かがやきを　ますんだ。
-ちょっと　やってみようかな……
+真是美丽的水晶球啊。
+像这样继续照着它，
+就会增添它的光辉吧
+稍微尝试一下吧……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14345,7 +14345,7 @@ What a lovely crystal ball! You know, these give off such a beautiful glow when 
 ------     参考     ------
 Looks like this hasn't gotten much use of late... 
 ------     译文     ------
-だれも　つかってないようだな……
+看上去谁也无法使用啊……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14355,7 +14355,7 @@ Looks like this hasn't gotten much use of late...
 ------     参考     ------
 Now that I look at it--it's full of moth holes! Yecch! 
 ------     译文     ------
-よくみたら　ダニだらけだな……
+仔细一看，好像有好多虫洞啊……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14366,8 +14366,8 @@ Now that I look at it--it's full of moth holes! Yecch!
 ------     参考     ------
 So much dust! This will never pass the white-glove test! 
 ------     译文     ------
-ホコリが　たまってる……
-きれいずきには　たえられないな……
+积了好多灰尘啊……
+有洁癖的人肯定会受不了吧……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14377,7 +14377,7 @@ So much dust! This will never pass the white-glove test!
 ------     参考     ------
 I wonder if there are any goodies there... 
 ------     译文     ------
-おやつでも　是ってないかな……
+即使是小东西也进不去吧……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14388,8 +14388,8 @@ I wonder if there are any goodies there...
 ------     参考     ------
 I could just curl up there and sleep until dawn... 
 ------     译文     ------
-これで　あさまで　ねたら
-きもちいいだろうな……
+要是能一睡睡到早上
+心情一定会很好吧……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14399,7 +14399,7 @@ I could just curl up there and sleep until dawn...
 ------     参考     ------
 I guess you just can't plan for this sort of thing... 
 ------     译文     ------
-じんせいって　はかないな……
+人生无常啊……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14409,7 +14409,7 @@ I guess you just can't plan for this sort of thing...
 ------     参考     ------
 Hey, it's flower season, isn't it? I almost forgot! 
 ------     译文     ------
-そういえば　はなの　きせつだな……
+话说快要到花开的季节了啊……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14419,7 +14419,7 @@ Hey, it's flower season, isn't it? I almost forgot!
 ------     参考     ------
 Looks rather old and fragile... 
 ------     译文     ------
-ふるくて　もろくなっていそうだな……
+它太老旧了，好像很脆弱……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14429,7 +14429,7 @@ Looks rather old and fragile...
 ------     参考     ------
 I wonder how old this is... 
 ------     译文     ------
-いつぐらいの　もの　なのかな……
+这是什么年代的东西了啊……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14440,8 +14440,8 @@ I wonder how old this is...
 ------     参考     ------
 Now, that's a classic. I wonder how much it would sell for. 
 ------     译文     ------
-ねんだいものだな。　
-うったら　たかそうだ……
+这是个老古董了啊。
+拿去卖的话会很值钱吧……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14452,8 +14452,8 @@ Now, that's a classic. I wonder how much it would sell for.
 ------     参考     ------
 Now that's just not my style... 
 ------     译文     ------
-この　センスには　ちょっと
-ついていけないな……
+这种感觉
+我大概跟不上吧……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14463,7 +14463,7 @@ Now that's just not my style...
 ------     参考     ------
 These look kind of comfortable... No, I'll stick with my duds! 
 ------     译文     ------
-こういうのも　いちどは　きてみたいな……
+我早就希望能感受一下它们了……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14473,7 +14473,7 @@ These look kind of comfortable... No, I'll stick with my duds!
 ------     参考     ------
 This looks pricey... 
 ------     译文     ------
-これは　たかく　うれそうだな……
+这些看上去很值钱啊……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14484,8 +14484,8 @@ This looks pricey...
 ------     参考     ------
 Boy, those Boos sure did make a realistic fake mansion... 
 ------     译文     ------
-これって　ほんとに
-まぼろしなのかな……
+这些嘘嘘鬼真的是
+梦幻一样的东西啊……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14496,8 +14496,8 @@ Boy, those Boos sure did make a realistic fake mansion...
 ------     参考     ------
 I'm willing to bet there's something cold in there... 
 ------     译文     ------
-つめたいものでも
-是ってないかな……
+在这个地方一定有
+什么冷东西吧……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14508,8 +14508,8 @@ I'm willing to bet there's something cold in there...
 ------     参考     ------
 What's written on that sign? 
 ------     译文     ------
-かんばんに　なにか　かいてあるな。
-なになに…
+板子上好像写着什么东西。
+我来看看…
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14520,8 +14520,8 @@ What's written on that sign?
 ------     参考     ------
 HERE LIES MR. BONES...QUIET! 
 ------     译文     ------
-“ほねのあるおとこ　ここに　ねむる。
- さわがしく　するべからず”……
+“有骨之人在此长眠。
+ 请保持安静”……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14532,8 +14532,8 @@ HERE LIES MR. BONES...QUIET!
 ------     参考     ------
 What a dreadful picture... But that candle next to it might be important... 
 ------     译文     ------
-きみの　わるい　絵だ……
-よこの　ろうそくも　いみありげだな……　
+真是糟糕的绘画啊……
+旁边的蜡烛似乎有什么意义吧……　
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14544,8 +14544,8 @@ What a dreadful picture... But that candle next to it might be important...
 ------     参考     ------
 I think I used to have one of these! Yeah, I did! 
 ------     译文     ------
-そういえば　こどものころ
-よく　こんなので　あそんだな……　
+话说回来我小时候
+好像经常玩它们呢……　
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14556,8 +14556,8 @@ I think I used to have one of these! Yeah, I did!
 ------     参考     ------
 WAHAHA! Who designed this?! 
 ------     译文     ------
-ははは
-ゆめがある　かたちを　してるな……
+哈哈，
+真是充满梦想的形状啊……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14567,7 +14567,7 @@ WAHAHA! Who designed this?!
 ------     参考     ------
 Awww, poor thing... 
 ------     译文     ------
-なんだか　かわいそうだな……
+好像有些恐怖啊……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14578,8 +14578,8 @@ Awww, poor thing...
 ------     参考     ------
 How could anyone treat an animal that way? I won't stand for it!! 
 ------     译文     ------
-どうぶつが　すきな　ぼくには
-これは　ゆるせないな……
+喜欢动物的我最看不惯的
+就是这种行为了……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14590,8 +14590,8 @@ How could anyone treat an animal that way? I won't stand for it!!
 ------     参考     ------
 This looks quite old... I wonder how much it would sell for. 
 ------     译文     ------
-これは　ねんだいものだ。
-たかく　うれそうだな…！
+这是个老古董了吧。
+看上去很值钱啊…！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14602,8 +14602,8 @@ This looks quite old... I wonder how much it would sell for.
 ------     参考     ------
 (Way to go, genius... Do you have the hang of that thing yet?) 
 ------     译文     ------
-すごい　あたまだ。
-ちょっとだけ　あこがれるな……
+真是个小天才。
+我都有点崇拜了呢……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14613,7 +14613,7 @@ This looks quite old... I wonder how much it would sell for.
 ------     参考     ------
 Hmmm... Weird... 
 ------     译文     ------
-よく　わからないな……
+好像有些看不明白啊……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14623,7 +14623,7 @@ Hmmm... Weird...
 ------     参考     ------
 If you look closely, you can tell it's really just a photograph! 
 ------     译文     ------
-よくみたら　しゃしんだ……
+仔细一看原来是照片啊……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14634,8 +14634,8 @@ If you look closely, you can tell it's really just a photograph!
 ------     参考     ------
 Why is only this frozen? 
 ------     译文     ------
-なんで　これだけ
-こおってるんだろう…？
+为什么只有这一个
+被冻起来了…？
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14645,7 +14645,7 @@ Why is only this frozen?
 ------     参考     ------
 I'd like to visit outer space someday... 
 ------     译文     ------
-うちゅうにも　いってみたいな……
+好希望有一天能前往太空啊……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14655,7 +14655,7 @@ I'd like to visit outer space someday...
 ------     参考     ------
 For some reason I feel like spinning that... 
 ------     译文     ------
-おもわず　しめたくなるな……
+不知为何我想转一下它……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14665,7 +14665,7 @@ For some reason I feel like spinning that...
 ------     参考     ------
 It's a picture...but I wouldn't call it art. 
 ------     译文     ------
-絵だ……
+是画……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14676,8 +14676,8 @@ It's a picture...but I wouldn't call it art.
 ------     参考     ------
 I don't think I can reach that directly... 
 ------     译文     ------
-たかすぎて　ちょくせつ　さわることは
-できないな……
+太高了，好像不能
+直接拿到啊……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14687,7 +14687,7 @@ I don't think I can reach that directly...
 ------     参考     ------
 I don't care much for pointy objects... 
 ------     译文     ------
-とがったものは　きらいだな……
+我讨厌尖锐的东西啊……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14698,8 +14698,8 @@ I don't care much for pointy objects...
 ------     参考     ------
 Personally, I've always liked the bottom bunk a bit better... 
 ------     译文     ------
-ぼくは　したの　だんのほうが
-すきだな……
+我觉得下面的坛子
+会比较好……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14709,7 +14709,7 @@ Personally, I've always liked the bottom bunk a bit better...
 ------     参考     ------
 I wish I had time to straighten this mess up a bit... 
 ------     译文     ------
-すこしは　かたづけてほしいな……
+我觉得稍微收拾一下比较好吧……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14721,9 +14721,9 @@ I wish I had time to straighten this mess up a bit...
 ------     参考     ------
 Wh-What's this...? Eeek! Oh... It's just a chair. 
 ------     译文     ------
-こ　これはっ！
+这、这难道是！
 ……
-まさに　普通の　いすだな……
+原来只是普通的椅子啊……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14733,7 +14733,7 @@ Wh-What's this...? Eeek! Oh... It's just a chair.
 ------     参考     ------
 That looks like it might be fun to twirl... 
 ------     译文     ------
-まわして　あそぼうかな……
+好像转着玩一玩啊……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14743,7 +14743,7 @@ That looks like it might be fun to twirl...
 ------     参考     ------
 Mmmmm, very elegant... 
 ------     译文     ------
-うーむむむ　しぶいな……
+嗯，很优雅啊……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14754,8 +14754,8 @@ Mmmmm, very elegant...
 ------     参考     ------
 Breathtaking! A simple design with a dash of casual elegance! 
 ------     译文     ------
-シンプルな　インテリアだ。
-さりげなさが　ポイントだな……
+真是简单的设计啊。
+简约就是关键吗……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -14765,7 +14765,7 @@ Breathtaking! A simple design with a dash of casual elegance!
 ------     参考     ------
 Well, they sure did pile odds and ends everywhere... Filthy. 
 ------     译文     ------
-なにやら　いろいろ　のったままだな……
+なにやら　いろいろ　のったままだな……（）
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -19369,7 +19369,7 @@ Legendary Hunter
 ------     参考     ------
 Mega Rich! 
 ------     译文     ------
-だい富翁！
+大富翁！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -19429,7 +19429,7 @@ Golden Mischief
 ------     参考     ------
 Not Speedy Enough 
 ------     译文     ------
-かねもち亚普杀手
+有钱亚普杀手
 ========== 结束 ==========
 
 ========== 开始 ==========
