@@ -7975,7 +7975,7 @@ Yuk yuk! I win again! Ta, mate!
 ------     参考     ------
 You got none o' me, boyo! 
 ------     译文     ------
-[控]０ひき[控]　だべ！
+[控]０只[控]抓住了！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -7985,7 +7985,7 @@ You got none o' me, boyo!
 ------     参考     ------
 You got one o' me, boyo! 
 ------     译文     ------
-[控]１ぴき[控]　だべ！
+[控]１只[控]抓住了！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -7995,7 +7995,7 @@ You got one o' me, boyo!
 ------     参考     ------
 You got two o' me, boyo! 
 ------     译文     ------
-[控]２ひき[控]　だべ！
+[控]２只[控]抓住了！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -8005,7 +8005,7 @@ You got two o' me, boyo!
 ------     参考     ------
 You got three o' me, boyo! 
 ------     译文     ------
-[控]３びき[控]　だべ！
+[控]３只[控]抓住了！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -8015,7 +8015,7 @@ You got three o' me, boyo!
 ------     参考     ------
 You got four o' me, boyo! 
 ------     译文     ------
-[控]４ひき[控]　だべ！
+[控]４只[控]抓住了！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -8025,7 +8025,7 @@ You got four o' me, boyo!
 ------     参考     ------
 You got five o' me, boyo! 
 ------     译文     ------
-[控]５ひき[控]　だべ！
+[控]５只[控]抓住了！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -8035,7 +8035,7 @@ You got five o' me, boyo!
 ------     参考     ------
 You got six o' me, boyo! 
 ------     译文     ------
-[控]６ぴき[控]　だべ！
+[控]６只[控]抓住了！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -8045,7 +8045,7 @@ You got six o' me, boyo!
 ------     参考     ------
 You got seven o' me, boyo! 
 ------     译文     ------
-[控]７ひき[控]　だべ！
+[控]７只[控]抓住了！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -10019,7 +10019,7 @@ The Mansion
 ------     参考     ------
 Get to it! 
 ------     译文     ------
-いってみるか！
+去看看吧！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -10049,7 +10049,7 @@ Careful now, Luigi !
 ------     参考     ------
 Don't get scared stiff, Luigi ! 
 ------     译文     ------
-いきてかえれよ　[控]路易吉[控]君！
+你要活着回来啊，[控]路易吉[控]君！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -10079,7 +10079,7 @@ Hidden Mansion Co-op
 ------     参考     ------
 Training Room Co-op 
 ------     译文     ------
-ふたりで训练
+两人一起训练
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -10089,7 +10089,7 @@ Training Room Co-op
 ------     参考     ------
 Good luck! 
 ------     译文     ------
-やってみるか！
+等你的好消息！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -10099,7 +10099,7 @@ Good luck!
 ------     参考     ------
 Gallery Co-op 
 ------     译文     ------
-ふたりで画廊
+两人前往画廊
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16372,8 +16372,8 @@ Shining Ghost
 ------     参考     ------
 An orange ghost who likes to throw spinning punches. 
 ------     译文     ------
-オレンジ色の　鬼怪。
-クルクルパンチを　かましてくる。
+橘黄色的鬼怪。
+喜欢快速挥动拳头。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16384,8 +16384,8 @@ An orange ghost who likes to throw spinning punches.
 ------     参考     ------
 A light-blue ghost with the Fire Element. Vulnerable to water. 
 ------     译文     ------
-火之元素を　もつ亚普。
-みずのこうげきに　よわい。
+带有火之元素的亚普。
+水元素的攻击很有效。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16396,8 +16396,8 @@ A light-blue ghost with the Fire Element. Vulnerable to water.
 ------     参考     ------
 A pale-blue ghost who is quick to flee at the first sign of danger. 
 ------     译文     ------
-おかねもちの　青い　亚普。
-にげあしが　とても　はやい。
+带着很多钱的蓝色亚普。
+逃跑的速度非常快。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16408,8 +16408,8 @@ A pale-blue ghost who is quick to flee at the first sign of danger.
 ------     参考     ------
 A swift pink ghost who uses uppercuts to hurt foes. 
 ------     译文     ------
-足がはやい　ピンク色の鬼怪。
-アッパーこうげきを　してくる。
+跑得很快的粉色鬼怪。
+可能会从上方攻击。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16420,8 +16420,8 @@ A swift pink ghost who uses uppercuts to hurt foes.
 ------     参考     ------
 A Purple Puncher with the Ice Element. Vulnerable to fire. 
 ------     译文     ------
-冰之元素をもつ马普。
-火のこうげきに　よわい。
+带有冰之元素的马普。
+火元素的攻击很有效。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16432,8 +16432,8 @@ A Purple Puncher with the Ice Element. Vulnerable to fire.
 ------     参考     ------
 A blue ghost who makes painful shock waves by striking the floor. 
 ------     译文     ------
-ふとった　青色の鬼怪。ゆかを
-たたいて　しょうげきはをだす。
+肥胖的蓝色鬼怪。
+在床上振动会产生冲击波。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16444,8 +16444,8 @@ A blue ghost who makes painful shock waves by striking the floor.
 ------     参考     ------
 A Blue Twirler with the Water Element. It's weak to ice attacks. 
 ------     译文     ------
-水之元素を　もつ莫普。
-こおりのこうげきに　よわい。
+带有水之元素的莫普。
+冰元素的攻击很有效。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16456,8 +16456,8 @@ A Blue Twirler with the Water Element. It's weak to ice attacks.
 ------     参考     ------
 A slow-moving ghost who likes to grab you and hold on. 
 ------     译文     ------
-のろのろやってくる　白い鬼怪。
-とりつかれたら　なにもできない。
+总是慢吞吞的白色鬼怪。
+如果被抓住了就什么也做不了。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16468,8 +16468,8 @@ A slow-moving ghost who likes to grab you and hold on.
 ------     参考     ------
 A ghost in the Dining Room. His hands are full, so he can't grab. 
 ------     译文     ------
-餐厅でりょうりを　はこぶ托基。
-てがふさがって　とりつけない。
+在餐厅中搬运饭菜的托基。
+双手都被占用了，无法做出攻击。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16480,8 +16480,8 @@ A ghost in the Dining Room. His hands are full, so he can't grab.
 ------     参考     ------
 A red Grabbing Ghost whose grip is quite painful. 
 ------     译文     ------
-赤色の托基。とりつかれると
-ダメージを　うけてしまう。
+红色的托基。如果被它抓住了
+会承受很重的伤害。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16492,8 +16492,8 @@ A red Grabbing Ghost whose grip is quite painful.
 ------     参考     ------
 A Grabbing Ghost in the Mirror Room, seen only as a reflection. 
 ------     译文     ------
-かがみのある部屋にいる托基。
-かがみにだけ　すがたが映る。
+在有镜子的房间会出现的托基。
+只有在镜子里才能看明真身。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16504,8 +16504,8 @@ A Grabbing Ghost in the Mirror Room, seen only as a reflection.
 ------     参考     ------
 A Grabbing Ghost visible only on the Projection Room screen. 
 ------     译文     ------
-放映室にいる　托基。
-スクリーンにだけ　すがたが映る。
+放映室中出现的托基。
+只有在荧幕上才能看明真身。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16516,8 +16516,8 @@ A Grabbing Ghost visible only on the Projection Room screen.
 ------     参考     ------
 A masked ghost who attacks with a spear. 
 ------     译文     ------
-かめんをつけた　鬼怪。
-ヤリで　こうげきしてくる。
+带着假面的鬼怪。
+用长矛来攻击。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16528,8 +16528,8 @@ A masked ghost who attacks with a spear.
 ------     参考     ------
 One of a pair of dancing Ghost Guys who attack as they twirl. 
 ------     译文     ------
-２ひきで　おどる　嘿普。
-おどりながら　こうげきしてくる。
+２只一起跳舞的嘿普。
+一边跳舞一边攻击。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16540,8 +16540,8 @@ One of a pair of dancing Ghost Guys who attack as they twirl.
 ------     参考     ------
 A skeletal ghost who throws his own bones and falls apart. 
 ------     译文     ------
-じぶんのホネで　こうげきしては
-巴拉巴拉になってしまう　鬼怪。
+用自己的骨头来攻击，
+随后散成七零八落的鬼怪。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16552,8 +16552,8 @@ A skeletal ghost who throws his own bones and falls apart.
 ------     参考     ------
 A banana-eating ghost who hurls the leftover peels at enemies. 
 ------     译文     ------
-バナナを食べている　鬼怪。
-食べおわった　かわをなげてくる。
+吃着香蕉的鬼怪。
+吃完之后就把香蕉皮扔掉。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16564,8 +16564,8 @@ A banana-eating ghost who hurls the leftover peels at enemies.
 ------     参考     ------
 A white ghost who hangs down from the ceiling to frighten you. 
 ------     译文     ------
-てんじょうから　おどろかそうと
-たれさがってくる　白い鬼怪。
+从天花板上垂下来，
+想要吓人一跳的鬼怪。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16576,8 +16576,8 @@ A white ghost who hangs down from the ceiling to frighten you.
 ------     参考     ------
 A purple Ceiling Surprise who drops bombs on those below. 
 ------     译文     ------
-てんじょうにいる　紫の
-布朗。ばくだんを　おとす。
+在天花板上的紫色布朗。
+随身携带着炸弹。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16588,8 +16588,8 @@ A purple Ceiling Surprise who drops bombs on those below.
 ------     参考     ------
 A ghost carrying a heavy ball. It carefully lines up its shot. 
 ------     译文     ------
-１０ポンドのボールをもつ鬼怪。
-ねらいを　定めてボールをなげる。
+带着10磅重大球的鬼怪。
+一旦确定了目标就会扔出去。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16600,8 +16600,8 @@ A ghost carrying a heavy ball. It carefully lines up its shot.
 ------     参考     ------
 A blue ghost mouse that wanders around in the hallways. 
 ------     译文     ------
-ろうかを　ちょろちょろと
-移动する　青いネズミの鬼怪。
+在走廊里乱窜的
+蓝色老鼠鬼怪。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16612,8 +16612,8 @@ A blue ghost mouse that wanders around in the hallways.
 ------     参考     ------
 A purple ghost mouse that can scurry through walls. 
 ------     译文     ------
-ろうかを　ゆかから　かべへと
-はしりぬける　紫のミミー。
+在走廊里从床边跑到
+墙角的紫色的老鼠。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16624,8 +16624,8 @@ A purple ghost mouse that can scurry through walls.
 ------     参考     ------
 A golden ghost mouse found in hallways and near cheese. 
 ------     译文     ------
-くらやみにある　チーズや
-ろうかにいる　金色のミミー。
+在黑暗的奶酪边或走廊上
+会出现的金色的老鼠。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16636,8 +16636,8 @@ A golden ghost mouse found in hallways and near cheese.
 ------     参考     ------
 A yellow bat lurking in the halls. Leave it be and it'll leave you be. 
 ------     译文     ------
-ろうかにいる　黄色のこうもり。
-ほうっておけば　こうげきしない。
+在走廊里出现的黄色的蝙蝠。
+只要不管它它就不会攻击。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16648,8 +16648,8 @@ A yellow bat lurking in the halls. Leave it be and it'll leave you be.
 ------     参考     ------
 A purple bat lurking in the halls. It will attack if you get too close. 
 ------     译文     ------
-ろうかにいる　紫のこうもり。
-ちかづくと　おそってくる。
+在走廊里出现的紫色的蝙蝠。
+如果离它太近可能会被攻击。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16660,8 +16660,8 @@ A purple bat lurking in the halls. It will attack if you get too close.
 ------     参考     ------
 A small pink ghost. They attack in groups. 
 ------     译文     ------
-小さな　ピンクの鬼怪。
-しゅうだんで　体当たりしてくる。
+小小的粉色的鬼怪。
+团成一团撞来撞去。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16672,8 +16672,8 @@ A small pink ghost. They attack in groups.
 ------     参考     ------
 A small green ghost. It's faster than the pink kind. 
 ------     译文     ------
-小さな　緑の鬼怪。
-ピンクの普普より　動きが速い。
+小小的绿色的鬼怪。
+比粉色的普普移动更快。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16684,8 +16684,8 @@ A small green ghost. It's faster than the pink kind.
 ------     参考     ------
 A red ghost who emerges from walls. Self-destructs if left alone. 
 ------     译文     ------
-かべから出てくる　赤色の鬼怪。
-ほうっておくと　じばくする。
+从墙壁中出现的红色的鬼怪。
+放着它不管就会自爆。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16696,8 +16696,8 @@ A red ghost who emerges from walls. Self-destructs if left alone.
 ------     参考     ------
 A ghost in the Observatory who falls like a shooting star. 
 ------     译文     ------
-幻想房间でながれぼしのように
-ふってくる　黄色の鬼怪。
+在幻想房间像流星一样
+缓缓滑落的黄色鬼怪。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -18151,9 +18151,9 @@ Mario's Shoe
 ------     参考     ------
 This element medal enables vacuuming up Fire Elemental Ghosts and shooting out a flame. 
 ------     译文     ------
-火之元素を
-すいこむと　火をはきだすことが
-できる　元素奖章。
+吸入火之元素后
+就可以喷出火的
+元素奖章。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -18165,9 +18165,9 @@ This element medal enables vacuuming up Fire Elemental Ghosts and shooting out a
 ------     参考     ------
 This element medal enables vacuuming up Water Elemental Ghosts and shooting out a stream. 
 ------     译文     ------
-水之元素を
-すいこむと　みずをはきだすことが
-できる　元素奖章。
+吸入水之元素后
+就可以喷出水的
+元素奖章。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -18179,9 +18179,9 @@ This element medal enables vacuuming up Water Elemental Ghosts and shooting out 
 ------     参考     ------
 This element medal enables vacuuming up Ice Elemental Ghosts and shooting out ice. 
 ------     译文     ------
-冰之元素を
-すいこむと　こおりをはきだすことが
-できる　元素奖章。
+吸入冰之元素后
+就可以喷出冰的
+元素奖章。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -18193,9 +18193,9 @@ This element medal enables vacuuming up Ice Elemental Ghosts and shooting out ic
 ------     参考     ------
 It\'s the hat Mario used to wear. It smells like laundry detergent, but there is still a faint "Mario" smell. 
 ------     译文     ------
-马力欧が　かぶっていた帽子。
-せんざいの　においと
-ほのかに　马力欧的　においがする。
+马力欧经常带着的帽子。
+残留的气味好像是
+马力欧的气味。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -18207,9 +18207,9 @@ It\'s the hat Mario used to wear. It smells like laundry detergent, but there is
 ------     参考     ------
 It's a letter from Mario, but it's nearly impossible to read. He must have been in a hurry writing it. 
 ------     译文     ------
-马力欧からの　信。
-あわてて　かいたのか
-なにが　かいてあるのか　よめない。
+马力欧寄来的信。
+慌慌张张写成的，
+写的是什么难以读出来。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -18221,9 +18221,9 @@ It's a letter from Mario, but it's nearly impossible to read. He must have been 
 ------     参考     ------
 A star that was found in the Observatory. It belonged to Mario, and it emits a blinding light. 
 ------     译文     ------
-幻想房间で　見つけた
-马力欧が　もっていた星星。
-まばゆいかがやきを　はなつ。
+在幻想房间中发现的
+马力欧曾经拥有的星星。
+仍然绽放着光芒。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -18235,9 +18235,9 @@ A star that was found in the Observatory. It belonged to Mario, and it emits a b
 ------     参考     ------
 The white gloves Mario wears. They're a little damp from sweat... 
 ------     译文     ------
-马力欧が　つけていた
-白い　手套。
-てあせで　しめっている。
+马力欧经常戴着的
+白色的手套。
+好像还残留着体温。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -18249,9 +18249,9 @@ The white gloves Mario wears. They're a little damp from sweat...
 ------     参考     ------
 The shoes Mario wears. They're worn out from all his adventures and have a familiar smell... 
 ------     译文     ------
-马力欧が　是ていた　くつ。
-はきならされていて
-なつかしい　かおりがする。
+马力欧经常穿着的鞋子。
+虽然有些破旧了，
+但是有着熟悉的气息。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -18999,7 +18999,7 @@ I'm Boo B. Hatch! I'm nuts!
 ------     参考     ------
 A tent with several holes 
 ------     译文     ------
-あなあきテント
+有洞的帐篷
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -19009,7 +19009,7 @@ A tent with several holes
 ------     参考     ------
 A run-down shed 
 ------     译文     ------
-おんぼろ小屋
+破旧的小屋
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -19019,7 +19019,7 @@ A run-down shed
 ------     参考     ------
 A modest house 
 ------     译文     ------
-ちいさな家
+小小的家
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -19029,7 +19029,7 @@ A modest house
 ------     参考     ------
 A house with a loft 
 ------     译文     ------
-ロフトつきの家
+有阁楼的家
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -19039,7 +19039,7 @@ A house with a loft
 ------     参考     ------
 A spacious house 
 ------     译文     ------
-ひろびろとした家
+宽敞明亮的家
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -19049,7 +19049,7 @@ A spacious house
 ------     参考     ------
 A two-story house 
 ------     译文     ------
-２かいだての家
+两层的家
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -19059,7 +19059,7 @@ A two-story house
 ------     参考     ------
 A Large Compound 
 ------     译文     ------
-おおきな洋馆
+宏大的洋馆
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -19069,7 +19069,7 @@ A Large Compound
 ------     参考     ------
 A Luxurious Mansion 
 ------     译文     ------
-ふんすいつきのごうてい
+有喷泉的豪宅
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -19079,7 +19079,7 @@ THE だいごうてい
 ------     参考     ------
 The Grand Mansion 
 ------     译文     ------
-THE だいごうてい
+THE 大豪宅
 ========== 结束 ==========
 
 ========== 开始 ==========

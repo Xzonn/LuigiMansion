@@ -1,6 +1,7 @@
 ---
 layout: default
-title: 基本介绍 - 流程攻略
+title: 《路易吉洋馆》专题站（在建中）
+permalink: /
 ---
 ## 游戏介绍
 <table class="infoTable">
@@ -24,7 +25,7 @@ title: 基本介绍 - 流程攻略
     </tbody>
 </table>
 
-《**路易吉洋馆**》是 2018 年 11 月 8 日于日本发行的任天堂 3DS 游戏。该游戏是 GameCube 游戏《路易吉洋馆》的重制版，在原版的基础上加入了闪光灯、Amiibo、双人游玩等元素。
+《**路易吉洋馆**》是 2018 年 11 月 8 日于日本发行的任天堂 3DS 游戏。该游戏是 GameCube 游戏《路易吉洋馆》的重制版，在原版的基础上加入了闪光灯、Amiibo、双人游玩等元素。其续作《**路易吉洋馆2**》（繁体：《**路易吉洋樓2**》，日文：『<strong lang="ja">ルイージマンション２</strong>』）于 2013 年发售，港台版自带简繁中文支持。
 
 ## 操作方式
 * 移动：左摇杆
@@ -37,3 +38,17 @@ title: 基本介绍 - 流程攻略
 * 使用鬼怪吸尘器：<kbd>R</kbd>
 * 暂停／跳过最终战斗前的过场动画：<kbd>START</kbd>
 * 触摸屏可以用来查看地图、鬼怪、收集品，或与哎呦·喂博士联系。
+
+## 汉化说明
+由于重制版并未提供官方简体中文，因此开设本项目，旨在对本游戏提供爱好者的汉化工作。详见：[https://xzonn.github.io/Luigi-Mansion-Chinese-Localization/](https://xzonn.github.io/Luigi-Mansion-Chinese-Localization/)。
+
+## 汉化预览
+![标题界面](https://github.com/Xzonn/LuigiMansionChineseTranslation/raw/master/images/01.png)
+
+![选择存档界面](https://github.com/Xzonn/LuigiMansionChineseTranslation/raw/master/images/02.png)
+
+![存档操作界面](https://github.com/Xzonn/LuigiMansionChineseTranslation/raw/master/images/03.png)
+
+![游戏界面](https://github.com/Xzonn/LuigiMansionChineseTranslation/raw/master/images/04.png)
+
+<div class="bilibiliBox" data-aid="45332875" data-page="1"></div>
