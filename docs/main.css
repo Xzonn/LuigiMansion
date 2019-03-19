@@ -17,6 +17,7 @@ body {
     width: 100%;
     height: 168px;
     background-image: url(images/header.png);
+    background-repeat: repeat-x;
     filter: drop-shadow(0 0 5px #FFFFFF);
 }
 
@@ -52,7 +53,7 @@ body {
     left: calc(50% - 10.5px);
     margin: 0;
     padding: 0;
-    width: 252px;
+    width: 378px;
     height: 43px;
     list-style: none;
 }
@@ -213,6 +214,54 @@ body {
     text-align: center;
 }
 
+.mapFullBox {
+    overflow: auto hidden;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.mapFull {
+    position: relative;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color: #333;
+}
+
+.map {
+    position: absolute;
+    display: flex;
+    background: rgba(128, 128, 128, 0.1);
+    text-align: center;
+    align-items: center;
+}
+
+.map > span {
+    width: 100%;
+}
+
+.mapHighlight {
+    background: rgba(255, 255, 128, 0.5);
+    font-weight: bold;
+    color: #000;
+}
+
+.mapCode {
+    width: 150px;
+    overflow-y: auto;
+    float: right;
+    margin: 0;
+    background: #000;
+}
+
+.mapCode:before {
+    display: block;
+    margin-left: -1.66em;
+    width: calc(100% + 1.66em);
+    text-align: center;
+    content: "图例";
+    font-weight: bold;
+}
+
 @media screen and (max-width: 600px) {
     #content .infoTable {
         float: none;
@@ -231,7 +280,7 @@ body {
 
 @media screen and (max-width: 734px) {
     #headerLogo {
-        left: calc(50% - 128px);
+        left: calc(50% - 150px);
     }
 
     #headerLink {
@@ -241,7 +290,7 @@ body {
     }
 
     #header {
-        padding-top: 128px;
+        padding-top: 148px;
         height: auto;
     }
 }
