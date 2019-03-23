@@ -1,0 +1,17 @@
+<table class="infoTable">
+    <thead>
+        <tr><th class="infoTableTitle" colspan="2">{{ include.name }}</th></tr>
+        <tr>
+            <th class="infoTableSubTitle" colspan="2">
+                <div lang="ja">{{ include.ja }}</div>
+                <div lang="en"><em>{{ include.en }}</em></div>
+            </th>
+        </tr>
+    </thead>
+    <tbody>{% if include.image %}
+        <tr><td class="infoTableImage" colspan="2"><img src="{{ include.image }}" alt="include.name"></td></tr>{% endif %}{% if include.ghost %}
+        <tr><th>普通鬼怪</th><td>{{ include.ghost }}</td></tr>{% endif %}{% if include.portrait %}
+        <tr><th>绘画鬼怪</th><td>{{ include.portrait }}</td></tr>{% endif %}{% if include.boot %}
+        <tr><th>嘘嘘鬼</th><td>{{ include.boo }}</td></tr>{% endif %}
+    </tbody>
+</table>

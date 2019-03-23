@@ -49,12 +49,12 @@ body {
 
 #headerLink {
     position: absolute;
-    top: 59px;
+    top: 41px;
     left: calc(50% - 10.5px);
     margin: 0;
     padding: 0;
-    width: 378px;
-    height: 43px;
+    width: 252px;
+    height: 86px;
     list-style: none;
 }
 
@@ -124,68 +124,9 @@ body {
     content: "";
 }
 
-.num {
-    display: inline-block;
-    width: 28px;
-    height: 32px;
-    background-image: url(./images/number.png);
-    background-position-x: -480px;
-}
-
-.num-0 {
-    background-position-x: -2px;
-}
-
-.num-1 {
-    background-position-x: -34px;
-}
-
-.num-2 {
-    background-position-x: -66px;
-}
-
-.num-3 {
-    background-position-x: -98px;
-}
-
-.num-4 {
-    background-position-x: -130px;
-}
-
-.num-5 {
-    background-position-x: -162px;
-}
-
-.num-6 {
-    background-position-x: -194px;
-}
-
-.num-7 {
-    background-position-x: -226px;
-}
-
-.num-8 {
-    background-position-x: -258px;
-}
-
-.num-9 {
-    background-position-x: -290px;
-}
-
-.num-x {
-    background-position-x: -354px;
-}
-
-.num-- {
-    background-position-x: -418px;
-}
-
-.num-w {
-    background-position-x: -450px;
-}
-
 #content .infoTable {
     float: right;
+    clear: right;
     margin-left: 1em;
     width: 40%;
     min-width: 300px;
@@ -216,8 +157,8 @@ body {
 
 .mapFullBox {
     overflow: auto hidden;
-    max-width: 100%;
     margin: 0 auto;
+    max-width: 100%;
 }
 
 .mapFull {
@@ -241,15 +182,15 @@ body {
 
 .mapHighlight {
     background: rgba(255, 255, 128, 0.5);
-    font-weight: bold;
     color: #000;
+    font-weight: bold;
 }
 
 .mapCode {
-    width: 150px;
-    overflow-y: auto;
     float: right;
+    overflow-y: auto;
     margin: 0;
+    width: 150px;
     background: #000;
 }
 
@@ -257,9 +198,67 @@ body {
     display: block;
     margin-left: -1.66em;
     width: calc(100% + 1.66em);
-    text-align: center;
     content: "图例";
+    text-align: center;
     font-weight: bold;
+}
+
+.ghostBox {
+    padding: 1em;
+    width: 100%;
+    max-width: 400px;
+    border: 2px solid #333;
+    border-radius: 10px;
+    background: #000;
+}
+
+.ghostPhotoBox {
+    position: relative;
+    margin-bottom: 1em;
+    height: 64px;
+}
+
+.ghostPhoto {
+    position: absolute;
+    width: 64px;
+    height: 64px;
+    background: url(./images/ghostsDex.png);
+}
+
+.ghostPhoto:first-child {
+    left: calc(20% - 51.2px);
+}
+
+.ghostPhoto:nth-child(2) {
+    left: calc(40% - 38.4px);
+}
+
+.ghostPhoto:nth-child(3) {
+    left: calc(60% - 25.6px);
+}
+
+.ghostPhoto:nth-child(4) {
+    left: calc(80% - 12.8px);
+}
+
+.ghostTitle {
+    margin-bottom: -1em;
+    font-size: 0.8em;
+    line-height: 1em;
+}
+
+.ghostName {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.6em;
+    line-height: 1.5em;
+}
+
+.ghostAge {
+    margin-top: -1em;
+    text-align: right;
+    font-size: 0.8em;
+    line-height: 1em;
 }
 
 @media screen and (max-width: 600px) {

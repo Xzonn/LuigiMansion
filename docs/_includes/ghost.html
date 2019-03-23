@@ -1,0 +1,12 @@
+<div class="ghostBox">
+    <div class="ghostPhotoBox">
+        <div class="ghostPhoto" style="background-position: 0 -{{ include.id | times: 64 }}px;"></div>
+        <div class="ghostPhoto" style="background-position: -64px -{{ include.id | times: 64 }}px;"></div>
+        <div class="ghostPhoto" style="background-position: -128px -{{ include.id | times: 64 }}px;"></div>
+        <div class="ghostPhoto" style="background-position: -192px -{{ include.id | times: 64 }}px;"></div>
+    </div>
+    <div class="ghostTitle">{{ include.title }}</div>
+    <div class="ghostName">{{ include.name }}</div>
+    <div class="ghostAge">{{ include.age }}岁</div>
+    <div class="ghostIntro">{{ include.intro }}</div>
+</div>
