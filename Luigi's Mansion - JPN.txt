@@ -4585,7 +4585,7 @@ Anyway, nice to meet you. I'm Professor E. Gadd .
 This house... I swear it seems to have more ghosts every day! 
 ------     译文     ------
 而这些鬼怪还在每天增多…
-（文本版本：⑳⑲③⑷／字库版本：ⓄⓅⓆⓇ）
+（文本版本：⑳⑲③⑸／字库版本：ⓄⓅⓆⓇ）
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -10367,9 +10367,9 @@ The Boo Radar will flash red when something round like a Boo is hidden nearby. U
 All right now, sonny. Don't go tuckering yourself out. Relax, and just try to get those Boos one at a time. The trick is using the motion controls and together. Don't forget, now! 
 ------     译文     ------
 不用这么紧张。
-放松一些，
-每次只用捕捉一只鬼怪。
-[控]陀螺仪[控]和[控]摇杆[控]一起使用，
+放松一些就好了，
+每次只需要捕捉一只嘘嘘鬼。
+好好使用[控]陀螺仪[控]和[控]摇杆[控]，
 就能很容易抓到嘘嘘鬼了。
 你要好好记着啊！
 ========== 结束 ==========
@@ -15393,7 +15393,7 @@ This was very carefully balanced...
 A generator? I wonder if he built it all by himself... 
 ------     译文     ------
 这是发电机啊。
-是它自己制作的吗…？
+是他自己制作的吗…？
 ========== 结束 ==========
 
 ========== 开始 ==========
