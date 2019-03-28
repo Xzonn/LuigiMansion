@@ -442,7 +442,7 @@ Cスティックで入力した方向に
 ------     参考     ------
 Turns in the direction you tilt the C Stick toward. Tilt it up and Luigi will look up. Tilt it down and Luigi will look down. 
 ------     译文     ------
-向C摇杆输入的方向
+向C摇杆推动的方向
 转动。
 向上推动时转向上方，
 向下推动时转向下方。
@@ -458,7 +458,7 @@ Cスティックで入力した方向に回り
 ------     参考     ------
 Turns in the direction you tilt the C Stick, but inverts up/down. Tilt it up and Luigi will look down. Tilt it down and Luigi will look up. 
 ------     译文     ------
-向C摇杆输入的方向
+向C摇杆推动的方向
 反方向转动。
 向上推动时转向下方，
 向下推动时转向上方。
@@ -4585,7 +4585,7 @@ Anyway, nice to meet you. I'm Professor E. Gadd .
 This house... I swear it seems to have more ghosts every day! 
 ------     译文     ------
 而这些鬼怪还在每天增多…
-（文本版本：⑳⑲③⑸／字库版本：ⓄⓅⓆⓇ）
+（文本版本：⑳⑲③⑻／字库版本：ⓄⓅⓆⓇ）
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -4618,8 +4618,8 @@ Uh-oh! This looks ugly.
 ------     参考     ------
 All right, youngster, look lively! Follow me, posthaste! 
 ------     译文     ------
-那边的你！要是想活命的话
-就跟着老夫来这边吧！
+那边的你！要是想活命的话就来这边！
+（其他补充说明）
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -10708,8 +10708,8 @@ Heh heh! Luigi , my boy. Don't look so surprised!
 ------     参考     ------
 How about you take Gooigi with you and do some exploring? 
 ------     译文     ------
-[控]绿易吉[控]君和[控]你一起[控]
-在洋馆里探险不错吧。
+和[控]绿易吉[控]君[控]一起[控]
+在洋馆里探险一定很不错吧。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -10720,7 +10720,7 @@ How about you take Gooigi with you and do some exploring?
 ------     参考     ------
 Even if he's defeated, he can revive as many times as he wants ! 
 ------     译文     ------
-不过只要你愿意，他[控]何时都能[控]
+只要你愿意，他[控]何时都能[控]
 [控]再次复活[控]！
 ========== 结束 ==========
 
@@ -10760,7 +10760,7 @@ So if you hit 'em with a flashlight beam all of a sudden, you can stun 'em momen
 When you see your chance, hold down and slide in the opposite direction! 
 ------     译文     ------
 有了机会之后，按下[控]按钮[控]
-来吸入它，控制[控]摇杆[控]
+来吸入它，推动[控]摇杆[控]
 向鬼怪相反的方向移动！　
 ========== 结束 ==========
 
