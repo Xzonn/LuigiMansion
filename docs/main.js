@@ -65,3 +65,33 @@ $(function () {
         }
     });
 });
+
+// 房间道具
+$(function () {
+    $(".roomItem").each(function () {
+        var item = this.dataset.item,
+            i;
+        for (i = 0; i < item.length; i++) {
+            var title;
+            switch (item[i]) {
+                case "奇":
+                    title = "奇诺比奥，可以保存。如果使用 amiibo 则可以回复体力。";
+                    break;
+                case "镜":
+                    title = "镜子。用 Game Boy Horror 照射可以返回到大厅。";
+                    break;
+                case "火":
+                case "水":
+                case "冰":
+                    title = item[i] + "之元素。获得" + item[i] + "之元素奖章后可以吸入并喷出" + item[i] + "之元素。";
+                    break;
+                case "心":
+                    title = "可能会出现回复较多体力的心。"
+                    break;
+            }
+            $("<span/>").addClass("roomItem" + item[i]).text(item[i]).attr({
+                "title": title
+            }).appendTo($(this));
+        }
+    });
+});

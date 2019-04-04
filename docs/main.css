@@ -53,7 +53,7 @@ body {
     left: calc(50% - 10.5px);
     margin: 0;
     padding: 0;
-    width: 252px;
+    width: 378px;
     height: 86px;
     list-style: none;
 }
@@ -153,6 +153,11 @@ body {
 
 .infoTable > tbody > tr > th.infoTableFoot {
     text-align: center;
+}
+
+.roomItem > span {
+    margin-right: 0.5em;
+    border-bottom: 1px dotted #FFF;
 }
 
 .mapFullBox {
@@ -259,6 +264,40 @@ body {
     text-align: right;
     font-size: 0.8em;
     line-height: 1em;
+}
+
+.prevNextBox {
+    display: table;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 600px;
+    border-color: var(--color-content-dark);
+    border-style: double;
+    border-width: 3px 0;
+}
+
+.prevNextBox > div {
+    display: table-cell;
+    width: calc(100% / 3);
+    text-align: center;
+}
+
+.selfBox {
+    border-color: var(--color-content-dark);
+    border-style: dashed;
+    border-width: 0 1px;
+}
+
+.prevBox > *:first-child:before {
+    float: left;
+    display: block;
+    content: "\2190";
+}
+
+.nextBox > *:last-child:after {
+    float: right;
+    display: block;
+    content: "\2192";
 }
 
 @media screen and (max-width: 600px) {

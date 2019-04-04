@@ -4232,7 +4232,7 @@ The haunted mansion disappeared without a trace...
 ------     参考     ------
 Have you had a chance to do what I asked, Luigi ? Let's take a look... 
 ------     译文     ------
-[控]路易吉[控]君，老夫交给你的
+[控]路易吉[控]，老夫交给你的
 任务完成了吗？
 快点让我看看吧。
 怎么样呢…
@@ -4256,10 +4256,10 @@ Have you had a chance to do what I asked, Luigi ? Let's take a look...
 [控]绿易吉[控]君抓了
 [控]只鬼怪，收集了
 [控]G！
-真是太棒了！[控]路易吉[控]君！
+真是太棒了！[控]路易吉[控]！
 这远远地超过了
 老夫的想象啊！
-[控]路易吉[控]君。
+[控]路易吉[控]。
 多亏了你的帮助！
 呵呵呵呵！
 ========== 结束 ==========
@@ -4283,7 +4283,7 @@ Have you had a chance to do what I asked, Luigi ? Let's take a look...
 真不错！
 收集了这么多的数据，
 对老夫的研究会很有帮助
-非常感谢，[控]路易吉[控]君！
+非常感谢，[控]路易吉[控]！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -4296,7 +4296,7 @@ Have you had a chance to do what I asked, Luigi ? Let's take a look...
 ------     参考     ------
 Hmm... You explored the mansion all by your lonesome, Luigi . When you've next got a chance, I'd like you to take Gooigi along! 
 ------     译文     ------
-嗯……[控]路易吉[控]君，
+嗯……[控]路易吉[控]，
 你一个人在洋馆里探险啊。
 下次如果还有机会探险的话，也把
 [控]绿易吉[控]君一起带上吧！
@@ -4325,7 +4325,7 @@ I'll leave Gooigi at the lab over there. Make use of him whenever you can!
 I look forward to your next outing. See you again, Luigi ! 
 ------     译文     ------
 那么，之后就请多多关照了。
-再见了，[控]路易吉[控]君！
+再见了，[控]路易吉[控]！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -4354,9 +4354,9 @@ The NFC reader/writer cannot be used while the Circle Pad Pro is in use. Please 
 ------     参考     ------
 Cannot find an open file to copy data to. Please clear some data and try again. 
 ------     译文     ------
-已经找不到
-可以用来复制的存档。
-请删除一些数据，
+已经找不到可以
+用来复制的位置。
+请删除其它存档，
 再尝试一次。
 ========== 结束 ==========
 
@@ -4639,7 +4639,7 @@ KRZZZ...Lu...i...gi...KRZZZ
 ------     参考     ------
 ... Luigi , can you hear me? 
 ------     译文     ------
-…[控]路易吉[控]君能听见吗？
+…[控]路易吉[控]能听见吗？
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -4735,7 +4735,7 @@ Oh dear... Such a draft...
 ------     参考     ------
 Hold up a sec, Luigi ! 
 ------     译文     ------
-稍微等一下，[控]路易吉[控]君！
+稍微等一下，[控]路易吉[控]！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -4828,7 +4828,7 @@ Sometimes you can learn the best way to surprise 'em!
 ------     参考     ------
 Well, Luigi , I'll keep my fingers crossed for you. 
 ------     译文     ------
-那么，[控]路易吉[控]君，
+那么，[控]路易吉[控]，
 我会继续研究的。
 ========== 结束 ==========
 
@@ -5517,7 +5517,7 @@ My name is Melody . People call me the spectral beauty of the ivory keys!
 ------     参考     ------
 ... Luigi , can you hear me? 
 ------     译文     ------
-…[控]路易吉[控]君能听见吗？
+…[控]路易吉[控]能听见吗？
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5595,7 +5595,7 @@ Don't worry about it!
 Even if that lightning had cooked your goose, your Poltergust 3000 wouldn't even have a scratch! Heh heh! 
 ------     译文     ------
 就算打雷了，
-[控]路易吉[控]君被烧焦了，
+[控]路易吉[控]被烧焦了，
 [控]鬼怪吸尘器[控]也不会有事的！
 呵呵呵！
 ========== 结束 ==========
@@ -5655,7 +5655,7 @@ Actually, I'm afraid to leave because of all the Boos out there. Are there still
 ------     参考     ------
 Hey now, Luigi ! What have you found there? Let's take a look at that. 
 ------     译文     ------
-哈喽～[控]路易吉[控]君！
+哈喽～[控]路易吉[控]！
 你好像找到了很稀奇的东西啊。
 让我们来看看吧。
 ========== 结束 ==========
@@ -5783,7 +5783,7 @@ You may have to use the Fire Element to defeat some ghosts... Keep that in mind,
 就不可能打败的鬼怪……
 你要好好记着，
 然后多加小心啊，
-[控]路易吉[控]君！
+[控]路易吉[控]！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -5889,7 +5889,7 @@ What in the...!?
 ------     参考     ------
  Luigi ! Are you OK? 
 ------     译文     ------
-[控]路易吉[控]君，没关系吧！？
+[控]路易吉[控]，没关系吧！？
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -6010,7 +6010,7 @@ I wondered where King Boo and his gang had gone. So, they were hiding in the man
 [控]嘘嘘鬼王[控]它们
 一直都不知所踪，
 原来是藏在洋馆里了啊…
-多亏你能找到它们啊，[控]路易吉[控]君，
+多亏你能找到它们啊，[控]路易吉[控]，
 太谢谢你了…
 ========== 结束 ==========
 
@@ -6033,7 +6033,7 @@ I wondered where King Boo and his gang had gone. So, they were hiding in the man
 ------     参考     ------
 Hey now, Luigi ! Now what have you stumbled across? 
 ------     译文     ------
-哈喽～[控]路易吉[控]君！
+哈喽～[控]路易吉[控]！
 你好像捡到了什么不得了的东西了啊。
 你想要看一看吗？
 ========== 结束 ==========
@@ -6129,7 +6129,7 @@ I hear there are some ghosts who can be defeated only with water, actually... Al
 Don't get too caught up with your new squirt gun, Luigi ! 
 ------     译文     ------
 充分发挥水的优势吧，
-[控]路易吉[控]君！
+[控]路易吉[控]！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -6203,7 +6203,7 @@ When that happens, try moving back and forth to shake 'em off!
 It's the age-old struggle for survival, my boy! Don't lose heart, Luigi ! 
 ------     译文     ------
 若要人助，必先自救。
-继续加油吧，[控]路易吉[控]君！
+继续加油吧，[控]路易吉[控]！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -6497,7 +6497,7 @@ I'll stay here, if that's OK...
 ------     参考     ------
 ... Luigi , can you hear me? 
 ------     译文     ------
-…[控]路易吉[控]君能听见吗？
+…[控]路易吉[控]能听见吗？
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -6587,7 +6587,7 @@ Pickled dandelions with barnacles in a diesel marinade!
 ------     参考     ------
 Hey now, Luigi ! What have you found there? Let me see it! 
 ------     译文     ------
-哈喽～[控]路易吉[控]君！
+哈喽～[控]路易吉[控]！
 这次又发现了什么呢？
 快来看一看吧。
 ========== 结束 ==========
@@ -6689,7 +6689,7 @@ Yes-sirree. When water gets cold, it freezes, right? Ice can be very effective a
 Even a hot bath would get cold pretty quick if you iced it down. Yep, that's a very convenient item you found there, Luigi ! 
 ------     译文     ------
 就算是很热～的洗澡水也会被冻住。
-这是很方便的东西啊，[控]路易吉[控]君！
+这是很方便的东西啊，[控]路易吉[控]！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -6709,7 +6709,7 @@ Even a hot bath would get cold pretty quick if you iced it down. Yep, that's a v
 ------     参考     ------
 OOOO-KAAAAY! You can come in now... 
 ------     译文     ------
-啊～～～～～～～～受够了！
+啊～～～～～～～～藏好了！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -6993,7 +6993,7 @@ Ahhh, I see now. Well, I see everything, so I saw it before, but now I REALLY se
 ------     译文     ------
 是吗，[控]马力欧[控]是您的兄长啊。
 寻找兄长这件事……
-您还真是家教良好啊。
+您还真是个称职的弟弟啊。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -7054,8 +7054,8 @@ Show us this... Mario !
 ------     参考     ------
 The light of the spirits comes! Show us what we seek!! 
 ------     译文     ------
-出现了！它需要的东西
-都出现～～～了！！
+出现了！
+灵感出现～～～了！！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -7205,7 +7205,7 @@ Ohh... Harummm... Your Mario is imprisoned...but where, oh where is he being hel
 嗯嗯嗯…！
 [控]马力欧[控]大概被关在哪里了……
 是哪里…究竟是哪里呢？
-[控]马力欧[控]啊，你去哪里了啊？
+[控]马力欧[控]啊，您去哪里了啊？
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -7236,8 +7236,8 @@ Yes! A painting! Your Mario has been imprisoned within a painting! My orb shows 
 ------     参考     ------
 Acch! I cannot concentrate... The spirits are leaving me... 
 ------     译文     ------
-嗯！？老朽都没办法…
-集中精力了……
+嗯！？老朽都没办法集中精力了…
+灵感消失了……
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -7358,7 +7358,7 @@ Ohh... Harummm... The Boos do indeed have strange powers... When they gather in 
 ------     参考     ------
 Ugh... I fear that I have only enough power within me to read one more of your brother's dropped items ... My strength ebbs away... 
 ------     译文     ------
-嗯？力、力量…
+嗯？力、力量又…
 再有一件[控]遗落的东西[控]的话，
 老朽就能知道所有事情了吧…
 力量啊…
@@ -7374,7 +7374,7 @@ Ugh... I fear that I have only enough power within me to read one more of your b
 ------     参考     ------
 Ah, the spirits return to me! I see! I see! I see your dear Mario ! The scene appears before me... 
 ------     译文     ------
-哦哦…我恢复力量了！
+哦哦…老朽恢复力量了！
 能看见能看见了！
 能看见[控]马力欧[控]了！
 能看见[控]马力欧[控]的身影了！
@@ -7413,7 +7413,7 @@ Wh-what is this!?
 How can this be?! I see the hideous form of Bowser ! Is Bowser somewhere in this mansion? I cannot believe it... And yet I see it... 
 ------     译文     ------
 …这到底是怎么回事啊！？
-我看见了[控]酷霸王[控]的身影！
+老朽看见了[控]酷霸王[控]的身影！
 [控]酷霸王[控]难道就
 隐藏在这座洋馆的某处吗？
 难以置信……
@@ -7445,7 +7445,7 @@ I thought that Mario had soundly defeated Bowser ! Has King Boo somehow revived 
 Uggghh! Ahhh no, the powers leave me! The spirits depart! 
 ------     译文     ------
 …啊！
-我的力量…又没有了…
+老朽的力量…又没有了…
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -7462,10 +7462,10 @@ This is all I can show you, Luigi ... That was the last of my power. But I have 
 ------     译文     ------
 看起来老朽的预知能力
 也就到此为止……
-我的力量已经消失了。
+老朽的力量已经消失了。
 所以“占卜师”这个名字
 以后也不能再用了吧。
-这下子我就可以回到画里了…！
+这下子老朽就可以回到画里了…！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -8129,7 +8129,7 @@ That lightning strike just now must've caused a blackout. I can't see anything i
 The ghosts will have the run of the place in the dark! Be careful, Luigi ! 
 ------     译文     ------
 黑暗可以算是鬼怪们的主场啊。
-不要掉以轻心啊，[控]路易吉[控]君！
+不要掉以轻心啊，[控]路易吉[控]！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -8771,7 +8771,7 @@ Ngggh, snurrggghhhkk, ZZZZZ!!!
 ------     参考     ------
 KRRZZZ... Luigi ... 
 ------     译文     ------
-[控]路易吉[控]君…
+[控]路易吉[控]…
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -8782,7 +8782,7 @@ KRRZZZ... Luigi ...
 ------     参考     ------
  Luigi , you did it! Truly remarkable, my boy! 
 ------     译文     ------
-…[控]路易吉[控]君，你成功了。
+…[控]路易吉[控]，你成功了。
 真是伟大的成就啊。
 ========== 结束 ==========
 
@@ -8883,7 +8883,7 @@ Oh, beg your pardon! This old brain goes recollecting every now and then... I co
 ------     参考     ------
 ... Right, well, anyhoo, Luigi ! Grab your brother's painting and bring him to the lab! 
 ------     译文     ------
-那么，[控]路易吉[控]君。
+那么，[控]路易吉[控]。
 带上你哥哥的画，
 我们会实验室吧。
 ========== 结束 ==========
@@ -9239,7 +9239,7 @@ Uh-oh, the ghosts are starting to approach your position! Be careful, Luigi !
 ------     译文     ------
 嗯，
 鬼怪马上就要接近你了，
-要小心啊，[控]路易吉[控]君！”
+要小心啊，[控]路易吉[控]！”
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -9263,7 +9263,7 @@ Uh-oh, the ghosts are starting to approach your position! Be careful, Luigi !
 ------     参考     ------
  Luigi ! You found the treasure! Great! Unfortunate that you fell all the way down, though... Why don't you go look in the mirror and get straightened out? Heh heh heh! 
 ------     译文     ------
-[控]路易吉[控]君！虽然你找到了宝藏，
+[控]路易吉[控]！虽然你找到了宝藏，
 但是你竟然从烟囱里掉下来了，
 真是麻烦啊。
 照照[控]镜子[控]整理整理衣服怎样？
@@ -9295,7 +9295,7 @@ Uh-oh, the ghosts are starting to approach your position! Be careful, Luigi !
 ------     参考     ------
  Luigi , it looks like you're in trouble, but never fear! The Game Boy Horror still has more to offer! Find the mirror and search it, and you'll see what I mean. Heh heh heh! 
 ------     译文     ------
-你好像很困扰啊，[控]路易吉[控]君！
+你好像很困扰啊，[控]路易吉[控]！
 但是放心吧。
 [控]Game Boy Horror[控]之中
 还有很多隐藏功能呢！
@@ -9328,7 +9328,7 @@ OK, now send me the Boo and all the data you've got.
 ------     参考     ------
 It looks like you are on a roll, Luigi ! By the way, you haven't forgotten about the Game Boy Horror 's search function, have you? If you find a suspicious spot, you should go ahead and search ! 
 ------     译文     ------
-这个感觉不错啊，[控]路易吉[控]君！
+这个感觉不错啊，[控]路易吉[控]！
 顺便一提[控]Game Boy Horror[控]的
 搜索功能是
 被你忘记了吗？
@@ -9346,9 +9346,9 @@ It looks like you are on a roll, Luigi ! By the way, you haven't forgotten about
 ------     参考     ------
 Well done, Luigi ! You got ten of them in no time. As a special reward, I have something good to tell you! 
 ------     译文     ------
-做的不错啊，[控]路易吉[控]君！
+做的不错啊，[控]路易吉[控]！
 这么快就抓到了１０只嘘嘘鬼了。
-那么，[控]路易吉[控]君，
+那么，[控]路易吉[控]，
 我有些特别的消息要告诉你。
 ========== 结束 ==========
 
@@ -9364,7 +9364,7 @@ Well done, Luigi ! You got ten of them in no time. As a special reward, I have s
 ------     参考     ------
 Well done, Luigi ! By the way, have you ever been tricked by a fake door? If something looks suspicious, try using the Poltergust 3000 on it! You'll find out if it's real or fake. 
 ------     译文     ------
-做的不错啊，[控]路易吉[控]君！
+做的不错啊，[控]路易吉[控]！
 顺便一提你有没有发现有一些门
 其实是假的门呢？如果有
 可疑的东西，就用[控]鬼怪吸尘器[控]
@@ -9379,7 +9379,7 @@ Well done, Luigi ! By the way, have you ever been tricked by a fake door? If som
 ------     参考     ------
 Be careful, Luigi ! 
 ------     译文     ------
-要多小心啊，[控]路易吉[控]君！
+要多小心啊，[控]路易吉[控]！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -9405,7 +9405,7 @@ Outstanding work! You're like a leopard on the hunt!
 Fantastic! Way to go, Luigi ! 
 ------     译文     ------
 太棒了！
-干得不错嘛，[控]路易吉[控]君！
+干得不错嘛，[控]路易吉[控]！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -9417,7 +9417,7 @@ Fantastic! Way to go, Luigi !
 Heh heh. Well done, Luigi ! 
 ------     译文     ------
 呵呵呵。
-[控]路易吉[控]君，做的不错啊！
+[控]路易吉[控]，做的不错啊！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -9429,7 +9429,7 @@ Heh heh. Well done, Luigi !
 Ho! You're on FIRE, Luigi ! ON FIRE! 
 ------     译文     ------
 呵呵！现在你已经
-完全燃烧起来了，[控]路易吉[控]君！
+完全燃烧起来了，[控]路易吉[控]！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -9441,7 +9441,7 @@ Ho! You're on FIRE, Luigi ! ON FIRE!
 Unbelievable! There's no stopping you, Luigi ! 
 ------     译文     ------
 真是惊人的能力啊，
-[控]路易吉[控]君！
+[控]路易吉[控]！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -9453,7 +9453,7 @@ Unbelievable! There's no stopping you, Luigi !
 It's like you were born to capture Boos, Luigi ! 
 ------     译文     ------
 你好像天生就是
-捕捉嘘嘘鬼的高手啊，[控]路易吉[控]君！
+捕捉嘘嘘鬼的高手啊，[控]路易吉[控]！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -9479,7 +9479,7 @@ Aren't you just loving my brilliant inventions?
 Yowzer! You got another one! You're cruising, Luigi ! 
 ------     译文     ------
 呵！你还在捕捉鬼怪啊！
-这个节奏不错啊，[控]路易吉[控]君！
+这个节奏不错啊，[控]路易吉[控]！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -9552,7 +9552,7 @@ Why not go to the Washroom and splash some water on your face? You'll feel much 
 ------     参考     ------
 Well done, Luigi ! You've already found 20! As a reward, let me give you a piece of very special information. 
 ------     译文     ------
-真棒啊，[控]路易吉[控]君！
+真棒啊，[控]路易吉[控]！
 这么快就捉到了２０只啊！
 那么让我告诉你一些
 特别的消息吧。
@@ -9569,7 +9569,7 @@ Wow! Do you work out, Luigi ?!
 ------     译文     ------
 真是美妙的身姿啊！
 你有锻炼过吗，
-[控]路易吉[控]君？
+[控]路易吉[控]？
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -9583,7 +9583,7 @@ You move as smoothly as water, my boy! Keep it up!
 ------     译文     ------
 你移动的姿态就好像
 流水一般柔滑。
-就是这样，继续吧，[控]路易吉[控]君！
+就是这样，继续吧，[控]路易吉[控]！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -9595,7 +9595,7 @@ You move as smoothly as water, my boy! Keep it up!
 ------     参考     ------
 Tip-top, Luigi ! You remind me of myself at your age... 
 ------     译文     ------
-不错啊～[控]路易吉[控]君！
+不错啊～[控]路易吉[控]！
 你让老夫想起了
 年轻的时候……
 ========== 结束 ==========
@@ -9637,7 +9637,7 @@ You give those Boos what-for, Luigi !
 ------     译文     ------
 就像是蝴蝶一般飞舞，
 像是马蜂一样抓住嘘嘘鬼啊，
-[控]路易吉[控]君！
+[控]路易吉[控]！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -9651,7 +9651,7 @@ You're busting out all kinds of wild techniques today, Luigi !
 ------     译文     ------
 太美了…
 你高超的技能和华丽的手法让我
-刮目相看，[控]路易吉[控]君！　
+刮目相看，[控]路易吉[控]！　
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -9663,7 +9663,7 @@ You're busting out all kinds of wild techniques today, Luigi !
 Did you see that Boo just give up at the end, Luigi ? Your reputation is spreading! 
 ------     译文     ------
 看到了吗？　嘘嘘鬼的心跳！
-不愧是你啊，[控]路易吉[控]君！　
+不愧是你啊，[控]路易吉[控]！　
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -9675,7 +9675,7 @@ Did you see that Boo just give up at the end, Luigi ? Your reputation is spreadi
 ------     参考     ------
 Well done, Luigi my boy! This time I have a special bit of information for you! 
 ------     译文     ------
-干得不错啊，[控]路易吉[控]君！
+干得不错啊，[控]路易吉[控]！
 那么，这次我也告诉你一些
 特别的消息吧。
 ========== 结束 ==========
@@ -9711,7 +9711,7 @@ The plants in the mansion could use some attention... As long as you're cleaning
 热爱植物的人一定不会
 做出伤害他们的事情吧。
 说道植物喜欢的东西，
-你大概明白是什么了吧，[控]路易吉[控]君？
+你大概明白是什么了吧，[控]路易吉[控]？
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -9838,7 +9838,7 @@ So, then, I reckon that means that turning on all the lights in the mansion is t
 ------     参考     ------
 Impressive, Luigi ! All of the Boos have been captured! I can honestly say that I didn't expect you to get them ALL! You really are a true Boo Master! Now all you need to do is get your brother back! I'm sure you'll be just fine, but be careful all the same! 
 ------     译文     ------
-太棒了啊，[控]路易吉[控]君！
+太棒了啊，[控]路易吉[控]！
 这样的话所有的嘘嘘鬼
 都被你抓住了！
 真的是太令人震惊了！
@@ -9858,7 +9858,7 @@ Impressive, Luigi ! All of the Boos have been captured! I can honestly say that 
 ------     参考     ------
 That was wild, Luigi ! Don't stop now! 
 ------     译文     ------
-真棒啊，[控]路易吉[控]君！
+真棒啊，[控]路易吉[控]！
 就是这个节奏！
 ========== 结束 ==========
 
@@ -9873,7 +9873,7 @@ Heh heh! You're a natural with that Poltergust 3000 , Luigi !
 ------     译文     ------
 呼呼！你已经对
 [控]鬼怪吸尘器[控]的操作方式
-烂熟于心了啊，[控]路易吉[控]君！
+烂熟于心了啊，[控]路易吉[控]！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -9885,7 +9885,7 @@ Heh heh! You're a natural with that Poltergust 3000 , Luigi !
 Heh! You're on a roll, Luigi ! 
 ------     译文     ------
 呼！状况不错啊，
-[控]路易吉[控]君！
+[控]路易吉[控]！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -9901,7 +9901,7 @@ Heh heh heh! I can see in my mind's eye the image of Luigi fighting brave battle
 呵呵呵！
 老夫的千里眼能看到啊！
 和嘘嘘鬼勇敢地搏斗中的
-[控]路易吉[控]君的身影！
+[控]路易吉[控]的身影！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -9913,7 +9913,7 @@ Heh heh heh! I can see in my mind's eye the image of Luigi fighting brave battle
 ------     参考     ------
 Great job, Luigi ! I was impressed by your brilliant techniques. 
 ------     译文     ------
-不错嘛，[控]路易吉[控]君！
+不错嘛，[控]路易吉[控]！
 你高超的技巧就连老夫也
 不禁手舞足蹈了啊。
 ========== 结束 ==========
@@ -9927,7 +9927,7 @@ Great job, Luigi ! I was impressed by your brilliant techniques.
 ------     参考     ------
 You are very skilled to be sure, but seeing your techniques left me terrified at the talent of your teacher: me! 
 ------     译文     ------
-[控]路易吉[控]君，现在你掌握的
+[控]路易吉[控]，现在你掌握的
 各种各样的技巧已经超过了
 曾经教过你的老夫啊！
 ========== 结束 ==========
@@ -9957,7 +9957,7 @@ Heh! You're doing a spectacular job, Luigi !
 ------     译文     ------
 呼！
 你捕捉嘘嘘鬼的样子很华丽啊，
-[控]路易吉[控]君！
+[控]路易吉[控]！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -9969,7 +9969,7 @@ Heh! You're doing a spectacular job, Luigi !
 You got the Boo without batting an eye, Luigi ! 
 ------     译文     ------
 看上去你就算闭着一只眼
-也能抓住嘘嘘鬼啊，[控]路易吉[控]君！
+也能抓住嘘嘘鬼啊，[控]路易吉[控]！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -9979,7 +9979,7 @@ You got the Boo without batting an eye, Luigi !
 ------     参考     ------
 What do you want to do, Luigi ? 
 ------     译文     ------
-那么，接下来要干什么，[控]路易吉[控]君？
+那么，接下来要干什么，[控]路易吉[控]？
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -10049,7 +10049,7 @@ Careful now, Luigi !
 ------     参考     ------
 Don't get scared stiff, Luigi ! 
 ------     译文     ------
-你要活着回来啊，[控]路易吉[控]君！
+你要活着回来啊，[控]路易吉[控]！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -10115,7 +10115,7 @@ So your name's Luigi ? I think our paths were destined to cross. Well met, Luigi
 …是这样啊。
 你的名字是[控]路易吉[控]啊。
 在这里相遇是多么有缘啊。
-以后也请多多关照啊，[控]路易吉[控]君！
+以后也请多多关照啊，[控]路易吉[控]！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -10202,7 +10202,7 @@ I've been living here since I was a lad of twenty or so, and I'll tell you: that
 ------     参考     ------
  Luigi is deciding where to go. Please wait a little longer. 
 ------     译文     ------
-[控]路易吉[控]君正在决定目的地，
+[控]路易吉[控]正在决定目的地，
 请稍微等一下吧。
 ========== 结束 ==========
 
@@ -10225,7 +10225,7 @@ Whoa! What in the world is happening?
 ------     参考     ------
 I've been waiting for you, young Luigi ! 
 ------     译文     ------
-等你好久了，[控]路易吉[控]君！
+等你好久了，[控]路易吉[控]！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -10351,7 +10351,7 @@ The Boo Radar will flash red when something round like a Boo is hidden nearby. U
 如果嘘嘘鬼隐藏在了附近，
 它就会发出闪烁的信号。
 只要拿着它，就能在洋馆里
-尽情地搜索了，[控]路易吉[控]君！
+尽情地搜索了，[控]路易吉[控]！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -10469,7 +10469,7 @@ Here's the plan: I'll teach you to deal with ghosts so you can rescue your broth
 ------     译文     ------
 …我明白了。我一定尽力帮你。
 我会教给你对付鬼怪的方法。
-跟我来吧，[控]路易吉[控]君！
+跟我来吧，[控]路易吉[控]！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -10571,7 +10571,7 @@ I'm outsourcing testing for Gooigi to you and past me . Isn't time travel great?
 Take good care of Gooigi ! 
 ------     译文     ------
 那么[控]绿易吉[控]君就拜托你们了！
-[控]过去的老夫[控]和[控]路易吉[控]君！
+[控]过去的老夫[控]和[控]路易吉[控]！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -10612,7 +10612,7 @@ It is quite an invention. I'd expect nothing less from the future me ! And if fu
 ------     参考     ------
  Luigi , my boy, when you want to take Gooigi along to the mansion, all you have to do is select Play Co-op in the Lab! 
 ------     译文     ------
-[控]路易吉[控]君和[控]绿易吉[控]君
+[控]路易吉[控]和[控]绿易吉[控]君
 一起去洋馆探险的话，
 只要选择[控]两人一起游玩[控]
 就可以了！
@@ -10696,7 +10696,7 @@ I'm calling you from the future! OooOoo!
 ------     参考     ------
 Heh heh! Luigi , my boy. Don't look so surprised! 
 ------     译文     ------
-呵呵呵！[控]路易吉[控]君，
+呵呵呵！[控]路易吉[控]，
 不用这么惊讶…放轻松点！
 ========== 结束 ==========
 
@@ -10827,7 +10827,7 @@ Select the movement style!
 ------     参考     ------
 Well done! That's how you do it, Luigi ! While vacuuming, hold and use the Circle Pad to turn as you vacuum! 
 ------     译文     ------
-你成功了！[控]路易吉[控]君
+你成功了！[控]路易吉[控]
 你找到感觉了啊！
 在吸入时按下[控]按钮[控]，移动
 [控]摇杆[控]可以在吸入时
@@ -10843,7 +10843,7 @@ Well done! That's how you do it, Luigi ! While vacuuming, hold and use the Circl
 Oops! That one got away, Luigi . 
 ------     译文     ------
 哎呀呀！
-那只鬼怪逃走了，[控]路易吉[控]君。
+那只鬼怪逃走了，[控]路易吉[控]。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -10941,7 +10941,7 @@ Hey kid, shape up! You won't be able to help your brother at this rate! Look! Th
 ------     参考     ------
 Well done, Luigi ! Don't let your guard down, though! Look! They are coming... 
 ------     译文     ------
-不错啊，[控]路易吉[控]君！
+不错啊，[控]路易吉[控]！
 但是不要犹豫啊！
 看啊！要来了要来了……
 ========== 结束 ==========
@@ -11047,7 +11047,7 @@ Hmm... Four out of ten ghosts. Not so bad.
 Five out of ten ghosts, huh? You're getting the hang of it, Luigi ! 
 ------     译文     ------
 哦哦哦，１０只之中抓到了５只啊。
-还不错嘛，[控]路易吉[控]君！
+还不错嘛，[控]路易吉[控]！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -11059,7 +11059,7 @@ Five out of ten ghosts, huh? You're getting the hang of it, Luigi !
 Six out of ten ghosts? Well done, Luigi ! 
 ------     译文     ------
 哦哦哦，１０只之中抓到了６只啊！
-挺不错啊，[控]路易吉[控]君！
+挺不错啊，[控]路易吉[控]！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -11071,7 +11071,7 @@ Six out of ten ghosts? Well done, Luigi !
 Hey, seven out of ten ghosts! That's how to do it, Luigi ! 
 ------     译文     ------
 哦哦哦，１０只之中抓到了７只啊！
-真能干啊，[控]路易吉[控]君！
+真能干啊，[控]路易吉[控]！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -11083,7 +11083,7 @@ Hey, seven out of ten ghosts! That's how to do it, Luigi !
 Yowzer, eight out of ten ghosts! Go get those ghouls, Luigi ! 
 ------     译文     ------
 哦哦哦，１０只之中抓到了８只啊！
-真棒啊，[控]路易吉[控]君！
+真棒啊，[控]路易吉[控]！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -11095,7 +11095,7 @@ Yowzer, eight out of ten ghosts! Go get those ghouls, Luigi !
 Whoo-hoo! Nine out of ten ghosts! Excellent, Luigi ! 
 ------     译文     ------
 哦哦哦，１０只之中抓到了９只啊！
-真让人惊讶，[控]路易吉[控]君！
+真让人惊讶，[控]路易吉[控]！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -11107,7 +11107,7 @@ Whoo-hoo! Nine out of ten ghosts! Excellent, Luigi !
 WOW! Ten out of ten ghosts! Positively dazzling, Luigi ! 
 ------     译文     ------
 哦哦哦，１０只之中抓到了１０只啊！
-[控]路易吉[控]君，你真是个天才！！！
+[控]路易吉[控]，你真是个天才！！！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -11242,7 +11242,7 @@ How about a little cool-down in the gallery? I'm quite proud of it, you know...
 ------     参考     ------
  Luigi , that was a sorry effort! Why, I bet your brother would be laughing fit to split if he saw you. Try again from the beginning, OK? 
 ------     译文     ------
-…真是惨烈啊，[控]路易吉[控]君！
+…真是惨烈啊，[控]路易吉[控]！
 你哥哥也会笑话你吧。
 再试一次吧！
 …准备好了吗？
@@ -11349,7 +11349,7 @@ Get two or more at the same time, and something good may happen! Heh heh heh...
 Are you done appreciating art for today, Luigi ? 
 ------     译文     ------
 艺术鉴赏就到此为止吗，
-[控]路易吉[控]君？
+[控]路易吉[控]？
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -11509,7 +11509,7 @@ I had 25 paintings once upon a time. My Famous Ghost Collection was complete! Bu
 ------     参考     ------
 By the way, Luigi . I have a favor to ask. You see that Game Boy Horror you have in your hand? It has lots of features to help you as you explore the mansion. For example, you can view the map on the screen, or you can check the items you've collected. 
 ------     译文     ------
-是这样啊。[控]路易吉[控]君，
+是这样啊。[控]路易吉[控]，
 有一件事我想拜托你。
 现在你的手上拿着
 [控]Game Boy Horror[控]对吧？
@@ -11746,7 +11746,7 @@ Well, then. Now I have to tell you...a horrifying story...
 ------     参考     ------
 I look forward to seeing the room fully decorated, thanks to Luigi ! Heh heh heh! 
 ------     译文     ------
-[控]路易吉[控]君，希望你能
+[控]路易吉[控]，希望你能
 帮助老夫将这里重新装饰成
 美丽的房间啊。
 呵呵呵！
@@ -11784,7 +11784,7 @@ You're looking at the stand over there, aren't you? It used to hold a trophy , b
 ------     参考     ------
 As you make progress and get things done, you might get the trophy back. I've made it so that pressing will show you your objectives. Check them out when you can! 
 ------     译文     ------
-[控]路易吉[控]君如果表现得不错，
+[控]路易吉[控]如果表现得不错，
 获得了许多的成就的话，
 [控]奖杯[控]兴许会回来
 也说不定啊。
@@ -11822,7 +11822,7 @@ Excellent. The search function has been added to the Game Boy Horror . Thanks fo
 ------     译文     ------
 …好嘞，这样的话[控]Game Boy Horror[控]的
 [控]搜索功能[控]就已经添加好了。
-真是帮了大忙了，[控]路易吉[控]君。
+真是帮了大忙了，[控]路易吉[控]。
 快用[控]按钮[控]的[控]搜索功能[控]
 来好好地看看
 这间画廊的情况吧。
@@ -11838,7 +11838,7 @@ Excellent. The search function has been added to the Game Boy Horror . Thanks fo
 ------     参考     ------
  Luigi , could you go to the room in back and find the Game Boy Horror part ? Try using to shake and bang on furniture. 
 ------     译文     ------
-[控]路易吉[控]君，按[控]按钮[控]
+[控]路易吉[控]，按[控]按钮[控]
 来晃一晃家具，然后
 从里面的房间找到[控]Game Boy Horror[控]的
 [控]零件[控]应该没问题吧？
@@ -11906,7 +11906,7 @@ That's a trophy in honor of defeating ghosts. You know, it used to be a much lar
 ------     参考     ------
 As you make progress and get things done, the trophy should improve! To make things easier, I've made it so pressing will display your objectives. Check them out when you can! 
 ------     译文     ------
-[控]路易吉[控]君如果表现得不错，
+[控]路易吉[控]如果表现得不错，
 获得了许多的成就的话，
 相应的[控]奖杯[控]
 兴许会更豪华也说不定啊。
@@ -11928,7 +11928,7 @@ That's a trophy in honor of defeating ghosts. It's really starting to show signs
 ------     译文     ------
 那个是击败鬼怪之后
 获得的[控]奖杯[控]啊。
-现在这完全是[控]路易吉[控]君
+现在这完全是[控]路易吉[控]
 优异表现的证明啊！
 ========== 结束 ==========
 
@@ -11944,7 +11944,7 @@ That's a trophy in honor of defeating ghosts. It's really starting to show signs
 ------     参考     ------
 You can check out all the things you've accomplished by pressing . It's so easy...you can check them out anytime. Even now! Heh heh heh. 
 ------     译文     ------
-[控]路易吉[控]君已经达成的
+[控]路易吉[控]已经达成的
 各种各样的成就可以按
 [控]按钮[控]来确认。
 很简单吧？
@@ -11975,7 +11975,7 @@ It was empty after King Boo released all the portrait ghosts I'd gathered from a
 ------     参考     ------
 Thanks to you, Luigi , it's starting to get back to how it used to be. 
 ------     译文     ------
-[控]路易吉[控]君的优异表现
+[控]路易吉[控]的优异表现
 让这里开始变成
 原来的样子了！
 ========== 结束 ==========
@@ -11995,7 +11995,7 @@ Keep vacuuming up those ghosts, and the gallery will be restored in no time. I'm
 把鬼怪一只只地吸入
 这个画廊
 早晚会复活的！
-拜托你了啊， [控]路易吉[控]君！
+拜托你了啊， [控]路易吉[控]！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -12006,7 +12006,7 @@ Keep vacuuming up those ghosts, and the gallery will be restored in no time. I'm
 ------     参考     ------
 Thanks to all you've done, it's back to how it used to be! 
 ------     译文     ------
-[控]路易吉[控]君这么努力，
+[控]路易吉[控]这么努力，
 这里完全变成原来的样子了啊！
 ========== 结束 ==========
 
@@ -12023,7 +12023,7 @@ And I'm so happy to see King Boo added back to the collection! Thank you, Luigi 
 而且[控]嘘嘘鬼王[控]
 也可喜可贺地
 被加入到了收藏品中！
-非常感谢，[控]路易吉[控]君！
+非常感谢，[控]路易吉[控]！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -12051,7 +12051,7 @@ The room in the back is where I keep the painting of King Boo ... The very same 
 ------     参考     ------
 Both rooms are now in perfect shape for viewing. I should have a plaque made. "Thanks to Luigi !" it would say. Heh heh heh! 
 ------     译文     ------
-[控]路易吉[控]君，多亏了你，
+[控]路易吉[控]，多亏了你，
 这里变得如此的美丽啊。
 呵呵呵！
 ========== 结束 ==========
@@ -12063,7 +12063,7 @@ Both rooms are now in perfect shape for viewing. I should have a plaque made. "T
 ------     参考     ------
 Good job, Luigi ! You made it back in one piece! 
 ------     译文     ------
-还好你平安回来了，[控]路易吉[控]君！
+还好你平安回来了，[控]路易吉[控]！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -12143,7 +12143,7 @@ Well, we managed to turn those ghosts back into paintings. Thanks for your help,
 ------     译文     ------
 太好了，毫发无伤地
 让鬼怪之画回来了啊。
-非常感谢，[控]路易吉[控]君！
+非常感谢，[控]路易吉[控]！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -12201,7 +12201,7 @@ This'll mess with your head: All your hard work lasted only a single night! Well
 ------     译文     ------
 之后的任务还很艰巨，
 这才仅仅是一次冒险…
-辛苦你了，[控]路易吉[控]君！
+辛苦你了，[控]路易吉[控]！
 ========== 结束 ==========
 
 ========== 开始 ==========
