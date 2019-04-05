@@ -7,9 +7,9 @@ reflink: http://www.a-suma.com/old/guide/lm/guide-erea1.htm
 {% include prevNext.html self="区域１" next="区域２" nextLink="./Area-2.html" %}
 
 ## 视频流程
-<div class="bilibiliBox" data-aid="45332875" page="1"></div>
+<div class="bilibiliBox" data-aid="45332875" data-page="1"></div>
 
-<div class="bilibiliBox" data-aid="46471402" page="1"></div>
+<div class="bilibiliBox" data-aid="46471402" data-page="1"></div>
 
 ## 探索区域１前
 * 开始游戏前，进行必要的设置。
@@ -76,3 +76,5 @@ reflink: http://www.a-suma.com/old/guide/lm/guide-erea1.htm
 * 接到哎呦·喂博士的联络，返回实验室。
 
 {% include ghost.html id="2" name="英尔" title="被溺爱的宝宝" age="1" intro="晚上睡觉的时候非常吵闹，<br>根本不可能安静地睡觉。<br>其实是从出生之后立刻变成了鬼怪。" %}
+
+{% include prevNext.html self="区域１" next="区域２" nextLink="./Area-2.html" %}

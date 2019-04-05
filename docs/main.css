@@ -223,27 +223,34 @@ body {
     height: 64px;
 }
 
-.ghostPhoto {
+div.ghostPhoto {
     position: absolute;
     width: 64px;
     height: 64px;
     background: url(./images/ghostsDex.png);
 }
 
-.ghostPhoto:first-child {
+div.ghostPhoto:first-child {
     left: calc(20% - 51.2px);
 }
 
-.ghostPhoto:nth-child(2) {
+div.ghostPhoto:nth-child(2) {
     left: calc(40% - 38.4px);
 }
 
-.ghostPhoto:nth-child(3) {
+div.ghostPhoto:nth-child(3) {
     left: calc(60% - 25.6px);
 }
 
-.ghostPhoto:nth-child(4) {
+div.ghostPhoto:nth-child(4) {
     left: calc(80% - 12.8px);
+}
+
+span.ghostPhoto {
+    display: block;
+    width: 256px;
+    height: 64px;
+    background: url(./images/ghostsDex.png);
 }
 
 .ghostTitle {

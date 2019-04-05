@@ -4585,7 +4585,7 @@ Anyway, nice to meet you. I'm Professor E. Gadd .
 This house... I swear it seems to have more ghosts every day! 
 ------     译文     ------
 而这些鬼怪还在每天增多…
-（文本版本：⑳⑲③⑻／字库版本：ⓄⓅⓆⓇ）
+（文本版本：⑳⑲④⑥／字库版本：ⓄⓅⓆⓇ）
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -16191,7 +16191,7 @@ Grabbing Ghost (Red)
 ------     参考     ------
 Mirror Ghost 
 ------     译文     ------
-镜中托基
+镜之托基
 ========== 结束 ==========
 
 ========== 开始 ==========
