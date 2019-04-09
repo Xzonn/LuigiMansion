@@ -17,7 +17,7 @@ title: 绘画鬼怪一览
 | 基柔 | マッディー | Biff Atlas | <span class="ghostPhoto" style="background-position: 0 -640px;"></span> | 26 | 健美运动员 | 喜欢“肌肉”和“百合花”的<br>强壮的肌肉男。<br>喜欢的花语是“纯洁”。 |
 | 朱菲小姐 | ミス・ブーニャ | Miss Petunia | <span class="ghostPhoto" style="background-position: 0 -704px;"></span> | ??? | 淋浴中的美人 | ６年前曾经是准“鬼怪小姐”。<br>最近模特的工作减少了，<br>但是美貌并没有减弱。 |
 | 乃奈 | ババーラ | Nana | <span class="ghostPhoto" style="background-position: 0 -768px;"></span> | 76 | 织围巾的老妇人 | 即使成为了鬼怪也在继续<br>编制围巾。已经织好的<br>围巾总共有８００米长。 |
-| 宝灵 | ポール・ロング | Slim Bankshot | <span class="ghostPhoto" style="background-position: 0 -832px;"></span> | 29 | 孤独的选手 | 台球界的大师。<br>被称作传说的选手，<br>但实际上没有和人比试过。 |
+| 泰丘 | ポール・ロング | Slim Bankshot | <span class="ghostPhoto" style="background-position: 0 -832px;"></span> | 29 | 孤独的选手 | 台球界的大师。<br>被称作传说的选手，<br>但实际上没有和人比试过。 |
 | 沃祥和渥耀 | ウォンとテッド | Henry and Orville | <span class="ghostPhoto" style="background-position: 0 -896px;"></span> | 5 | 双胞胎兄弟 | 总是在两个人一起玩捉迷藏。<br>但因为两个人都躲起来了，<br>游戏总是无法结束。 |
 | 巨大嘘嘘鬼 | ジャンボテレサ | Boolossus | <span class="ghostPhoto" style="background-position: 0 -960px;"></span> | ??? | 巨大鬼怪 | 害羞而又弱小的嘘嘘鬼聚在了一起，<br>体型变得庞大了，<br>胆量也变大了。 |
 | 冠梓 | ツボーン | Jarvis | <span class="ghostPhoto" style="background-position: 0 -1024px;"></span> | ??? | 罐中鬼怪 | 喜欢收集古董，<br>于是住在了收集的罐子里。<br>上厕所要如何解决是一个谜。 |

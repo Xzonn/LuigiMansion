@@ -88,6 +88,11 @@ body {
     max-width: 1200px;
 }
 
+#contentComment {
+    clear: both;
+    filter: drop-shadow(-1px -1px #FFF) drop-shadow(-1px 0 #FFF) drop-shadow(-1px 1px #FFF) drop-shadow(0 -1px #FFF) drop-shadow(0 1px #FFF) drop-shadow(1px -1px #FFF) drop-shadow(1px 0 #FFF) drop-shadow(1px 1px #FFF);
+}
+
 #references {
     clear: right;
     margin-left: 50%;

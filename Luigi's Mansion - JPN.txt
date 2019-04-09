@@ -3801,7 +3801,7 @@ P2
 ------     参考     ------
 Press Any Button to Revive 
 ------     译文     ------
-按下按钮复活
+按任意键复活
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -4585,7 +4585,7 @@ Anyway, nice to meet you. I'm Professor E. Gadd .
 This house... I swear it seems to have more ghosts every day! 
 ------     译文     ------
 而这些鬼怪还在每天增多…
-（文本版本：⑳⑲④⑥／字库版本：ⓄⓅⓆⓇ）
+（文本版本：⑳⑲④⑨／字库版本：ⓄⓅⓆⓇ）
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -4801,7 +4801,7 @@ They don't show their hearts very easily. Nope, not at all.
 ------     参考     ------
 When you find one, you should first use to search its heart for clues. 
 ------     译文     ------
-如果发现他们，先按[控]按钮[控]
+如果发现他们，先按[控]键[控]
 来对它们的心脏
 进行搜索。
 ========== 结束 ==========
@@ -5734,7 +5734,7 @@ If you approach a flame, they'll be surprised by your presence and leap out into
 ------     参考     ------
 After that, you can expel fire with . 
 ------     译文     ------
-吸入的元素按下[控]按钮[控]
+吸入的元素按下[控]键[控]
 就可以喷出来。
 ========== 结束 ==========
 
@@ -6098,9 +6098,9 @@ My research shows that these particular Elemental Ghosts leave their watery dwel
 ------     参考     ------
 Use to expel 'em once they're vacuumed! If you press and hold , you can press to shoot out a big ball of water! 
 ------     译文     ------
-吸入之后按下[控]按钮[控]就
+吸入之后按下[控]键[控]就
 可以喷出水元素了…然后按下
-[控]按钮[控]后，再用[控]按钮[控]
+[控]键[控]后，再用[控]键[控]
 发射出巨大的水球！
 ========== 结束 ==========
 
@@ -6646,7 +6646,7 @@ My research shows that they come out of hiding when you approach. Use to expel I
 ------     译文     ------
 当你靠近它们时，
 它们会吓一跳，从原来的地方跳出来。
-吸入它们之后按[控]按钮[控]
+吸入它们之后按[控]键[控]
 就可以喷出来。
 ========== 结束 ==========
 
@@ -6659,7 +6659,7 @@ My research shows that they come out of hiding when you approach. Use to expel I
 ------     参考     ------
 If you press while holding down , you can shoot out a frigid lump of ice! 
 ------     译文     ------
-按下[控]按钮[控]后，再按[控]按钮[控]
+按下[控]键[控]后，再按[控]键[控]
 就可以喷出冰冰凉的
 冰块！
 ========== 结束 ==========
@@ -10759,7 +10759,7 @@ So if you hit 'em with a flashlight beam all of a sudden, you can stun 'em momen
 ------     参考     ------
 When you see your chance, hold down and slide in the opposite direction! 
 ------     译文     ------
-有了机会之后，按下[控]按钮[控]
+有了机会之后，按下[控]键[控]
 来吸入它，推动[控]摇杆[控]
 向鬼怪相反的方向移动！　
 ========== 结束 ==========
@@ -10829,7 +10829,7 @@ Well done! That's how you do it, Luigi ! While vacuuming, hold and use the Circl
 ------     译文     ------
 你成功了！[控]路易吉[控]
 你找到感觉了啊！
-在吸入时按下[控]按钮[控]，移动
+在吸入时按下[控]键[控]，移动
 [控]摇杆[控]可以在吸入时
 四处移动！
 ========== 结束 ==========
@@ -11149,7 +11149,7 @@ That's the vacuum cleaner I engineered to catch ghosts. I call it...this is geni
 ------     参考     ------
 Use to vacuum and the motion controls to change your direction. 
 ------     译文     ------
-[控]按钮[控]键用来吸入！
+[控]键[控]键用来吸入！
 吸入过程中用[控]陀螺仪[控]
 来控制上下的方向。
 ========== 结束 ==========
@@ -11268,7 +11268,7 @@ Select the light type!
 ------     参考     ------
 So, if you use to shine the powerful strobe light, you can stun the ghosts for a bit. Then it's time to vacuum! 
 ------     译文     ------
-所以按[控]按钮[控]可以让闪光灯
+所以按[控]键[控]可以让闪光灯
 发出更强的光线
 让鬼怪吓住！
 这时候就是吸入的机会啊。
@@ -11284,7 +11284,7 @@ So, if you use to shine the powerful strobe light, you can stun the ghosts for a
 ------     参考     ------
 While vacuuming with , slide in the opposite direction to bring 'em in! 
 ------     译文     ------
-[控]按钮[控]用来吸入，
+[控]键[控]用来吸入，
 然后快速推动摇杆。
 闪光灯照到之后立刻拖拽，
 这是成功的诀窍！
@@ -11551,10 +11551,10 @@ And! I've built a part that will add even more functionality! But...I guess I le
 ------     参考     ------
 Would you mind heading to the room in back to find that part? Press to shake and bang on furniture. It's back there somewhere! 
 ------     译文     ------
-在那里按[控]按钮[控]来摇晃一下家具，
-然后找一找
+在那里按[控]键[控]
+来摇晃一下家具，
 [控]Game Boy Horror[控]的[控]零件[控]
-应该没问题吧？
+应该就能找出来了吧？
 它一定在里面房间的什么地方！
 ========== 结束 ==========
 
@@ -11788,7 +11788,7 @@ As you make progress and get things done, you might get the trophy back. I've ma
 获得了许多的成就的话，
 [控]奖杯[控]兴许会回来
 也说不定啊。
-[控]按钮[控]可以用来确认
+[控]键[控]可以用来确认
 达成成就的条件，
 偶尔查看一下
 会比较好吧。
@@ -11805,7 +11805,7 @@ Oh! That part is exactly what I was looking for! Let me just get it attached...
 ------     译文     ------
 哦哦哦，那正是老夫
 费尽心思寻找的[控]零件[控]啊！
-快点让我看看。
+快点让老夫看看吧。
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -11823,7 +11823,7 @@ Excellent. The search function has been added to the Game Boy Horror . Thanks fo
 …好嘞，这样的话[控]Game Boy Horror[控]的
 [控]搜索功能[控]就已经添加好了。
 真是帮了大忙了，[控]路易吉[控]。
-快用[控]按钮[控]的[控]搜索功能[控]
+快用[控]键[控]的[控]搜索功能[控]
 来好好地看看
 这间画廊的情况吧。
 ========== 结束 ==========
@@ -11838,7 +11838,7 @@ Excellent. The search function has been added to the Game Boy Horror . Thanks fo
 ------     参考     ------
  Luigi , could you go to the room in back and find the Game Boy Horror part ? Try using to shake and bang on furniture. 
 ------     译文     ------
-[控]路易吉[控]，按[控]按钮[控]
+[控]路易吉[控]，按[控]键[控]
 来晃一晃家具，然后
 从里面的房间找到[控]Game Boy Horror[控]的
 [控]零件[控]应该没问题吧？
@@ -11910,7 +11910,7 @@ As you make progress and get things done, the trophy should improve! To make thi
 获得了许多的成就的话，
 相应的[控]奖杯[控]
 兴许会更豪华也说不定啊。
-[控]按钮[控]可以用来确认
+[控]键[控]可以用来确认
 达成成就的条件，
 偶尔查看一下
 会比较好吧。
@@ -11946,7 +11946,7 @@ You can check out all the things you've accomplished by pressing . It's so easy.
 ------     译文     ------
 [控]路易吉[控]已经达成的
 各种各样的成就可以按
-[控]按钮[控]来确认。
+[控]键[控]来确认。
 很简单吧？
 偶尔查看一下比较好吧。
 呼呼呼。
@@ -16837,7 +16837,7 @@ Nana
 ------     参考     ------
 Slim Bankshot 
 ------     译文     ------
-宝灵
+泰丘
 ========== 结束 ==========
 
 ========== 开始 ==========

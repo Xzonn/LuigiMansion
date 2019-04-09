@@ -55,13 +55,15 @@
         </div>
         <div id="content">{% if page.title %}
             <h1 id="contentTitle">{{ page.title }}</h1>{% endif %}
+            <div id="contentBody">
 {{ content }}
+            </div>
+            <div id="contentComment">
+                <div id="lv-container" data-id="city" data-uid="MTAyMC80MTk5MS8xODUzOA=="></div>
+                <script src="https://cdn-city.livere.com/js/embed.dist.js"></script>
+            </div>
         </div>{% if page.ref %}
         <div id="references">{% if page.refLink %}<a href="{{page.refLink}}">{{ page.ref }}</a>{% else %}{{ page.ref }}{% endif %}</div>{% endif %}
-        <div id="rightComment">
-            <div id="lv-container" data-id="city" data-uid="MTAyMC80MTk5MS8xODUzOA=="></div>
-            <script src="https://cdn-city.livere.com/js/embed.dist.js"></script>
-        </div>
         <a id="topLink" href></a>
         <div id="footer">
             <div id="footerLicense">
