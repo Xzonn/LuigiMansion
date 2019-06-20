@@ -49,12 +49,12 @@ body {
 
 #headerLink {
     position: absolute;
-    top: 41px;
+    top: 19.5px;
     left: calc(50% - 10.5px);
     margin: 0;
     padding: 0;
     width: 378px;
-    height: 86px;
+    height: 129px;
     list-style: none;
 }
 
@@ -79,6 +79,7 @@ body {
 }
 
 #headerLink li a {
+    display: block;
     color: var(--color-content-light);
 }
 
