@@ -4253,7 +4253,7 @@ Have you had a chance to do what I asked, Luigi ? Let's take a look...
 ------     参考     ------
  Gooigi , your ghost count was... ! And you collected G! Impressive! Unbelievable! Better than I expected! Luigi , I appreciate all the hard work you've done! Heh heh heh! 
 ------     译文     ------
-[控]绿易吉[控]君抓了
+[控]傀易吉[控]君抓了
 [控]只鬼怪，收集了
 [控]G！
 真是太棒了！[控]路易吉[控]！
@@ -4277,7 +4277,7 @@ Have you had a chance to do what I asked, Luigi ? Let's take a look...
 ------     参考     ------
  Gooigi 's ghost count was... ! And he collected G. Good! All of this data will certainly help my research. Thank you, Luigi ! 
 ------     译文     ------
-[控]绿易吉[控]君抓了
+[控]傀易吉[控]君抓了
 [控]只鬼怪，收集了
 [控]G！
 真不错！
@@ -4299,7 +4299,7 @@ Hmm... You explored the mansion all by your lonesome, Luigi . When you've next g
 嗯……[控]路易吉[控]，
 你一个人在洋馆里探险啊。
 下次如果还有机会探险的话，也把
-[控]绿易吉[控]君一起带上吧！
+[控]傀易吉[控]君一起带上吧！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -4311,7 +4311,7 @@ Hmm... You explored the mansion all by your lonesome, Luigi . When you've next g
 ------     参考     ------
 I'll leave Gooigi at the lab over there. Make use of him whenever you can! 
 ------     译文     ------
-送来的[控]绿易吉[控]君
+送来的[控]傀易吉[控]君
 就在那边的实验室里。
 今后请多多使用它吧。
 ========== 结束 ==========
@@ -10513,7 +10513,7 @@ Heh heh heh! Hello! I'm future Professor E. Gadd !
 Allow me to introduce this green doppelg nger. I call him Gooigi ! 
 ------     译文     ------
 让我来介绍一下吧。
-这是你的分身[控]绿易吉[控]君！
+这是你的分身[控]傀易吉[控]君！
 ========== 结束 ==========
 
 ========== 开始 ==========
@@ -10558,7 +10558,7 @@ Which is why I'm talking to you!
 ------     参考     ------
 I'm outsourcing testing for Gooigi to you and past me . Isn't time travel great? 
 ------     译文     ------
-我很期待你们会对[控]绿易吉[控]君
+我很期待你们会对[控]傀易吉[控]君
 进行什么样的测试。
 ========== 结束 ==========
 
@@ -10570,7 +10570,7 @@ I'm outsourcing testing for Gooigi to you and past me . Isn't time travel great?
 ------     参考     ------
 Take good care of Gooigi ! 
 ------     译文     ------
-那么[控]绿易吉[控]君就拜托你们了！
+那么[控]傀易吉[控]君就拜托你们了！
 [控]过去的老夫[控]和[控]路易吉[控]！
 ========== 结束 ==========
 
@@ -10612,7 +10612,7 @@ It is quite an invention. I'd expect nothing less from the future me ! And if fu
 ------     参考     ------
  Luigi , my boy, when you want to take Gooigi along to the mansion, all you have to do is select Play Co-op in the Lab! 
 ------     译文     ------
-[控]路易吉[控]和[控]绿易吉[控]君
+[控]路易吉[控]和[控]傀易吉[控]君
 一起去洋馆探险的话，
 只要选择[控]两人一起游玩[控]
 就可以了！
@@ -10650,7 +10650,7 @@ If you could help me with the test...
 ------     参考     ------
 Oh! Take good care of Gooigi . He burns and melts really easily... 
 ------     译文     ------
-对了，[控]绿易吉[控]君[控]容易烧伤[控]
+对了，[控]傀易吉[控]君[控]容易烧伤[控]
 [控]容易融化[控]。别忘了小心一点啊。
 ========== 结束 ==========
 
@@ -10708,7 +10708,7 @@ Heh heh! Luigi , my boy. Don't look so surprised!
 ------     参考     ------
 How about you take Gooigi with you and do some exploring? 
 ------     译文     ------
-和[控]绿易吉[控]君[控]一起[控]
+和[控]傀易吉[控]君[控]一起[控]
 在洋馆里探险一定很不错吧。
 ========== 结束 ==========
 
