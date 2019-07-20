@@ -220,7 +220,7 @@ body {
 
 .journalContentBox {
     position: relative;
-    padding: 20px 5%;
+    margin: 40px 5%;
 }
 
 .journalContentBox:after {
@@ -233,7 +233,6 @@ body {
     position: relative;
     margin: 0;
     padding: 2px 12px;
-    width: 45%;
     background-image: url(./images/journalLine.png);
     background-position: 2px 2px;
     font-size: 20px;
@@ -241,7 +240,7 @@ body {
 }
 
 .journalContentImage {
-    width: 45%;
+    display: block;
 }
 
 .journalContentLeft, .journalContentImageLeft {
@@ -250,6 +249,15 @@ body {
 
 .journalContentRight, .journalContentImageRight {
     float: right;
+}
+
+.journalContentLeft, .journalContentImageLeft, .journalContentRight, .journalContentImageRight {
+    width: 45%;
+}
+
+.journalContentFull, .journalContentImageFull {
+    width: 90%;
+    margin: 40px 5%;
 }
 
 .journalContentSubImage {
