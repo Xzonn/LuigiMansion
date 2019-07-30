@@ -1,10 +1,10 @@
 :root {
-    --color-left-block: #628BD6;
-    --color-left-block-light: #A5BDEB;
-    --color-left-block-dark: #20468B;
-    --color-content: #EEB4EA;
-    --color-content-light: #F7D5F4;
-    --color-content-dark: #9B3B93;
+    --color-cold: #628BD6;
+    --color-cold-light: #A5BDEB;
+    --color-cold-dark: #20468B;
+    --color-warm: #EEB4EA;
+    --color-warm-light: #F7D5F4;
+    --color-warm-dark: #9B3B93;
 }
 
 body {
@@ -80,7 +80,7 @@ body {
 
 #headerLink li a {
     display: block;
-    color: var(--color-content-light);
+    color: var(--color-warm-light);
 }
 
 #content {
@@ -284,7 +284,7 @@ span.ghostPhoto {
     margin: 0 auto;
     width: 100%;
     max-width: 600px;
-    border-color: var(--color-content-dark);
+    border-color: var(--color-warm-dark);
     border-style: double;
     border-width: 3px 0;
 }
@@ -296,7 +296,7 @@ span.ghostPhoto {
 }
 
 .selfBox {
-    border-color: var(--color-content-dark);
+    border-color: var(--color-warm-dark);
     border-style: dashed;
     border-width: 0 1px;
 }
