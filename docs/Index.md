@@ -3,30 +3,33 @@ layout: default
 title: 汉化发布
 permalink: /
 ---
-<table class="infoTable">
-    <thead>
-        <tr><th class="infoTableTitle" colspan="2">路易吉洋馆</th></tr>
-        <tr>
-            <th class="infoTableSubTitle" colspan="2">
-                <div lang="ja">ルイージマンション</div>
-                <div lang="en"><em>Luigi's Mansion</em></div>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr><td class="infoTableImage" colspan="2"><img src="https://images-na.ssl-images-amazon.com/images/I/61A3BFk9bYL.jpg" alt="日本发行版游戏封面"></td></tr>
-        <tr><th>开发商</th><td>GREZZO</td></tr>
-        <tr><th>发行商</th><td>任天堂</td></tr>
-        <tr><th>平台</th><td>任天堂 3DS</td></tr>
-        <tr><th>发售日期</th><td>2018 年 11 月 8 日</td></tr>
-        <tr><th>分级</th><td>CERO：A</td></tr>
-        <tr><th class="infoTableFoot" colspan="2"><a href="https://www.nintendo.co.jp/3ds/bgnj/pc/index.html">官方网站</a></th></tr>
-    </tbody>
-</table>
+<div class="xz-infotable-block">
+  <table class="table infoTable">
+      <thead>
+          <tr><th class="infoTableTitle" colspan="2">路易吉洋馆</th></tr>
+          <tr>
+              <th class="infoTableSubTitle" colspan="2">
+                  <div lang="ja">ルイージマンション</div>
+                  <div lang="en"><em>Luigi's Mansion</em></div>
+              </th>
+          </tr>
+      </thead>
+      <tbody>
+          <tr><td class="infoTableImage" colspan="2"><img src="https://images-na.ssl-images-amazon.com/images/I/61A3BFk9bYL.jpg" alt="日本发行版游戏封面|none"></td></tr>
+          <tr><th>开发商</th><td>GREZZO</td></tr>
+          <tr><th>发行商</th><td>任天堂</td></tr>
+          <tr><th>平台</th><td>任天堂 3DS</td></tr>
+          <tr><th>发售日期</th><td>2018 年 11 月 8 日</td></tr>
+          <tr><th>分级</th><td>CERO：A</td></tr>
+          <tr><th class="infoTableFoot" colspan="2"><a href="https://www.nintendo.co.jp/3ds/bgnj/pc/index.html">官方网站</a></th></tr>
+      </tbody>
+  </table>
+</div>
 
 ## 发布链接
 - Github：[https://github.com/Xzonn/LuigiMansion/releases/latest/](https://github.com/Xzonn/LuigiMansion/releases/latest/)。
 - 百度网盘：[https://pan.baidu.com/s/1wlbfWbSADaq5loOgv248Og](https://pan.baidu.com/s/1wlbfWbSADaq5loOgv248Og)（08mw）。
+{: .text-left }
 
 ## 汉化说明
 我本人从《Nintendo Direct 2018.3.9》初次公布的时候就开始关注这个游戏了，因为之前通关过《路易吉洋馆２》，感觉挺有意思。但是因为港任大概已经放弃了 3DS，因此当时就觉得这作有官方中文的可能性不大。果然，直到日本版发售后都没有官方中文的消息，因此我开始尝试自己汉化。
@@ -43,10 +46,9 @@ permalink: /
 
 反馈链接：
 
-- **[直接在本页下方留言](#contentComment)**
+- **[直接在本页下方留言](#xz-comment)**
 - **[通过 Github 的“issues”功能](https://github.com/Xzonn/LuigiMansion/issues)**
 - **[通过 Bilibili 的“私信”功能](https://message.bilibili.com/#whisper/mid16114399)**
-- **[通过百度贴吧的此贴](https://tieba.baidu.com/p/6078283673)**
 
 本汉化允许转载，但请至少保留汉化者的名字（Xzonn），这是对我最基本的尊重，谢谢配合。**不欢迎不规范转载。**
 

@@ -1,141 +1,24 @@
-:root {
-    --color-cold: #628BD6;
-    --color-cold-light: #A5BDEB;
-    --color-cold-dark: #20468B;
-    --color-warm: #EEB4EA;
-    --color-warm-light: #F7D5F4;
-    --color-warm-dark: #9B3B93;
-}
-
-body {
-    background-image: url(./images/background.png);
-    color: #FFF;
-}
-
-#header {
-    position: relative;
-    width: 100%;
-    height: 168px;
-    background-image: url(./images/header.png);
-    background-repeat: repeat-x;
-    filter: drop-shadow(0 0 5px #FFFFFF);
-}
-
-#headerLogo {
-    position: absolute;
-    top: 20px;
-    left: calc(50% - 600px);
-    display: block;
-    width: 300px;
-    height: 128px;
-    background-image: url(./images/logo.png);
-    background-position: -128px -64px;
-}
-
-#headerLogo:after {
-    position: absolute;
-    top: 0;
-    right: 0;
-    display: block;
-    width: 67px;
-    height: 128px;
-    background-image: url(./images/logo2.png);
-    content: "";
-}
-
-#headerLogo:hover {
-    text-decoration: none;
-}
-
-#headerLink {
-    position: absolute;
-    top: 19.5px;
-    left: calc(50% - 10.5px);
-    margin: 0;
-    padding: 0;
-    width: 378px;
-    height: 129px;
-    list-style: none;
-}
-
-#headerLink:after {
-    clear: both;
-    display: block;
-    content: '';
-}
-
-#headerLink li {
-    float: left;
+.xz-navbar .nav > li {
+    margin-top: 3.5px;
     width: 126px;
     height: 43px;
     background: url(./images/button.png);
     background-size: 100% 200%;
     text-align: center;
-    line-height: 45px;
 }
 
-#headerLink li:hover {
+.xz-navbar .nav > li:hover {
     background-position-y: bottom;
 }
 
-#headerLink li a {
+.xz-navbar .nav > li a {
     display: block;
-    color: var(--color-warm-light);
+    color: #fff;
+    line-height: 18px;
 }
 
-#content {
+.xz-infotable-block {
     margin: 0 auto;
-    padding: 0 1em;
-    max-width: 1200px;
-}
-
-#contentComment {
-    clear: both;
-    filter: drop-shadow(-1px -1px #FFF) drop-shadow(-1px 0 #FFF) drop-shadow(-1px 1px #FFF) drop-shadow(0 -1px #FFF) drop-shadow(0 1px #FFF) drop-shadow(1px -1px #FFF) drop-shadow(1px 0 #FFF) drop-shadow(1px 1px #FFF);
-}
-
-#references {
-    clear: right;
-    margin-left: 50%;
-    padding-right: 1em;
-    max-width: 600px;
-    color: #888;
-    text-align: right;
-}
-
-#references:before {
-    content: '参考资料：';
-}
-
-#footer {
-    position: relative;
-    margin: 0;
-    margin-top: 26px;
-    padding-top: 26px;
-    width: 100%;
-    max-width: 100%;
-    border: none;
-    border-radius: 0;
-    background-color: #000;
-}
-
-#footer:before {
-    position: absolute;
-    top: -26px;
-    left: 0;
-    display: block;
-    width: 100%;
-    height: 58px;
-    background: url(./images/footer.png) repeat-x;
-    content: "";
-}
-
-#content .infoTable {
-    float: right;
-    clear: right;
-    margin-left: 1em;
-    width: 40%;
-    min-width: 300px;
 }
 
 .infoTableTitle {
@@ -313,53 +196,10 @@ span.ghostPhoto {
     content: "\2192";
 }
 
-@media screen and (max-width: 600px) {
-    #content .infoTable {
-        float: none;
-    }
-}
-
-@media screen and (max-width: 1200px) {
-    #headerLogo {
-        left: 0;
-    }
-    
-    #refrences {
-        margin-left: calc(100% - 600px);
-    }
-}
-
-@media screen and (max-width: 734px) {
-    #headerLogo {
-        left: calc(50% - 150px);
-    }
-
-    #headerLink {
-        position: static;
-        margin: 0 auto;
-        height: auto;
-    }
-
-    #header {
-        padding-top: 148px;
-        height: auto;
-    }
-}
-
-@media screen and (max-width: 599px) {
-    #refrences {
-        margin-left: 0;
-    }
-}
-
-@media screen and (max-width: 377px) {
-    #headerLink {
-        width: 252px;
-    }
-}
-
-@media screen and (max-width: 251px) {
-    #headerLink {
-        width: 126px;
+@media screen and (min-width: 992px) {
+    .xz-infotable-block {
+        float: right;
+        margin-left: 1rem;
+        width: 30%;
     }
 }

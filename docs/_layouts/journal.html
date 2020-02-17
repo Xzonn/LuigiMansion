@@ -6,99 +6,106 @@
     </head>
     <body>
 {% include header.html %}
-        <div id="content">
-            <div id="journalTitleBox">
-                <div id="journalTitleBorderBox">
-                    <div id="journalTitleBorder"></div>
-                </div>
-                <div class="journalGlow"></div>
-                <h1 id="journalTitle">
-                    <div id="journalTitleLine1">哎呦·喂博士的</div>
-                    <div id="journalTitleLine2">研究日记</div>
-                </h1>
-            </div>
-            <ul id="journalNavigationBox">
-                <li class="journalNavigationItem">
-                    <a class="journalNavigationItemLink{% if page.journalId == 1 %} journalNavigationItemLinkActive{% else %}" href="./XXX-001.html{% endif %}">
-                        <div class="journalNavigationItemLine1">XXX-001</div>
-                        <div class="journalNavigationItemLine2">偶然的产物</div>
-                    </a>
-                    </li>
-                <li class="journalNavigationItem">
-                    <a class="journalNavigationItemLink{% if page.journalId == 2 %} journalNavigationItemLinkActive{% else %}" href="./XXX-002.html{% endif %}">
-                        <div class="journalNavigationItemLine1">XXX-002</div>
-                        <div class="journalNavigationItemLine2">“傀”的性质</div>
-                    </a>
-                    </li>
-                <li class="journalNavigationItem">
-                    <a class="journalNavigationItemLink{% if page.journalId == 3 %} journalNavigationItemLinkActive{% else %}" href="./XXX-003.html{% endif %}">
-                        <div class="journalNavigationItemLine1">XXX-003</div>
-                        <div class="journalNavigationItemLine2">傀易吉的诞生</div>
-                    </a>
-                </li><!--
-                <li class="journalNavigationItem">
-                    <a class="journalNavigationItemLink{% if page.journalId == 4 %} journalNavigationItemLinkActive{% else %}" href="./XXX-004.html{% endif %}">
-                        <div class="journalNavigationItemLine1">XXX-004</div>
-                        <div class="journalNavigationItemLine2">令人怀念的那座洋馆</div>
-                    </a>
-                </li>
-                <li class="journalNavigationItem">
-                    <a class="journalNavigationItemLink{% if page.journalId == 5 %} journalNavigationItemLinkActive{% else %}" href="./XXX-005.html{% endif %}">
-                        <div class="journalNavigationItemLine1">XXX-005</div>
-                        <div class="journalNavigationItemLine2">新的能力</div>
-                    </a>
-                </li>
-                <li class="journalNavigationItem">
-                    <a class="journalNavigationItemLink{% if page.journalId == 6 %} journalNavigationItemLinkActive{% else %}" href="./XXX-006.html{% endif %}">
-                        <div class="journalNavigationItemLine1">XXX-006</div>
-                        <div class="journalNavigationItemLine2">傀易吉的弱点</div>
-                    </a>
-                </li>-->
-            </ul>
-            <div id="journalSubTitleBlock">
-                <h2 id="journalSubTitle">XXX-{{ page.journalId | prepend: "000" | slice: -3, 3 }}：{{ page.journalTitle }}</h2>
-                <ul id="journalOriginalLinkList">
-                    <li class="journalOriginalLinkItem"><a class="journalOriginalLink" href="{{ page.journalJpnLink }}">日本語</a></li>
-                    <li class="journalOriginalLinkItem"><a class="journalOriginalLink" href="{{ page.journalEngLink }}">English</a></li>
-                </ul>
-            </div>
-            <div id="journalIntroduction">本页面翻译自日文、英文官网，素材直接取自官网链接，未做改动。本文中涉及的专有名词译名请以官方译名为准。</div>
-            <div id="contentBody">
+        <div class="xz-content container">
+            <div class="row">
+                <div class="xz-content-main col-md-12">
+                    <div class="xz-infobox-top hidden-print"></div>
+                    <div id="journalTitleBox">
+                        <div id="journalTitleBorderBox">
+                            <div id="journalTitleBorder"></div>
+                        </div>
+                        <div class="journalGlow"></div>
+                        <h1 id="journalTitle">
+                            <div id="journalTitleLine1">哎呦·喂博士的</div>
+                            <div id="journalTitleLine2">研究日记</div>
+                        </h1>
+                    </div>
+                    <ul id="journalNavigationBox">
+                        <li class="journalNavigationItem">
+                            <a class="journalNavigationItemLink{% if page.journalId == 1 %} journalNavigationItemLinkActive{% else %}" href="./XXX-001.html{% endif %}">
+                                <div class="journalNavigationItemLine1">XXX-001</div>
+                                <div class="journalNavigationItemLine2">偶然的产物</div>
+                            </a>
+                            </li>
+                        <li class="journalNavigationItem">
+                            <a class="journalNavigationItemLink{% if page.journalId == 2 %} journalNavigationItemLinkActive{% else %}" href="./XXX-002.html{% endif %}">
+                                <div class="journalNavigationItemLine1">XXX-002</div>
+                                <div class="journalNavigationItemLine2">“傀”的性质</div>
+                            </a>
+                            </li>
+                        <li class="journalNavigationItem">
+                            <a class="journalNavigationItemLink{% if page.journalId == 3 %} journalNavigationItemLinkActive{% else %}" href="./XXX-003.html{% endif %}">
+                                <div class="journalNavigationItemLine1">XXX-003</div>
+                                <div class="journalNavigationItemLine2">傀易吉的诞生</div>
+                            </a>
+                        </li><!--
+                        <li class="journalNavigationItem">
+                            <a class="journalNavigationItemLink{% if page.journalId == 4 %} journalNavigationItemLinkActive{% else %}" href="./XXX-004.html{% endif %}">
+                                <div class="journalNavigationItemLine1">XXX-004</div>
+                                <div class="journalNavigationItemLine2">令人怀念的那座洋馆</div>
+                            </a>
+                        </li>
+                        <li class="journalNavigationItem">
+                            <a class="journalNavigationItemLink{% if page.journalId == 5 %} journalNavigationItemLinkActive{% else %}" href="./XXX-005.html{% endif %}">
+                                <div class="journalNavigationItemLine1">XXX-005</div>
+                                <div class="journalNavigationItemLine2">新的能力</div>
+                            </a>
+                        </li>
+                        <li class="journalNavigationItem">
+                            <a class="journalNavigationItemLink{% if page.journalId == 6 %} journalNavigationItemLinkActive{% else %}" href="./XXX-006.html{% endif %}">
+                                <div class="journalNavigationItemLine1">XXX-006</div>
+                                <div class="journalNavigationItemLine2">傀易吉的弱点</div>
+                            </a>
+                        </li>-->
+                    </ul>
+                    <div id="journalSubTitleBlock">
+                        <h2 id="journalSubTitle">XXX-{{ page.journalId | prepend: "000" | slice: -3, 3 }}：{{ page.journalTitle }}</h2>
+                        <ul id="journalOriginalLinkList">
+                            <li class="journalOriginalLinkItem"><a class="journalOriginalLink" href="{{ page.journalJpnLink }}">日本語</a></li>
+                            <li class="journalOriginalLinkItem"><a class="journalOriginalLink" href="{{ page.journalEngLink }}">English</a></li>
+                        </ul>
+                    </div>
+                    <div id="journalIntroduction">本页面翻译自日文、英文官网，素材直接取自官网链接，未做改动。本文中涉及的专有名词译名请以官方译名为准。</div>
+                    <article>
 {{ content }}
+                    </article>
+                    <div id="journalBackgroundElementBlock">
+                        <img class="journalBackgroundElement journalBackgroundElement--1" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-blob-3.png">
+                        <img class="journalBackgroundElement journalBackgroundElement--2" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-blob-4.png">
+                        <img class="journalBackgroundElement journalBackgroundElement--3" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-blob-5.png">
+                        <img class="journalBackgroundElement journalBackgroundElement--4" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-writing-8.png">
+                        <img class="journalBackgroundElement journalBackgroundElement--5" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-writing-2.png">
+                        <img class="journalBackgroundElement journalBackgroundElement--6" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-blob-5.png">
+                        <img class="journalBackgroundElement journalBackgroundElement--7" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-blob-2.png">
+                        <img class="journalBackgroundElement journalBackgroundElement--8" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-coffee-stain.png">
+                        <img class="journalBackgroundElement journalBackgroundElement--9" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-writing-6.png">
+                        <img class="journalBackgroundElement journalBackgroundElement--10" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-writing-1.png">
+                        <img class="journalBackgroundElement journalBackgroundElement--11" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-blob-5.png">
+                        <img class="journalBackgroundElement journalBackgroundElement--12" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-blob-4.png">
+                        <img class="journalBackgroundElement journalBackgroundElement--13" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-writing-7.png">
+                        <img class="journalBackgroundElement journalBackgroundElement--14" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-blob-1.png">
+                        <img class="journalBackgroundElement journalBackgroundElement--15" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-coffee-stain.png">
+                        <img class="journalBackgroundElement journalBackgroundElement--16" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-writing-2.png">
+                        <img class="journalBackgroundElement journalBackgroundElement--17" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-blob-5.png">
+                        <img class="journalBackgroundElement journalBackgroundElement--18" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-writing-4.png">
+                        <img class="journalBackgroundElement journalBackgroundElement--19" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-writing-3.png">
+                        <img class="journalBackgroundElement journalBackgroundElement--20" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-blob-2.png">
+                        <img class="journalBackgroundElement journalBackgroundElement--21" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-writing-2.png">
+                        <img class="journalBackgroundElement journalBackgroundElement--22" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-blob-5.png">
+                        <img class="journalBackgroundElement journalBackgroundElement--23" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-writing-5.png">
+                        <img class="journalBackgroundElement journalBackgroundElement--24" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-blob-1.png">
+                        <img class="journalBackgroundElement journalBackgroundElement--25" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-writing-9.png">
+                    </div>{% unless jekyll.environment == "development" or page.noComment %}
+                    <div class="xz-infobox-bottom hidden-print">{% if page.ref %}
+                        <div class="xz-info-ref alert alert-info">参考资料：{% if page.refLink %}<a href="{{ page.refLink }}" class="alert-link">{{ page.ref }}</a>{% else %}{{ page.ref }}{% endif %}</div>{% endif %}
+                    </div>
+                    <div class="xz-content-comment">
+                        <div id="lv-container" data-id="city" data-uid="MTAyMC80MTk5MS8xODUzOA=="></div>
+                        <script src="https://cdn-city.livere.com/js/embed.dist.js"></script>
+                    </div>{% endunless %}
+                </div>
             </div>
-            <div id="journalBackgroundElementBlock">
-                <img class="journalBackgroundElement journalBackgroundElement--1" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-blob-3.png">
-                <img class="journalBackgroundElement journalBackgroundElement--2" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-blob-4.png">
-                <img class="journalBackgroundElement journalBackgroundElement--3" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-blob-5.png">
-                <img class="journalBackgroundElement journalBackgroundElement--4" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-writing-8.png">
-                <img class="journalBackgroundElement journalBackgroundElement--5" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-writing-2.png">
-                <img class="journalBackgroundElement journalBackgroundElement--6" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-blob-5.png">
-                <img class="journalBackgroundElement journalBackgroundElement--7" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-blob-2.png">
-                <img class="journalBackgroundElement journalBackgroundElement--8" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-coffee-stain.png">
-                <img class="journalBackgroundElement journalBackgroundElement--9" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-writing-6.png">
-                <img class="journalBackgroundElement journalBackgroundElement--10" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-writing-1.png">
-                <img class="journalBackgroundElement journalBackgroundElement--11" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-blob-5.png">
-                <img class="journalBackgroundElement journalBackgroundElement--12" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-blob-4.png">
-                <img class="journalBackgroundElement journalBackgroundElement--13" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-writing-7.png">
-                <img class="journalBackgroundElement journalBackgroundElement--14" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-blob-1.png">
-                <img class="journalBackgroundElement journalBackgroundElement--15" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-coffee-stain.png">
-                <img class="journalBackgroundElement journalBackgroundElement--16" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-writing-2.png">
-                <img class="journalBackgroundElement journalBackgroundElement--17" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-blob-5.png">
-                <img class="journalBackgroundElement journalBackgroundElement--18" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-writing-4.png">
-                <img class="journalBackgroundElement journalBackgroundElement--19" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-writing-3.png">
-                <img class="journalBackgroundElement journalBackgroundElement--20" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-blob-2.png">
-                <img class="journalBackgroundElement journalBackgroundElement--21" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-writing-2.png">
-                <img class="journalBackgroundElement journalBackgroundElement--22" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-blob-5.png">
-                <img class="journalBackgroundElement journalBackgroundElement--23" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-writing-5.png">
-                <img class="journalBackgroundElement journalBackgroundElement--24" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-blob-1.png">
-                <img class="journalBackgroundElement journalBackgroundElement--25" src="https://luigismansion.nintendo.com/3ds/assets/img/journal/bg-writing-9.png">
-            </div>
-            <div id="contentComment">
-                <div id="lv-container" data-id="city" data-uid="MTAyMC80MTk5MS8xODUzOA=="></div>
-                <script src="https://cdn-city.livere.com/js/embed.dist.js"></script>
-            </div>
-        </div>{% if page.ref %}
-        <div id="references">{% if page.refLink %}<a href="{{page.refLink}}">{{ page.ref }}</a>{% else %}{{ page.ref }}{% endif %}</div>{% endif %}
+        </div>
 {% include footer.html %}
     </body>
 </html>

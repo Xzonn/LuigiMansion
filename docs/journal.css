@@ -3,10 +3,9 @@ body {
     background-image: url(https://luigismansion.nintendo.com/3ds/assets/img/common/pattern-noise.jpg);
 }
 
-#content {
-    position: relative;
-    margin-top: 50px;
-    color: #000;
+.xz-content-main {
+    background: none;
+    box-shadow: none;
 }
 
 #journalTitleBox {
@@ -158,7 +157,6 @@ body {
 
 #journalSubTitleBlock {
     position: relative;
-    margin-bottom: 37px;
     padding-bottom: 6px;
     border-bottom: 10px solid #956c49;
     color: #493421;
@@ -212,7 +210,6 @@ body {
     color: #888;
     text-align: center;
     font-size: 12px;
-    margin: -24px 0;
 }
 
 .journalContentBox {
