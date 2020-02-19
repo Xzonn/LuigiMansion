@@ -17,6 +17,10 @@
     line-height: 18px;
 }
 
+.xz-navbar .nav > li a:hover {
+    color: #fff;
+}
+
 .xz-infotable-block {
     margin: 0 auto;
 }
@@ -101,9 +105,8 @@
     padding: 1em;
     width: 100%;
     max-width: 400px;
-    border: 2px solid #333;
+    border: 2px solid var(--color-warm-darker);
     border-radius: 10px;
-    background: #000;
 }
 
 .ghostPhotoBox {

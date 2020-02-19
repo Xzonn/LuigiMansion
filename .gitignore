@@ -4,7 +4,6 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 # User-specific files
-*.rsuser
 *.suo
 *.user
 *.userosscache
@@ -20,8 +19,6 @@
 [Rr]eleases/
 x64/
 x86/
-[Aa][Rr][Mm]/
-[Aa][Rr][Mm]64/
 bld/
 [Bb]in/
 [Oo]bj/
@@ -62,7 +59,7 @@ StyleCopReport.xml
 # Files built by Visual Studio
 *_i.c
 *_p.c
-*_h.h
+*_i.h
 *.ilk
 *.meta
 *.obj
@@ -79,7 +76,6 @@ StyleCopReport.xml
 *.tlh
 *.tmp
 *.tmp_proj
-*_wpftmp.csproj
 *.log
 *.vspscc
 *.vssscc
@@ -211,7 +207,7 @@ _pkginfo.txt
 # files ending in .cache can be ignored
 *.[Cc]ache
 # but keep track of directories ending in .cache
-!?*.[Cc]ache/
+!*.[Cc]ache/
 
 # Others
 ClientBin/
@@ -224,15 +220,13 @@ ClientBin/
 *.publishsettings
 orleans.codegen.cs
 
-# Including strong name files can present a security risk
+# Including strong name files can present a security risk 
 # (https://github.com/github/gitignore/pull/2483#issue-259490424)
 #*.snk
 
 # Since there are multiple workflows, uncomment next line to ignore bower_components
 # (https://github.com/github/gitignore/pull/1529#issuecomment-104372622)
 #bower_components/
-# ASP.NET Core default setup: bower directory is configured as wwwroot/lib/ and bower restore is true
-**/wwwroot/lib/
 
 # RIA/Silverlight projects
 Generated_Code/
@@ -257,7 +251,6 @@ ServiceFabricBackup/
 *.bim.layout
 *.bim_*.settings
 *.rptproj.rsuser
-*- Backup*.rdl
 
 # Microsoft Fakes
 FakesAssemblies/
@@ -297,8 +290,8 @@ paket-files/
 .idea/
 *.sln.iml
 
-# CodeRush personal settings
-.cr/personal
+# CodeRush
+.cr/
 
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
@@ -323,7 +316,7 @@ __pycache__/
 # OpenCover UI analysis results
 OpenCover/
 
-# Azure Stream Analytics local run output
+# Azure Stream Analytics local run output 
 ASALocalRun/
 
 # MSBuild Binary and Structured Log
@@ -332,14 +325,12 @@ ASALocalRun/
 # NVidia Nsight GPU debugger configuration file
 *.nvuser
 
-# MFractors (Xamarin productivity tool) working folder
+# MFractors (Xamarin productivity tool) working folder 
 .mfractor/
 
-# Local History for Visual Studio
-.localhistory/
-
-# BeatPulse healthcheck temp database
-healthchecksdb
-
-# Backup folder for Package Reference Convert tool in Visual Studio 2017
-MigrationBackup/
+# Jekyll
+_drafts/
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata

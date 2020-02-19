@@ -100,13 +100,12 @@ permalink: /
   - A：欢迎转载，但建议您保留发布者信息、发布说明和更新地址，以便我及时得到反馈。如果条件不允许，请至少保留汉化者的名字（Xzonn），这是对我最基本的尊重，谢谢配合。当然，不保留发布者信息直接转载者，我也没有办法，只能在之后的发布说明中将您的名字写到这里。
 
 ## 汉化预览
-![标题界面](./images/screenshot-1.png)
-
-![存档选择界面](./images/screenshot-2.png)
-
-![实验室界面](./images/screenshot-3.png)
-
-![游戏界面](./images/screenshot-4.png)
+<div class="row">
+  <div class="col-sm-6"><img src="./images/screenshot-1.png" alt="标题界面"/></div>
+  <div class="col-sm-6"><img src="./images/screenshot-2.png" alt="存档选择界面"/></div>
+  <div class="col-sm-6"><img src="./images/screenshot-3.png" alt="实验室界面"/></div>
+  <div class="col-sm-6"><img src="./images/screenshot-4.png" alt="游戏界面"/></div>
+</div>
 
 <div class="bilibiliBox" data-aid="45332875" data-page="1"></div>
 
