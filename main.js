@@ -95,3 +95,12 @@ $(function () {
         }
     });
 });
+
+// 文本
+$(function () {
+    if (location.pathname.split("/").reverse()[0] == "Texts.html") {
+        $("td").each(function () {
+            this.innerHTML = this.innerHTML.replace(/&lt;hr&gt;/, "<hr>");
+        });
+    }
+})
