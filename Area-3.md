@@ -35,7 +35,7 @@ refLink: http://www.a-suma.com/old/guide/lm/guide-erea3.htm
 - 向右下来到健身房。
 
 ## 健身房
-{% include room.html name="健身房" ja="トレーニングルーム" en="Rec Room" ghost="富亚普" portrait="基柔" boo="嘘嘘鲁" item="镜" %}
+{% include room.html name="健身房" ja="トレーニングルーム" en="Rec Room" ghost="富亚普" portrait="基柔" boo="害羞鲁" item="镜" %}
 
 - （右下方的健身器中隐藏着富亚普。）
 - 沙袋中间有绘画鬼怪：基柔。对沙袋按<kbd>X</kbd>可以攻击基柔，直到将其打晕，随后照射并吸入。
@@ -49,7 +49,7 @@ refLink: http://www.a-suma.com/old/guide/lm/guide-erea3.htm
 - 用水灭掉上方门的火，前往茶室。
 
 ## 茶室
-{% include room.html name="茶室" ja="ティールーム" en="Tea Room" ghost="托基（白） × 2、金鼠 × 2" boo="嘘嘘普" item="冰" %}
+{% include room.html name="茶室" ja="ティールーム" en="Tea Room" ghost="托基（白） × 2、金鼠 × 2" boo="害羞普" item="冰" %}
 
 - 房间右下方的双箭头标志可以用来交换行走的方向。
 - 吸入所有鬼怪后，出现宝箱，获得冰之元素奖章。
@@ -73,7 +73,7 @@ refLink: http://www.a-suma.com/old/guide/lm/guide-erea3.htm
 - 返回１Ｆ，前往娱乐室。
 
 ## 娱乐室
-{% include room.html name="娱乐室" ja="娯楽室" en="Billiards Room" ghost="富亚普" portrait="泰丘" boo="嘘嘘巴" item="镜" %}
+{% include room.html name="娱乐室" ja="娯楽室" en="Billiards Room" ghost="富亚普" portrait="泰丘" boo="害羞八号" item="镜" %}
 
 - （右下方的椅子中隐藏着富亚普。）
 - 台球桌周围有绘画鬼怪：泰丘。吸入它打出的台球后喷向它，重复多次后出现心脏。照射并吸入。
@@ -83,15 +83,15 @@ refLink: http://www.a-suma.com/old/guide/lm/guide-erea3.htm
 {% include ghost.html id="13" name="泰丘" title="孤独的选手" age="29" intro="台球界的大师。<br>被称作传说的选手，<br>但实际上没有和人比试过。" %}
 
 ## 放映室
-{% include room.html name="放映室" ja="映写室" en="Projection Room" ghost="影院托基 × 7" boo="嘘嘘久" %}
+{% include room.html name="放映室" ja="映写室" en="Projection Room" ghost="影院托基 × 7" boo="害羞九号" %}
 
 - 此房间的鬼怪与[镜之房间](./Area-2.html#镜之房间)中的镜之托基类似。它在被照射前只会在幕布中出现。对照幕布的位置照射并吸入。
 - 吸入所有鬼怪后，出现宝箱，获得马力欧的手套。
-- （吸入幕布后可以发现嘘嘘鬼的海报。）
+- （吸入幕布后可以发现害羞幽灵的海报。）
 - 返回２Ｆ，前往回忆房间。
 
 ## 回忆房间
-{% include room.html name="回忆房间" ja="回想の部屋" en="Astral Hall" ghost="亚普 × 2、嘿普 × 4、托基（白）" boo="嘘嘘夏" %}
+{% include room.html name="回忆房间" ja="回想の部屋" en="Astral Hall" ghost="亚普 × 2、嘿普 × 4、托基（白）" boo="害羞夏" %}
 
 - 对房间中的蜡烛喷火，蜡烛全部点燃后，出现各种鬼怪。
 - 吸入所有鬼怪后，可以向右前往幻想房间。
@@ -104,7 +104,7 @@ refLink: http://www.a-suma.com/old/guide/lm/guide-erea3.htm
 - 回到走廊，向上前往祖父母的房间。
 
 ## 祖父母的房间
-{% include room.html name="祖父母的房间" ja="祖父母の部屋" en="Nana's Room" ghost="富亚普" portrait="乃奈" boo="嘘嘘由" %}
+{% include room.html name="祖父母的房间" ja="祖父母の部屋" en="Nana's Room" ghost="富亚普" portrait="乃奈" boo="害羞由" %}
 
 - 摇椅上有绘画鬼怪：乃奈。
 - 调查毛线筐，毛线球掉出来。吸入毛线球，喷向乃奈。
@@ -114,7 +114,7 @@ refLink: http://www.a-suma.com/old/guide/lm/guide-erea3.htm
 {% include ghost.html id="12" name="乃奈" title="织围巾的老妇人" age="76" intro="即使成为了鬼怪也在继续<br>编制围巾。已经织好的<br>围巾总共有８００米长。" %}
 
 ## 儿童房间
-{% include room.html name="儿童房间" ja="子供部屋" en="The Twins' Room" ghost="富亚普" portrait="沃祥和渥耀" boo="嘘嘘绪" %}
+{% include room.html name="儿童房间" ja="子供部屋" en="The Twins' Room" ghost="富亚普" portrait="沃祥和渥耀" boo="害羞绪" %}
 
 - （儿童床中隐藏着富亚普。）
 - 用吸尘器吹动吊扇，出现绘画鬼怪：沃祥和渥耀。它们会要求路易吉和它们玩捉迷藏。
@@ -126,7 +126,7 @@ refLink: http://www.a-suma.com/old/guide/lm/guide-erea3.htm
 {% include ghost.html id="14" name="沃祥和渥耀" title="双胞胎兄弟" age="5" intro="总是在两个人一起玩捉迷藏。<br>但因为两个人都躲起来了，<br>游戏总是无法结束。" %}
 
 ## 占卜房间
-{% include room.html name="占卜房间" ja="占い部屋" en="Fortune-Teller's Room" portrait="育知夫人" boo="嘘嘘尔" %}
+{% include room.html name="占卜房间" ja="占い部屋" en="Fortune-Teller's Room" portrait="育知夫人" boo="害羞二号" %}
 
 - 用手电筒长时间照射水晶球，出现绘画鬼怪：育知夫人。
 - 与育知夫人多次对话，得到马力欧的消息。对话完毕后，吸入育知夫人。
@@ -134,19 +134,19 @@ refLink: http://www.a-suma.com/old/guide/lm/guide-erea3.htm
 - 前往３Ｆ的展示房间。
 
 ## 展示房间
-{% include room.html name="展示房间" ja="はく製の部屋" en="Safari Room" ghost="水莫普 × 3、拿把那 × 2、金鼠" boo="嘘嘘皮" item="镜" %}
+{% include room.html name="展示房间" ja="はく製の部屋" en="Safari Room" ghost="水莫普 × 3、拿把那 × 2、金鼠" boo="害羞皮" item="镜" %}
 
 - 用吸尘器吹动墙上的鹿首，出现各种鬼怪。其中水莫普需要用冰喷射将其冻住。
 - 吸入全部鬼怪后，出现宝箱，获得阳台的钥匙。
 
 ## 阳台
-{% include room.html name="阳台" ja="ベランダ" en="Balcony" portrait="巨大嘘嘘鬼" %}
+{% include room.html name="阳台" ja="ベランダ" en="Balcony" portrait="巨大害羞幽灵" %}
 
-- 靠近嘘嘘鬼群，出现动画，嘘嘘鬼聚集成巨大嘘嘘鬼。
-- 将巨大嘘嘘鬼引到独角兽的角上，它会散开成单只嘘嘘鬼。向嘘嘘鬼喷射冰，然后吸入。
-- 吸入全部嘘嘘鬼后，出现宝箱，获得区域４的钥匙。
+- 靠近害羞幽灵群，出现动画，害羞幽灵聚集成巨大害羞幽灵。
+- 将巨大害羞幽灵引到独角兽的角上，它会散开成单只害羞幽灵。向害羞幽灵喷射冰，然后吸入。
+- 吸入全部害羞幽灵后，出现宝箱，获得区域４的钥匙。
 - 接到博士的联络，返回实验室。
 
-{% include ghost.html id="15" name="巨大嘘嘘鬼" title="巨大鬼怪" age="???" intro="害羞而又弱小的嘘嘘鬼聚在了一起，<br>体型变得庞大了，<br>胆量也变大了。" %}
+{% include ghost.html id="15" name="巨大害羞幽灵" title="巨大鬼怪" age="???" intro="害羞而又弱小的害羞幽灵聚在了一起，<br>体型变得庞大了，<br>胆量也变大了。" %}
 
 {% include prevNext.html prevLink="./Area-2.html" prev="区域２" self="区域３" %}

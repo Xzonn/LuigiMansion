@@ -206,3 +206,15 @@ span.ghostPhoto {
         width: 30%;
     }
 }
+
+@media screen and (min-width: 768px) {
+    .xz-header {
+        overflow: hidden;
+        max-height: 51px;
+        transition:all .2s ease-in-out;
+    }
+    
+    .xz-header:hover {
+        max-height: 150px;
+    }
+}

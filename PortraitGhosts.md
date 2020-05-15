@@ -19,11 +19,11 @@ title: 绘画鬼怪一览
 | 乃奈 | ババーラ | Nana | <span class="ghostPhoto" style="background-position: 0 -768px;"></span> | 76 | 织围巾的老妇人 | 即使成为了鬼怪也在继续<br>编制围巾。已经织好的<br>围巾总共有８００米长。 |
 | 泰丘 | ポール・ロング | Slim Bankshot | <span class="ghostPhoto" style="background-position: 0 -832px;"></span> | 29 | 孤独的选手 | 台球界的大师。<br>被称作传说的选手，<br>但实际上没有和人比试过。 |
 | 沃祥和渥耀 | ウォンとテッド | Henry and Orville | <span class="ghostPhoto" style="background-position: 0 -896px;"></span> | 5 | 双胞胎兄弟 | 总是在两个人一起玩捉迷藏。<br>但因为两个人都躲起来了，<br>游戏总是无法结束。 |
-| 巨大嘘嘘鬼 | ジャンボテレサ | Boolossus | <span class="ghostPhoto" style="background-position: 0 -960px;"></span> | ??? | 巨大鬼怪 | 害羞而又弱小的嘘嘘鬼聚在了一起，<br>体型变得庞大了，<br>胆量也变大了。 |
+| 巨大害羞幽灵 | ジャンボテレサ | Boolossus | <span class="ghostPhoto" style="background-position: 0 -960px;"></span> | ??? | 巨大鬼怪 | 害羞而又弱小的害羞幽灵聚在了一起，<br>体型变得庞大了，<br>胆量也变大了。 |
 | 冠梓 | ツボーン | Jarvis | <span class="ghostPhoto" style="background-position: 0 -1024px;"></span> | ??? | 罐中鬼怪 | 喜欢收集古董，<br>于是住在了收集的罐子里。<br>上厕所要如何解决是一个谜。 |
 | 胡鲁 | スー・ピー | Sue Pea | <span class="ghostPhoto" style="background-position: 0 -1088px;"></span> | 7 | 织梦少女 | 本来是想在书本旁边小睡一会，<br>然而睡得太沉<br>以致于一直睡了下去。 |
 | 华甲 | セニョール・プジイ | Van Gore | <span class="ghostPhoto" style="background-position: 0 -1152px;"></span> | 59 | 画作滞销画家 | ３０年来一幅画作都没卖出去，<br>然而还在继续绘制鬼怪的画。<br>性情顽固的老头，死也不放弃。 |
 | 安夫 | ヤミノフ | Uncle Grimmly | <span class="ghostPhoto" style="background-position: 0 -1216px;"></span> | 45 | 黑暗的居民 | 在黑暗中藏身的男子，<br>绝对不说一句话。<br>其经历也隐藏在黑暗中。 |
 | 亏雷兵 | パペットアーミー | Clockwork Soldiers | <span class="ghostPhoto" style="background-position: 0 -1280px;"></span> | ??? | 玩具军队 | 旧房子的主人收集的玩具<br>聚集起来并寄居了灵魂<br>因而产生的鬼怪。 |
 | 薛杉 | アルプ | Sir Weston | <span class="ghostPhoto" style="background-position: 0 -1344px;"></span> | 30 | 寒冷的登山者 | 不知道为什么会在洋馆的房间里<br>收集冰块的奇怪男子。<br>对于鬼怪来说太热了。 |
-| 嘘嘘鬼王 | キングテレサ | King Boo | <span class="ghostPhoto" style="background-position: 0 -1408px;"></span> | ??? | 嘘嘘鬼之王 | 戴着王冠的巨大的嘘嘘鬼。<br>领导着其它的嘘嘘鬼们<br>正在筹划一些坏事。 |
+| 害羞幽灵王 | キングテレサ | King Boo | <span class="ghostPhoto" style="background-position: 0 -1408px;"></span> | ??? | 害羞幽灵之王 | 戴着王冠的巨大的害羞幽灵。<br>领导着其它的害羞幽灵们<br>正在筹划一些坏事。 |

@@ -8,6 +8,10 @@ body {
     box-shadow: none;
 }
 
+.xz-content-main article > * {
+    overflow-x: initial;
+}
+
 #journalTitleBox {
     position: relative;
     margin-bottom: 50px;
