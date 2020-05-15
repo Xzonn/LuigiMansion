@@ -163,7 +163,7 @@ def exportFile(gmsgPath, markdownPath):
     f.write("<style> .color-0001 { color: #39BE39; }  .color-0002 { color: #FF6942; }  .color-0003 { color: #FF9E18; } </style>\n| 编号 | 文本 |\n| --- | --- |\n")
     for i in range(entryCount):
         ID, unknown, offset, length = struct.unpack("<4I", data[startPos + i * 0x10 : startPos + i * 0x10 + 0x10])
-        byteString = data[offset: offset + length]
+        byteString = data[offset : offset + length]
         string = BytesToString(byteString)
         f.write("| %s | %s |\n" % (hex(ID), string))
 
@@ -178,6 +178,7 @@ def importFile(gmsgPath, markdownPath, outputPath):
     with open(gmsgPath, "rb") as f:
         data = list(f.read())
     entryCount, startPos = struct.unpack("<II", bytes(data[0x0C : 0x14]))
+    newOffset, = struct.unpack("<I", bytes(data[startPos + 0x08 : startPos + 0x0C]))
     for i in range(entryCount):
         ID, unknown, offset, length = struct.unpack("<4I", bytes(data[startPos + i * 0x10 : startPos + i * 0x10 + 0x10]))
         assert ID in text
@@ -186,11 +187,12 @@ def importFile(gmsgPath, markdownPath, outputPath):
         byteString = list(StringToBytes(string))
 
         newLength = len(byteString)
-        if newLength > length:
-            raise ValueError("Too long: " + text[ID])
-        data[offset : offset + newLength] = byteString
-        newHeadInfo = struct.pack("<4I", ID, unknown, offset, newLength)
+        data[newOffset : newOffset + newLength] = byteString
+        newHeadInfo = struct.pack("<4I", ID, unknown, newOffset, newLength)
         data[startPos + i * 0x10 : startPos + i * 0x10 + 0x10] = newHeadInfo
+        newOffset += newLength
+        if newOffset % 4 > 0:
+            newOffset += 4 - newOffset % 4
 
     with open(outputPath, "wb") as f:
         f.write(bytes(data))
