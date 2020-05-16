@@ -2,7 +2,7 @@
     margin-top: 3.5px;
     width: 126px;
     height: 43px;
-    background: url(./images/button.png);
+    background: url(https://file.moetu.org/images/2020/05/16/1b469224cca4c53ef2c72edae5e12b01d32e6e5d142d4212.png);
     background-size: 100% 200%;
     text-align: center;
 }
@@ -119,7 +119,7 @@ div.ghostPhoto {
     position: absolute;
     width: 64px;
     height: 64px;
-    background: url(./images/ghostsDex.png);
+    background: url(https://file.moetu.org/images/2020/05/16/1e0f3558a405bdfc16e75a9c40c06dcaed9184815ef41d0e.png);
 }
 
 div.ghostPhoto:first-child {
@@ -142,7 +142,7 @@ span.ghostPhoto {
     display: block;
     width: 256px;
     height: 64px;
-    background: url(./images/ghostsDex.png);
+    background: url(https://file.moetu.org/images/2020/05/16/1e0f3558a405bdfc16e75a9c40c06dcaed9184815ef41d0e.png);
 }
 
 .ghostTitle {

@@ -15,7 +15,7 @@ permalink: /
           </tr>
       </thead>
       <tbody>
-          <tr><td class="infoTableImage" colspan="2"><img src="https://images-na.ssl-images-amazon.com/images/I/61A3BFk9bYL.jpg" alt="日本发行版游戏封面|none"></td></tr>
+          <tr><td class="infoTableImage" colspan="2"><img src="https://file.moetu.org/images/2020/05/16/ce2bf2658068ebd84eae751b5afce47e526a8a0b6793ced7.jpg" alt="日本发行版游戏封面|none"></td></tr>
           <tr><th>开发商</th><td>GREZZO</td></tr>
           <tr><th>发行商</th><td>任天堂</td></tr>
           <tr><th>平台</th><td>任天堂 3DS</td></tr>
@@ -41,12 +41,15 @@ permalink: /
 - 改定了两处译名：哎呦·喂 → 哎哟·喂（官译如此，之前是我打错了）；嘘嘘鬼 → 害羞幽灵（新官译，即繁中译名简体化）。
 - 根据上述译名更改，同时修改了害羞幽灵的名字：嘘嘘某 → 害羞某，此外根据《路易吉洋馆2／3》的官译修改了<span lang="ja">テレワン</span>到<span lang="ja">テレジュ</span>的译名：谐音 → 原意（嘘嘘艺 → 害羞一号）。
 - 去除了哎哟·喂博士登场时附加的说明文本。
+- 微调了字库的样式。
 
 此外，文本导入导出工具以GPL-3.0协议开源并发布在GitHub上，采用Python 3.0编写，导出格式为markdown（因为方便预览）。您可以修改并用于其他用途，只要遵守GPL-3.0协议（开源）即可。链接：<https://github.com/Xzonn/LuigiMansion/blob/master/Text.py>。本人仅测试了《路易吉洋馆》日文版的文本文件（main.gmsg），不保证在其他语言版本或其他游戏的文本文件中可用。
 
 请确认您的Luma版本为最新版（<https://github.com/LumaTeam/Luma3DS/releases/latest>），且已在设置中开启“Enable game patching”（允许游戏补丁）选项。
 
 将本补丁的“luma”文件夹解压到SD卡的根目录即可使用。如提示合并或覆盖，均选择确认。
+
+另外，我个人不是很喜欢“路易吉鬼屋”这个译名，因为原名里面没有“鬼”这个要素。而且，这个游戏也不是恐怖游戏。
 
 关于版权和使用的说明请参考下文。
 
@@ -126,10 +129,10 @@ permalink: /
 
 ## 汉化预览
 <div class="row">
-  <div class="col-sm-6"><img src="./images/screenshot-1.png" alt="标题界面"/></div>
-  <div class="col-sm-6"><img src="./images/screenshot-2.png" alt="存档选择界面"/></div>
-  <div class="col-sm-6"><img src="./images/screenshot-3.png" alt="实验室界面"/></div>
-  <div class="col-sm-6"><img src="./images/screenshot-4.png" alt="游戏界面"/></div>
+  <div class="col-sm-6"><img src="https://file.moetu.org/images/2020/05/16/9e0dadd8dcb3f8e7fc31ea2d4ab69284e4bb926f60c038e9.png" alt="标题界面"/></div>
+  <div class="col-sm-6"><img src="https://file.moetu.org/images/2020/05/16/eb35c92e62d24e6792062ecc5ef88e7933cb057e36045563.png" alt="存档选择界面"/></div>
+  <div class="col-sm-6"><img src="https://file.moetu.org/images/2020/05/16/2c26eac8a2e45f5f9d18dfb2b1ee0e98e8f271bdb0d3d789.png" alt="实验室界面"/></div>
+  <div class="col-sm-6"><img src="https://file.moetu.org/images/2020/05/16/14d1290b462d4fb72a46efa79bc166286464b431c6617dea.png" alt="游戏界面"/></div>
 </div>
 
 <div class="bilibiliBox" data-aid="45332875" data-page="1"></div>

@@ -2,6 +2,8 @@
 layout: default
 title: 绘画鬼怪一览
 ---
+![绘画鬼怪](https://file.moetu.org/images/2020/05/16/5ae49c0a003f7e2d29dade05606f58b44c547865d845acd3.png)
+
 | 中文 | 日文 | 英文 | 画像 | 年龄 | 称号 | 简介 |
 | --- | --- | --- | --- | --- | --- | :--- |
 | [巴霸](./Area-1.html#ghostBox-0) | パパーラ | Neville | <span class="ghostPhoto" style="background-position: 0 0;"></span> | 42 | 爱读书的爸爸 | 喜爱读书，即使成为了鬼怪<br>也在继续读着生前读过的书。<br>生前曾是一位小说家。 |

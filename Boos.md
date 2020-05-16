@@ -2,7 +2,7 @@
 layout: default
 title: 害羞幽灵一览
 ---
-![全部害羞幽灵](images/boos.png)
+![全部害羞幽灵](https://file.moetu.org/images/2020/05/16/f8b516c0649dd203cb79fa81a8d0d8c6b5b7e9879e27d9c0.png)
 
 | 中文 | 日文 | 英文 | 地点 | 对话 |
 | --- | --- | --- | --- | --- |

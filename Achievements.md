@@ -2,7 +2,7 @@
 layout: default
 title: 成就一览
 ---
-![路易吉在确认成就](images/achievements.png)
+![路易吉在确认成就](https://file.moetu.org/images/2020/05/16/d1aa6bcf8fbf5942d67a27b24720722babf271e073b9ab9f.png)
 
 ## 入门
 
