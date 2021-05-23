@@ -1,3 +1,11 @@
+author: Xzonn
+cdnpath: https://cdn.jsdelivr.net/gh/Xzonn/xzonn.github.io@master
+defaults:
+  - values:
+      base_css: "base"
+      layout: "default"
+      head_image_width: 1280
+      head_image_height: 720
 name: 3DS游戏《路易吉洋馆》专题站
 plugins:
   - jekyll-sitemap
