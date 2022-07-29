@@ -62,7 +62,7 @@ permalink: /
 
 感谢任天堂和 GREZZO 开发了这么有趣的游戏，感谢神游 iQue 对《路易吉洋馆２》中文本地化作出的贡献。“哎哟·喂”、“鬼怪吸尘器”等译名均使用了神游制定的官方译名。
 
-感谢 [IcySon55](https://github.com/IcySon55) 等人开发的 [Kuriimu](https://github.com/IcySon55/Kuriimu) 项目对本人研究文本、字库提供了思路。如果您对本作的文件格式有兴趣，可以参考 **[这篇文章](https://xzonn.github.io/Luigi-Mansion-Chinese-Localization/)**。
+感谢 [IcySon55](https://github.com/IcySon55) 等人开发的 [Kuriimu](https://github.com/IcySon55/Kuriimu) 项目对本人研究文本、字库提供了思路。如果您对本作的文件格式有兴趣，可以参考 **[这篇文章](https://xzonn.top/posts/Luigi-Mansion-Chinese-Localization.html)**。
 
 由于版权问题，本人汉化发布仅提供 Luma 重定向补丁。如需使用，请将压缩文件内的全部文件 **直接** 解压到 SD 卡的根目录下。
 
