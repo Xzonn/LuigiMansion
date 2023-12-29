@@ -7,7 +7,7 @@ refLink: http://www.a-suma.com/old/guide/lm/guide-erea3.htm
 {% include prevNext.html prevLink="./Area-2.html" prev="区域２" self="区域３" %}
 
 ## 视频流程
-<div class="bilibiliBox" data-aid="47731592" data-page="1"></div>
+{% include video.html aid="47731592" page="1" %}
 
 ## 区域３地图
 ### １Ｆ

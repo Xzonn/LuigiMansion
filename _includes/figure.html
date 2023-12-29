@@ -1,5 +1,9 @@
-{{ include.blank }}<figure{% if include.class %} class="{{ include.class }}"{% endif %}>
-{{ include.blank }}    <img class="figure-image lazy" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%3E%3C%2Fsvg%3E" data-src="{{ include.src }}" width="{{ include.width | default: 640 }}" height="{{ include.height | default: 360 }}" style="aspect-ratio: {{ include.width | default: 640 }}/{{ include.height | default: 360 }};" {% if include.alt %} alt="{{ include.alt }}"{% endif %} />{% unless include.no_link %}
-{{ include.blank }}    <a class="figure-link" target="_blank" href="{{ include.src }}"></a>{% endunless %}{% if include.alt %}
-{{ include.blank }}    <figcaption class="caption-figure" id="figure-{% assign src_array = include.src | split: "/" %}{{ src_array.last}}">{{ include.alt }}</figcaption>{% endif %}
+{{ include.blank }}<figure{% if include.class %} class="{{ include.class }}"{% endif %}>{% assign _srcs = include.src | split: "|" %}{% if _srcs.size > 1 %}{% assign _widths = include.width | split: "|" %}{% assign _heights = include.height | split: "|" %}{% assign _links = include.link | split: "|" %}
+{{ include.blank }}  <div class="figure-row">{% for src in _srcs %}{% assign width = _widths[forloop.index0] | default: width %}{% assign height = _heights[forloop.index0] | default: height %}
+{{ include.blank }}    {% include image.html class="figure-image" src=src alt=include.alt width=width height=height %}{% endfor %}
+{{ include.blank }}  </div>{% unless include.no_link %}{% for src in _srcs %}{% assign link = _links[forloop.index0] | default: link %}
+{{ include.blank }}  <a class="figure-link" target="_blank" href="{{ link | default: _src | default: src }}"></a>{% endfor %}{% endunless %}{% else %}
+{{ include.blank }}  {% include image.html class="figure-image" src=include.src alt=include.alt width=include.width height=include.height %}{% unless include.no_link %}
+{{ include.blank }}  <a class="figure-link" target="_blank" href="{{ include.link | default: _src | default: include.src }}"></a>{% endunless %}{% endif %}{% if include.alt %}
+{{ include.blank }}  <figcaption class="caption-figure" id="figure-{% assign _src_array = include.src | split: "/" %}{{ _src_array.last}}">{{ include.alt }}</figcaption>{% endif %}
 {{ include.blank }}</figure>

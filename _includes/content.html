@@ -1,8 +1,7 @@
         <!-- Common Content Start -->
         <div class="xz-content container">
             <div class="row">
-                <div class="xz-content-main col-md-{% if page.no_sidenav %}12{% else %}9{% endif %}">{% if page.head_image %}
-{% include figure.html blank="                    " src=page.head_image alt=page.title width=page.head_image_width height=page.head_image_height no_link=true %}{% endif %}
+                <div class="xz-content-main col-md-12">
                     <article>
 {{ content | replace: '<a href="http', '<a target="_blank" href="http' }}
                     </article>{% if page.sources or page.references or page.links or page.logs %}
@@ -31,17 +30,12 @@
                                 <li>{{ log }}</li>{% endfor %}
                             </ul>
                         </div>{% endif %}
-                    </div>{% endif %}{% unless page.no_ad %}
-                    <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-8317643192080236" data-ad-slot="8544171099"></ins>
-                    <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script>{% endunless %}{% unless jekyll.environment == "development" or page.no_comment %}
-                    <div class="xz-content-comment hidden-print">
-                        <div id="lv-container" data-id="city" data-uid="MTAyMC80MTk5MS8xODUzOA=="></div>
-                        <script src="https://cdn-city.livere.com/js/embed.dist.js" async="async"></script>
+                    </div>{% endif %}{% unless jekyll.environment == "development" or page.no_comment %}
+                    <div class="xz-content-comment d-print-none">
+                        <div class="alert alert-info text-center">如果需要在留言中发布图片，请前往<a href="https://github.com/Xzonn/xzonn.github.io/discussions/">GitHub上的Discussions</a>。您也可以通过<a href="https://space.bilibili.com/16114399">bilibili</a>的私信功能与我联系。</div>
+                        <script src="https://giscus.app/client.js" data-repo="Xzonn/LuigiMansion" data-repo-id="MDEwOlJlcG9zaXRvcnkxNTk5MjE5ODU=" data-category="General" data-category-id="DIC_kwDOCYg3Qc4CcEeX" data-mapping="specific" data-term="{{ page.title | default: site.name }}" data-strict="1" data-reactions-enabled="1" data-emit-metadata="0" data-input-position="top" data-theme="preferred_color_scheme" data-lang="zh-CN" data-loading="lazy" crossorigin="anonymous" async></script>
                     </div>{% endunless %}
-                </div>{% unless page.no_sidenav %}
-                <div class="xz-sidenav col-md-3 hidden-print hidden-xs hidden-sm" role="complementary">
-                    <ul class="xz-sidenav-list nav nav-stacked" role="navigation"></ul>
-                </div>{% endunless %}
+                </div>
             </div>
         </div>
         <!-- Common Content End -->

@@ -2,7 +2,7 @@
 layout: default
 title: 绘画鬼怪一览
 ---
-![绘画鬼怪](https://file.moetu.org/images/2020/05/16/5ae49c0a003f7e2d29dade05606f58b44c547865d845acd3.png)
+{% include figure.html alt="绘画鬼怪" src="5ae49c0a003f7e2d29dade05606f58b4.png" %}
 
 | 中文 | 日文 | 英文 | 画像 | 年龄 | 称号 | 简介 |
 | --- | --- | --- | --- | --- | --- | :--- |
@@ -29,3 +29,4 @@ title: 绘画鬼怪一览
 | 亏雷兵 | パペットアーミー | Clockwork Soldiers | <span class="ghostPhoto" style="background-position: 0 -1280px;"></span> | ??? | 玩具军队 | 旧房子的主人收集的玩具<br>聚集起来并寄居了灵魂<br>因而产生的鬼怪。 |
 | 薛杉 | アルプ | Sir Weston | <span class="ghostPhoto" style="background-position: 0 -1344px;"></span> | 30 | 寒冷的登山者 | 不知道为什么会在洋馆的房间里<br>收集冰块的奇怪男子。<br>对于鬼怪来说太热了。 |
 | 害羞幽灵王 | キングテレサ | King Boo | <span class="ghostPhoto" style="background-position: 0 -1408px;"></span> | ??? | 害羞幽灵之王 | 戴着王冠的巨大的害羞幽灵。<br>领导着其它的害羞幽灵们<br>正在筹划一些坏事。 |
+{: .table }

@@ -7,9 +7,9 @@ refLink: http://www.a-suma.com/old/guide/lm/guide-erea1.htm
 {% include prevNext.html self="区域１" next="区域２" nextLink="./Area-2.html" %}
 
 ## 视频流程
-<div class="bilibiliBox" data-aid="45332875" data-page="1"></div>
+{% include video.html aid="45332875" page="1" %}
 
-<div class="bilibiliBox" data-aid="46471402" data-page="1"></div>
+{% include video.html aid="46471402" page="1" %}
 
 ## 探索区域１前
 - 开始游戏前，进行必要的设置。

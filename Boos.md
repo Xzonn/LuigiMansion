@@ -2,7 +2,7 @@
 layout: default
 title: 害羞幽灵一览
 ---
-![全部害羞幽灵](https://file.moetu.org/images/2020/05/16/f8b516c0649dd203cb79fa81a8d0d8c6b5b7e9879e27d9c0.png)
+{% include figure.html alt="全部害羞幽灵" src="f8b516c0649dd203cb79fa81a8d0d8c6.png" %}
 
 | 中文 | 日文 | 英文 | 地点 | 对话 |
 | --- | --- | --- | --- | --- |
@@ -41,3 +41,4 @@ title: 害羞幽灵一览
 | 害羞总 | テレーゾ | Booripedes  | 地下仓库 | 我是害羞总。一决胜负吧！ |
 | 害羞噗 | テレブー | Booffant  | 管道室 | 我是害羞噗！稍微等一下。 |
 | 害羞努 | テレーヌ | Boo B. Hatch  | 配电室 | 在下是害羞努！ |
+{: .table }

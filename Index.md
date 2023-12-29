@@ -15,7 +15,7 @@ permalink: /
           </tr>
       </thead>
       <tbody>
-          <tr><td class="infoTableImage" colspan="2"><img src="https://file.moetu.org/images/2020/05/16/ce2bf2658068ebd84eae751b5afce47e526a8a0b6793ced7.jpg" alt="日本发行版游戏封面|none"></td></tr>
+          <tr><td class="infoTableImage" colspan="2">{% include image.html src="ce2bf2658068ebd84eae751b5afce47e.jpg" alt="日本发行版游戏封面" width="1094" height="1000" %}</td></tr>
           <tr><th>开发商</th><td>GREZZO</td></tr>
           <tr><th>发行商</th><td>任天堂</td></tr>
           <tr><th>平台</th><td>任天堂 3DS</td></tr>
@@ -133,13 +133,13 @@ permalink: /
 
 ## 汉化预览
 <div class="row">
-  <div class="col-sm-6"><img src="https://file.moetu.org/images/2020/05/16/9e0dadd8dcb3f8e7fc31ea2d4ab69284e4bb926f60c038e9.png" alt="标题界面"/></div>
-  <div class="col-sm-6"><img src="https://file.moetu.org/images/2020/05/16/eb35c92e62d24e6792062ecc5ef88e7933cb057e36045563.png" alt="存档选择界面"/></div>
-  <div class="col-sm-6"><img src="https://file.moetu.org/images/2020/05/16/2c26eac8a2e45f5f9d18dfb2b1ee0e98e8f271bdb0d3d789.png" alt="实验室界面"/></div>
-  <div class="col-sm-6"><img src="https://file.moetu.org/images/2020/05/16/14d1290b462d4fb72a46efa79bc166286464b431c6617dea.png" alt="游戏界面"/></div>
+  <div class="col-sm-6">{% include figure.html src="9e0dadd8dcb3f8e7fc31ea2d4ab69284.png" alt="标题界面" %}</div>
+  <div class="col-sm-6">{% include figure.html src="eb35c92e62d24e6792062ecc5ef88e79.png" alt="存档选择界面" %}</div>
+  <div class="col-sm-6">{% include figure.html src="2c26eac8a2e45f5f9d18dfb2b1ee0e98.png" alt="实验室界面" %}</div>
+  <div class="col-sm-6">{% include figure.html src="14d1290b462d4fb72a46efa79bc16628.png" alt="游戏界面" %}</div>
 </div>
 
-<div class="bilibiliBox" data-aid="45332875" data-page="1"></div>
+{% include video.html aid="45332875" page="1" %}
 
 ## 游戏介绍
 《**路易吉洋馆**》是 2018 年 11 月 8 日于日本发行的任天堂 3DS 游戏。该游戏是 GameCube 游戏《路易吉洋馆》的重制版，在原版的基础上加入了闪光灯、Amiibo、双人游玩等元素。其续作《**路易吉洋馆2**》（繁体：《**路易吉洋樓2**》，日文：『<strong lang="ja">ルイージマンション２</strong>』）于 2013 年发售，港台版自带简繁中文支持。
