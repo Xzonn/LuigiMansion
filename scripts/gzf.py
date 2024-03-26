@@ -136,13 +136,16 @@ class GZF:
     self.data = bytearray(data)
 
     assert self.data[0x00:0x04] == b"GZFX"
-    self.version, self.image_header_offset, self.image_len, self.entry_len = struct.unpack(
-        "<IHHI", self.data[0x04:0x10])
-    self.image_num, self.entry_num, self.unk2, format = struct.unpack("<IIII", self.data[0x10:0x20])
+    self.version, self.image_header_offset, self.image_len, self.entry_len, unk1 = struct.unpack(
+        "<IHHHH", self.data[0x04:0x10])
+    self.image_num, self.entry_num, unk2, format = struct.unpack("<IIII", self.data[0x10:0x20])
     self.font_size, self.unk4, self.unk5, self.tile_width, self.tile_height, unk8, unk9 = struct.unpack(
         "<HHHHHHI", self.data[0x20:0x30])
 
+    assert self.image_len == 0x08
     assert self.entry_len == 0x0C
+    assert unk1 == 0
+    assert unk2 == 0xff0a
     assert unk8 == 0
     assert unk9 == 0
 
@@ -172,7 +175,6 @@ class GZF:
         "entry_len": self.entry_len,
         "image_num": self.image_num,
         "entry_num": self.entry_num,
-        "unk2": self.unk2,
         "format": self.format.value,
         "font_size": self.font_size,
         "unk4": self.unk4,
@@ -185,16 +187,17 @@ class GZF:
 
   def get_bytes(self) -> bytes:
     header = struct.pack(
-        "<IHHI",
+        "<IHHHH",
         self.version,
         self.image_header_offset,
         self.image_len,
         self.entry_len,
+        0,
     ) + struct.pack(
         "<IIII",
         self.image_num,
         self.entry_num,
-        self.unk2,
+        0xff0a,
         self.format.value,
     ) + struct.pack(
         "<HHHHHHI",

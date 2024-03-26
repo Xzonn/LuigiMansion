@@ -162,14 +162,14 @@ def string_to_bytes(string_data: str) -> bytes:
 def convert_gmsg_to_markdown(gmsg_path: str, markdown_path: str):
   with open(gmsg_path, "rb") as reader:
     data = reader.read()
-  entry_num, startPos = struct.unpack("<II", data[0x0C:0x14])
+  entry_num, start_pos = struct.unpack("<II", data[0x0C:0x14])
 
   with open(markdown_path, "w", encoding="utf-8") as writer:
     writer.write(
         "<style> .color-0001 { color: #39BE39; }  .color-0002 { color: #FF6942; }  .color-0003 { color: #FF9E18; } </style>\n| ID | TEXT |\n| --- | --- |\n"
     )
     for i in range(entry_num):
-      id, unknown, offset, length = struct.unpack("<4I", data[startPos + i * 0x10:startPos + i * 0x10 + 0x10])
+      id, unknown, offset, length = struct.unpack("<4I", data[start_pos + i * 0x10:start_pos + i * 0x10 + 0x10])
       bytes_data = data[offset:offset + length]
       string_data = bytes_to_string(bytes_data)
       writer.write(f"| 0x{id:04x} | {string_data} |\n")
