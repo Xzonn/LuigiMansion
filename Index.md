@@ -27,8 +27,8 @@ permalink: /
 </div>
 
 ## 发布链接
-- Github：[https://github.com/Xzonn/LuigiMansion/releases/latest/](https://github.com/Xzonn/LuigiMansion/releases/latest/)。
-- 百度网盘：[https://pan.baidu.com/s/1wlbfWbSADaq5loOgv248Og](https://pan.baidu.com/s/1wlbfWbSADaq5loOgv248Og)（08mw）。
+- Github：<https://github.com/Xzonn/LuigiMansion/releases/latest/>。
+- 百度网盘：<https://pan.baidu.com/s/1K0SGpa06FCaaWQPbhuQXYg?pwd=lm3d>。
 {: .text-left }
 
 ## 1.0版汉化说明
@@ -110,26 +110,6 @@ permalink: /
   - 修改了部分字符的字体。
 - 0.9.0（2019/03/24）：
   - 此为最初版本。
-
-## 常见问题
-- Q：我不想读下面这么多字，怎么办？
-  - A：最重要的三句：我不会发布 .3ds/.cia 格式的文件，更新了百度网盘链接，转载请至少保留发布者的名字。
-- Q：能否发布 .3ds/.cia 格式？
-  - A：很明确地告诉您，现在不会发布，以后也不会。原因请见发布说明的最后一句话。如有需求请自行制作，或求助于他人。
-- Q：我在安装 .cia 文件时出现了错误，应该怎么办？
-  - A：我不知道。我本人没有发布过 .cia 格式，请自行询问发布者。
-- Q：Luma 重定向补丁适用于什么版本的游戏？
-  - A：抱歉，我忘记在最初的发布说明中提到了。此补丁用于日本发行版游戏，Title ID 为 00040000001D1800。
-- Q：我该如何获取游戏本体？
-  - A：实体版可以[在日本亚马逊上购买](https://www.amazon.co.jp/gp/product/B07HC5JW8H)，下载版可以[在任天堂官网购买](https://www.nintendo.co.jp/titles/50010000046735)。
-- Q：我在 Github 上下载速度较慢，请问可否提供其它链接？
-  - A：抱歉，我最初发布时没有考虑到这点。我已经补充了[百度网盘的链接](https://pan.baidu.com/s/1wlbfWbSADaq5loOgv248Og)，提取码为`08mw`。
-- Q：我在安装 Luma 重定向补丁后打开游戏报错，请问是怎么回事？
-  - A：根据目前我掌握的消息，这可能是由于您的 Luma 版本是不稳定的开发版。经测试，原作者发布的 [v9.1](https://github.com/AuroraWright/Luma3DS/releases/tag/v9.1) 版可以正常运行，[luma-hourlies](https://github.com/hax0kartik/luma-hourlies) 项目编译的 [90-luma3ds-bd15f51](https://github.com/hax0kartik/luma-hourlies/releases/tag/90-luma3ds-bd15f51) 版也可以正常运行。如果您对 Luma 不是很了解，请尝试替换为上述两个版本之一。（替换方式：下载文件，将`boot.firm`拷贝到 SD 卡根目录下，覆盖原有文件即可）
-- Q：我安装了 Luma 重定向补丁，但打开游戏仍为日文，请问是怎么回事？
-  - A：请在 3DS 主机开机时按住<kbd>SELECT</kbd>键，如果直接进入 3DS 界面，说明您没有安装 Luma，请自行查找教程安装。如果出现设置界面，请检查 Luma 版本是否高于 7.0（如果您不确定 Luma 版本，请替换为上一条链接中的两个版本之一）。如果版本无误，请勾选“`Enable game patching`”。设置完毕后按<kbd>START</kbd>保存。
-- Q：是否可以转载此汉化？
-  - A：欢迎转载，但建议您保留发布者信息、发布说明和更新地址，以便我及时得到反馈。如果条件不允许，请至少保留汉化者的名字（Xzonn），这是对我最基本的尊重，谢谢配合。当然，不保留发布者信息直接转载者，我也没有办法，只能在之后的发布说明中将您的名字写到这里。
 
 ## 汉化预览
 <div class="row">
